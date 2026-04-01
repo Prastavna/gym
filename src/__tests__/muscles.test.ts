@@ -10,6 +10,7 @@ describe("muscles data", () => {
     for (const muscle of muscles) {
       expect(muscle.id).toBeTruthy();
       expect(muscle.name).toBeTruthy();
+      expect(muscle.commonName).toBeTruthy();
       expect(muscle.exercises.length).toBeGreaterThan(0);
       expect(muscle.region).toBeTruthy();
     }

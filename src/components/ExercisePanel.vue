@@ -3,6 +3,7 @@ import type { Exercise } from "../data/muscles";
 
 defineProps<{
   muscleName: string | null;
+  commonName: string | null;
   exercises: Exercise[];
 }>();
 
@@ -17,10 +18,11 @@ const badgeColor = (d: Exercise["difficulty"]) =>
 <template>
   <div class="h-full p-6 overflow-y-auto">
     <div v-if="!muscleName" class="flex items-center justify-center h-full text-gray-400 text-lg">
-      Hover over a muscle to see exercises
+      Click on a muscle to see exercises
     </div>
     <div v-else>
-      <h2 class="text-2xl font-bold text-gray-800 mb-4">{{ muscleName }}</h2>
+      <h2 class="text-2xl font-bold text-gray-800">{{ commonName }}</h2>
+      <p class="text-sm text-gray-500 mb-4">{{ muscleName }}</p>
       <div class="space-y-4">
         <div
           v-for="exercise in exercises"

@@ -4,11 +4,13 @@ import type { Muscle } from "../data/muscles";
 const props = defineProps<{
   muscles: Muscle[];
   activeMuscle: string | null;
+  hoveredMuscle: string | null;
   debug?: boolean;
 }>();
 
 const emit = defineEmits<{
   hover: [muscleId: string | null];
+  select: [muscleId: string];
 }>();
 </script>
 
@@ -23,11 +25,19 @@ const emit = defineEmits<{
       :key="muscle.id"
       :points="muscle.overlay"
       :data-muscle="muscle.id"
-      :class="['muscle-zone', { active: activeMuscle === muscle.id, debug: props.debug }]"
+      :class="[
+        'muscle-zone',
+        {
+          active: activeMuscle === muscle.id,
+          hovered: hoveredMuscle === muscle.id,
+          debug: props.debug,
+        },
+      ]"
       @mouseenter="emit('hover', muscle.id)"
       @mouseleave="emit('hover', null)"
+      @click="emit('select', muscle.id)"
     >
-      <title>{{ muscle.name }}</title>
+      <title>{{ muscle.commonName }} ({{ muscle.name }})</title>
     </polygon>
   </svg>
 </template>
@@ -41,7 +51,11 @@ const emit = defineEmits<{
     fill 0.2s,
     stroke 0.2s;
 }
-.muscle-zone:hover,
+.muscle-zone.hovered {
+  fill: rgba(59, 130, 246, 0.15);
+  stroke: rgba(59, 130, 246, 0.4);
+  stroke-width: 0.5;
+}
 .muscle-zone.active {
   fill: rgba(59, 130, 246, 0.3);
   stroke: rgba(59, 130, 246, 0.7);

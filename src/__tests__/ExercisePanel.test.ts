@@ -11,20 +11,23 @@ const sampleExercises: Exercise[] = [
 
 describe("ExercisePanel", () => {
   it("shows placeholder when no muscle is selected", () => {
-    const wrapper = mount(ExercisePanel, { props: { muscleName: null, exercises: [] } });
-    expect(wrapper.text()).toContain("Hover over a muscle");
+    const wrapper = mount(ExercisePanel, {
+      props: { muscleName: null, commonName: null, exercises: [] },
+    });
+    expect(wrapper.text()).toContain("Click on a muscle");
   });
 
-  it("displays muscle name when provided", () => {
+  it("displays muscle name and common name when provided", () => {
     const wrapper = mount(ExercisePanel, {
-      props: { muscleName: "Pectoralis Major", exercises: sampleExercises },
+      props: { muscleName: "Pectoralis Major", commonName: "Chest", exercises: sampleExercises },
     });
+    expect(wrapper.text()).toContain("Chest");
     expect(wrapper.text()).toContain("Pectoralis Major");
   });
 
   it("renders all exercises", () => {
     const wrapper = mount(ExercisePanel, {
-      props: { muscleName: "Pectoralis Major", exercises: sampleExercises },
+      props: { muscleName: "Pectoralis Major", commonName: "Chest", exercises: sampleExercises },
     });
     expect(wrapper.text()).toContain("Bench Press");
     expect(wrapper.text()).toContain("Push-Ups");
@@ -32,7 +35,7 @@ describe("ExercisePanel", () => {
 
   it("shows difficulty badges", () => {
     const wrapper = mount(ExercisePanel, {
-      props: { muscleName: "Test", exercises: sampleExercises },
+      props: { muscleName: "Test", commonName: "Test", exercises: sampleExercises },
     });
     expect(wrapper.text()).toContain("intermediate");
     expect(wrapper.text()).toContain("beginner");

@@ -7,6 +7,7 @@ export interface Exercise {
 export interface Muscle {
   id: string;
   name: string;
+  commonName: string;
   region: "front" | "back";
   /** SVG overlay polygon points relative to viewBox 0 0 407 355 */
   overlay: string;
@@ -17,6 +18,7 @@ export const muscles: Muscle[] = [
   {
     id: "pectorals",
     name: "Pectoralis Major",
+    commonName: "Chest",
     region: "front",
     overlay: "77,65 127,65 127,95 77,95",
     exercises: [
@@ -37,11 +39,28 @@ export const muscles: Muscle[] = [
           "Lie on bench with dumbbells above chest, lower arms in arc to sides, squeeze back up.",
         difficulty: "intermediate",
       },
+      {
+        name: "Incline Bench Press",
+        description: "Press barbell on a 30-45 degree incline bench to target upper chest.",
+        difficulty: "intermediate",
+      },
+      {
+        name: "Cable Crossovers",
+        description:
+          "Stand between cable pulleys, bring handles together in front of chest in a hugging motion.",
+        difficulty: "intermediate",
+      },
+      {
+        name: "Chest Dips",
+        description: "Lean forward on parallel bars, lower body by bending elbows, press back up.",
+        difficulty: "advanced",
+      },
     ],
   },
   {
     id: "deltoids",
     name: "Deltoids",
+    commonName: "Shoulders",
     region: "front",
     overlay: "62,55 77,55 77,85 62,85",
     exercises: [
@@ -60,11 +79,29 @@ export const muscles: Muscle[] = [
         description: "Raise dumbbells in front of you to shoulder height.",
         difficulty: "beginner",
       },
+      {
+        name: "Arnold Press",
+        description:
+          "Start with palms facing you, rotate outward while pressing dumbbells overhead.",
+        difficulty: "intermediate",
+      },
+      {
+        name: "Reverse Pec Deck",
+        description: "Sit facing the machine pad, push handles backward squeezing rear delts.",
+        difficulty: "beginner",
+      },
+      {
+        name: "Landmine Press",
+        description:
+          "Press the end of a barbell anchored at the floor upward and forward at an angle.",
+        difficulty: "intermediate",
+      },
     ],
   },
   {
     id: "biceps",
     name: "Biceps Brachii",
+    commonName: "Biceps",
     region: "front",
     overlay: "52,95 67,95 67,140 52,140",
     exercises: [
@@ -83,11 +120,28 @@ export const muscles: Muscle[] = [
         description: "Seated, curl dumbbell with elbow braced against inner thigh.",
         difficulty: "intermediate",
       },
+      {
+        name: "Incline Dumbbell Curls",
+        description:
+          "Sit on incline bench, curl dumbbells with arms hanging straight down to stretch the bicep.",
+        difficulty: "intermediate",
+      },
+      {
+        name: "Preacher Curls",
+        description: "Rest upper arms on preacher bench pad, curl barbell or EZ-bar upward.",
+        difficulty: "intermediate",
+      },
+      {
+        name: "Chin-Ups",
+        description: "Hang from bar with underhand grip, pull body up until chin clears bar.",
+        difficulty: "advanced",
+      },
     ],
   },
   {
     id: "forearms",
-    name: "Forearms",
+    name: "Brachioradialis & Flexors",
+    commonName: "Forearms",
     region: "front",
     overlay: "47,145 64,140 70,200 52,200",
     exercises: [
@@ -106,11 +160,22 @@ export const muscles: Muscle[] = [
         description: "Carry heavy dumbbells and walk for distance or time.",
         difficulty: "beginner",
       },
+      {
+        name: "Plate Pinch Hold",
+        description: "Pinch two weight plates together smooth-side-out and hold for time.",
+        difficulty: "intermediate",
+      },
+      {
+        name: "Towel Hang",
+        description: "Drape a towel over a pull-up bar and hang from it to build grip strength.",
+        difficulty: "advanced",
+      },
     ],
   },
   {
     id: "abdominals",
     name: "Rectus Abdominis",
+    commonName: "Abs",
     region: "front",
     overlay: "90,95 114,95 114,150 90,150",
     exercises: [
@@ -129,11 +194,28 @@ export const muscles: Muscle[] = [
         description: "Hang from bar, raise legs to 90 degrees, lower with control.",
         difficulty: "advanced",
       },
+      {
+        name: "Ab Wheel Rollout",
+        description: "Kneel on floor, roll ab wheel forward extending body, pull back to start.",
+        difficulty: "advanced",
+      },
+      {
+        name: "Cable Crunch",
+        description: "Kneel below a high cable pulley, crunch downward against resistance.",
+        difficulty: "intermediate",
+      },
+      {
+        name: "Dead Bug",
+        description:
+          "Lie on back, extend opposite arm and leg while keeping lower back pressed to floor.",
+        difficulty: "beginner",
+      },
     ],
   },
   {
     id: "obliques",
     name: "External Obliques",
+    commonName: "Side Abs",
     region: "front",
     overlay: "77,95 90,95 90,150 77,145",
     exercises: [
@@ -152,11 +234,23 @@ export const muscles: Muscle[] = [
         description: "Lie on back, alternate touching elbow to opposite knee.",
         difficulty: "beginner",
       },
+      {
+        name: "Woodchoppers",
+        description:
+          "Pull cable or weight diagonally across body from high to low in a chopping motion.",
+        difficulty: "intermediate",
+      },
+      {
+        name: "Pallof Press",
+        description: "Stand sideways to cable, press handle straight out and resist rotation.",
+        difficulty: "intermediate",
+      },
     ],
   },
   {
     id: "quadriceps",
-    name: "Quadriceps",
+    name: "Quadriceps Femoris",
+    commonName: "Quads / Thighs",
     region: "front",
     overlay: "77,155 127,155 127,260 77,260",
     exercises: [
@@ -175,11 +269,27 @@ export const muscles: Muscle[] = [
         description: "Sit in leg press machine, push platform away by extending legs.",
         difficulty: "intermediate",
       },
+      {
+        name: "Leg Extensions",
+        description: "Sit in machine, extend legs to straighten knees against resistance.",
+        difficulty: "beginner",
+      },
+      {
+        name: "Front Squats",
+        description: "Hold barbell at front of shoulders, squat down keeping torso upright.",
+        difficulty: "advanced",
+      },
+      {
+        name: "Wall Sit",
+        description: "Lean against wall with thighs parallel to the floor and hold the position.",
+        difficulty: "beginner",
+      },
     ],
   },
   {
     id: "tibialis",
     name: "Tibialis Anterior",
+    commonName: "Shins",
     region: "front",
     overlay: "82,265 122,265 120,330 84,330",
     exercises: [
@@ -193,11 +303,22 @@ export const muscles: Muscle[] = [
         description: "Lean back against wall, raise toes off ground repeatedly.",
         difficulty: "beginner",
       },
+      {
+        name: "Banded Dorsiflexion",
+        description: "Sit with band around foot, flex toes toward shin against band resistance.",
+        difficulty: "beginner",
+      },
+      {
+        name: "Heel Walks",
+        description: "Walk on your heels with toes off the ground for distance.",
+        difficulty: "beginner",
+      },
     ],
   },
   {
     id: "trapezius",
     name: "Trapezius",
+    commonName: "Traps",
     region: "back",
     overlay: "290,55 340,55 335,85 295,85",
     exercises: [
@@ -216,11 +337,22 @@ export const muscles: Muscle[] = [
         description: "Pull barbell up along body to chin level, elbows leading.",
         difficulty: "intermediate",
       },
+      {
+        name: "Dumbbell Shrugs",
+        description: "Hold dumbbells at sides, shrug shoulders up and squeeze at top.",
+        difficulty: "beginner",
+      },
+      {
+        name: "Rack Pulls",
+        description: "Deadlift from elevated pins just below the knee to emphasize upper back.",
+        difficulty: "advanced",
+      },
     ],
   },
   {
     id: "latissimus",
     name: "Latissimus Dorsi",
+    commonName: "Lats / Mid-Back",
     region: "back",
     overlay: "285,85 305,85 305,140 285,130",
     exercises: [
@@ -239,11 +371,27 @@ export const muscles: Muscle[] = [
         description: "Hinge at hips, pull barbell to lower chest.",
         difficulty: "intermediate",
       },
+      {
+        name: "Single-Arm Dumbbell Row",
+        description: "Brace one hand on bench, row dumbbell to hip with the other arm.",
+        difficulty: "beginner",
+      },
+      {
+        name: "T-Bar Row",
+        description: "Straddle a landmine bar, row the weighted end toward your chest.",
+        difficulty: "intermediate",
+      },
+      {
+        name: "Straight-Arm Pulldown",
+        description: "Stand at cable machine, pull bar down to thighs with arms straight.",
+        difficulty: "intermediate",
+      },
     ],
   },
   {
     id: "rhomboids",
     name: "Rhomboids",
+    commonName: "Upper Inner Back",
     region: "back",
     overlay: "303,70 327,70 327,95 303,95",
     exercises: [
@@ -257,11 +405,23 @@ export const muscles: Muscle[] = [
         description: "Bend forward, raise dumbbells to sides squeezing upper back.",
         difficulty: "intermediate",
       },
+      {
+        name: "Band Pull-Aparts",
+        description:
+          "Hold resistance band at shoulder width, pull apart until arms are extended to sides.",
+        difficulty: "beginner",
+      },
+      {
+        name: "Prone Y Raise",
+        description: "Lie face down, raise arms in a Y shape overhead squeezing shoulder blades.",
+        difficulty: "beginner",
+      },
     ],
   },
   {
     id: "triceps",
     name: "Triceps Brachii",
+    commonName: "Triceps",
     region: "back",
     overlay: "265,90 285,90 285,140 265,140",
     exercises: [
@@ -280,11 +440,27 @@ export const muscles: Muscle[] = [
         description: "Push cable attachment down by extending elbows.",
         difficulty: "beginner",
       },
+      {
+        name: "Overhead Tricep Extension",
+        description: "Hold dumbbell overhead with both hands, lower behind head, extend back up.",
+        difficulty: "beginner",
+      },
+      {
+        name: "Close-Grip Bench Press",
+        description: "Bench press with hands shoulder-width apart to emphasize triceps.",
+        difficulty: "intermediate",
+      },
+      {
+        name: "Diamond Push-Ups",
+        description: "Push-ups with hands close together forming a diamond shape under chest.",
+        difficulty: "intermediate",
+      },
     ],
   },
   {
     id: "glutes",
     name: "Gluteus Maximus",
+    commonName: "Glutes / Butt",
     region: "back",
     overlay: "290,150 340,150 340,180 290,180",
     exercises: [
@@ -303,11 +479,27 @@ export const muscles: Muscle[] = [
         description: "Rear foot elevated, lower front knee to 90 degrees.",
         difficulty: "intermediate",
       },
+      {
+        name: "Glute Bridges",
+        description: "Lie on back with knees bent, drive hips up squeezing glutes at the top.",
+        difficulty: "beginner",
+      },
+      {
+        name: "Cable Kickbacks",
+        description: "Attach ankle cuff to low cable, kick leg straight back squeezing glute.",
+        difficulty: "beginner",
+      },
+      {
+        name: "Step-Ups",
+        description: "Step onto a box or bench with one leg, drive through heel to stand up.",
+        difficulty: "beginner",
+      },
     ],
   },
   {
     id: "hamstrings",
-    name: "Hamstrings",
+    name: "Biceps Femoris",
+    commonName: "Hamstrings",
     region: "back",
     overlay: "290,185 340,185 340,260 290,260",
     exercises: [
@@ -326,11 +518,28 @@ export const muscles: Muscle[] = [
         description: "Barbell on shoulders, hinge at hips keeping back straight.",
         difficulty: "advanced",
       },
+      {
+        name: "Nordic Hamstring Curl",
+        description: "Kneel with feet anchored, slowly lower body forward, then curl back up.",
+        difficulty: "advanced",
+      },
+      {
+        name: "Kettlebell Swing",
+        description:
+          "Hinge at hips, swing kettlebell between legs and up to chest height with hip drive.",
+        difficulty: "intermediate",
+      },
+      {
+        name: "Sumo Deadlift",
+        description: "Wide stance deadlift with hands inside the knees, drive through hips.",
+        difficulty: "intermediate",
+      },
     ],
   },
   {
     id: "calves",
-    name: "Gastrocnemius",
+    name: "Gastrocnemius & Soleus",
+    commonName: "Calves",
     region: "back",
     overlay: "295,265 335,265 333,330 297,330",
     exercises: [
@@ -347,6 +556,16 @@ export const muscles: Muscle[] = [
       {
         name: "Jump Rope",
         description: "Skip rope staying on balls of feet for calf endurance.",
+        difficulty: "intermediate",
+      },
+      {
+        name: "Donkey Calf Raises",
+        description: "Bend at hips with weight on back, raise heels off a platform.",
+        difficulty: "intermediate",
+      },
+      {
+        name: "Single-Leg Calf Raise",
+        description: "Stand on one foot on a step edge, raise and lower heel for isolation.",
         difficulty: "intermediate",
       },
     ],
