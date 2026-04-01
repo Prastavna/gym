@@ -39,7 +39,7 @@ function openScheduleDialogWithExercise(exerciseName: string) {
     <div class="flex min-h-0 flex-1 flex-col md:flex-row">
       <div
         data-testid="svg-panel"
-        class="relative flex w-full shrink-0 items-center justify-center p-4 md:h-full md:w-1/2 md:shrink"
+        class="relative flex w-full shrink-0 items-center justify-center px-4 md:py-4 md:h-full md:w-1/2 md:shrink"
       >
         <div class="relative w-full max-w-2xl">
           <img src="/muscles.svg" alt="Human muscle anatomy" class="h-auto w-full" />
@@ -50,7 +50,7 @@ function openScheduleDialogWithExercise(exerciseName: string) {
             :debug="debug"
             @hover="onHover"
           />
-          <p class="mt-2 text-center text-xs text-gray-400">
+          <p class="hidden mt-2 text-center text-xs text-gray-400">
             SVG by
             <a
               href="https://commons.wikimedia.org/wiki/File:Muscles_front_and_back.svg"

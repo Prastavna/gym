@@ -23,7 +23,7 @@ const emit = defineEmits<{
         class="rounded bg-gray-900 px-2.5 py-1 text-xs font-medium text-white transition-colors hover:bg-gray-700"
         @click="emit('openTodayPreview')"
       >
-        Preview today's plan
+        Today's plan
       </button>
     </div>
   </div>
