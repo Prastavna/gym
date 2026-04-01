@@ -63,3 +63,9 @@ docker build \
 - Add `VITE_GA_MEASUREMENT_ID` as a build variable in Coolify.
 - Redeploy after saving it so the static bundle is rebuilt with the GA snippet enabled.
 - If you do not want analytics, leave that build variable empty or unset.
+
+### GitHub Pages
+
+- Add `VITE_GA_MEASUREMENT_ID` as an environment variable in the `github-pages` environment.
+- The Pages workflow must expose that variable to the build job so Vite can inject it into `index.html` during `vp build`.
+- Redeploy after saving the environment variable.
