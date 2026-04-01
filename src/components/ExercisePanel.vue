@@ -17,8 +17,12 @@ const badgeColor = (d: Exercise["difficulty"]) =>
 
 <template>
   <div class="h-full p-6 overflow-y-auto">
-    <div v-if="!muscleName" class="flex items-center justify-center h-full text-gray-400 text-lg">
-      Hover over a muscle to see exercises
+    <div
+      v-if="!muscleName"
+      class="flex items-center justify-center h-full min-h-[30vh] text-gray-400 text-lg text-center px-4"
+    >
+      <span class="hidden md:inline">Hover over a muscle to see exercises</span>
+      <span class="md:hidden">Tap a muscle to see exercises</span>
     </div>
     <div v-else>
       <h2 class="text-2xl font-bold text-gray-800">{{ commonName }}</h2>

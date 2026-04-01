@@ -23,9 +23,12 @@ function onHover(id: string | null) {
 </script>
 
 <template>
-  <div class="flex h-screen bg-gray-50">
-    <!-- Left: SVG Panel -->
-    <div data-testid="svg-panel" class="w-1/2 flex items-center justify-center relative p-4">
+  <div class="flex flex-col md:flex-row h-screen bg-gray-50">
+    <!-- Left / Top: SVG Panel -->
+    <div
+      data-testid="svg-panel"
+      class="w-full md:w-1/2 flex items-center justify-center relative p-4 shrink-0 md:shrink md:h-full"
+    >
       <div class="relative w-full max-w-2xl">
         <img src="/muscles.svg" alt="Human muscle anatomy" class="w-full h-auto" />
         <MuscleOverlay
@@ -49,8 +52,11 @@ function onHover(id: string | null) {
         </p>
       </div>
     </div>
-    <!-- Right: Exercise Panel -->
-    <div data-testid="exercise-panel" class="w-1/2 bg-white border-l border-gray-200">
+    <!-- Right / Bottom: Exercise Panel -->
+    <div
+      data-testid="exercise-panel"
+      class="w-full md:w-1/2 bg-white border-t md:border-t-0 md:border-l border-gray-200 min-h-[40vh] md:min-h-0 flex-1 overflow-y-auto"
+    >
       <ExercisePanel
         :muscle-name="displayedMuscle?.name ?? null"
         :common-name="displayedMuscle?.commonName ?? null"

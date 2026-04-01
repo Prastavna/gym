@@ -24,7 +24,7 @@ describe("ExercisePanel", () => {
     const wrapper = mount(ExercisePanel, {
       props: { muscleName: null, commonName: null, exercises: [] },
     });
-    expect(wrapper.text()).toContain("Hover over a muscle");
+    expect(wrapper.text()).toContain("muscle to see exercises");
   });
 
   it("displays muscle name and common name when provided", () => {
