@@ -19,24 +19,26 @@ const emit = defineEmits<{
     class="absolute inset-0 w-full h-full"
     preserveAspectRatio="xMidYMid meet"
   >
-    <polygon
-      v-for="muscle in muscles"
-      :key="muscle.id"
-      :points="muscle.overlay"
-      :data-muscle="muscle.id"
-      :class="[
-        'muscle-zone',
-        {
-          active: activeMuscle === muscle.id && hoveredMuscle !== muscle.id,
-          hovered: hoveredMuscle === muscle.id,
-          debug: props.debug,
-        },
-      ]"
-      @mouseenter="emit('hover', muscle.id)"
-      @mouseleave="emit('hover', null)"
-    >
-      <title>{{ muscle.commonName }} ({{ muscle.name }})</title>
-    </polygon>
+    <template v-for="muscle in muscles" :key="muscle.id">
+      <polygon
+        v-for="(poly, idx) in muscle.overlay.split('|')"
+        :key="`${muscle.id}-${idx}`"
+        :points="poly"
+        :data-muscle="muscle.id"
+        :class="[
+          'muscle-zone',
+          {
+            active: activeMuscle === muscle.id && hoveredMuscle !== muscle.id,
+            hovered: hoveredMuscle === muscle.id,
+            debug: props.debug,
+          },
+        ]"
+        @mouseenter="emit('hover', muscle.id)"
+        @mouseleave="emit('hover', null)"
+      >
+        <title>{{ muscle.commonName }} ({{ muscle.name }})</title>
+      </polygon>
+    </template>
   </svg>
 </template>
 

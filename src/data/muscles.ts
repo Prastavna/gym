@@ -16,7 +16,7 @@ export interface Muscle {
   name: string;
   commonName: string;
   region: "front" | "back";
-  /** SVG overlay polygon points relative to viewBox 0 0 407 355 */
+  /** SVG overlay polygon points relative to viewBox 0 0 407 355. Use "|" to separate multiple polygons. */
   overlay: string;
   exercises: Exercise[];
 }
@@ -149,7 +149,7 @@ export const muscles: Muscle[] = [
     name: "Deltoids",
     commonName: "Shoulders",
     region: "front",
-    overlay: "62,55 77,55 77,85 62,85",
+    overlay: "62,58 77,55 67,85 50,85|142,58 127,55 137,85 154,85",
     exercises: [
       {
         name: "Overhead Press",
@@ -270,7 +270,7 @@ export const muscles: Muscle[] = [
     name: "Biceps Brachii",
     commonName: "Biceps",
     region: "front",
-    overlay: "52,95 67,95 67,140 52,140",
+    overlay: "52,85 67,85 60,130 35,130|152,85 137,85 144,130 169,130",
     exercises: [
       {
         name: "Barbell Curls",
@@ -390,7 +390,7 @@ export const muscles: Muscle[] = [
     name: "Brachioradialis & Flexors",
     commonName: "Forearms",
     region: "front",
-    overlay: "47,145 64,140 70,200 52,200",
+    overlay: "35,130 55,140 37,170 25,170|169,130 149,140 167,170 179,170",
     exercises: [
       {
         name: "Wrist Curls",
@@ -536,7 +536,7 @@ export const muscles: Muscle[] = [
     name: "Sternocleidomastoid & Cervical Flexors",
     commonName: "Neck",
     region: "front",
-    overlay: "95,35 110,35 112,55 93,55",
+    overlay: "90,35 115,35 112,55 93,55|303,35 328,35 325,55 306,55",
     exercises: [
       {
         name: "Chin Tucks",
@@ -1130,7 +1130,7 @@ export const muscles: Muscle[] = [
     name: "Latissimus Dorsi",
     commonName: "Lats / Mid-Back",
     region: "back",
-    overlay: "285,85 305,85 305,140 285,130",
+    overlay: "285,85 305,85 305,140 285,130|345,85 325,85 325,140 345,130",
     exercises: [
       {
         name: "Pull-Ups",
@@ -1319,7 +1319,7 @@ export const muscles: Muscle[] = [
     name: "Triceps Brachii",
     commonName: "Triceps",
     region: "back",
-    overlay: "265,90 285,90 285,140 265,140",
+    overlay: "265,90 285,90 285,140 265,140|365,90 345,90 345,140 365,140",
     exercises: [
       {
         name: "Tricep Dips",
