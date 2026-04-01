@@ -338,6 +338,194 @@ export const muscles: Muscle[] = [
           },
         ],
       },
+      {
+        name: "Reverse Wrist Curls",
+        description:
+          "Rest forearms on a bench, lift the backs of the hands upward to train extensors.",
+        difficulty: "beginner",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=reverse+wrist+curls+form",
+            text: "Reverse Wrist Curls Form",
+          },
+        ],
+      },
+      {
+        name: "Wrist Roller",
+        description: "Roll a weight up and down with a wrist roller, keeping the shoulders steady.",
+        difficulty: "intermediate",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=wrist+roller+forearm+exercise",
+            text: "Wrist Roller Forearm Exercise",
+          },
+        ],
+      },
+      {
+        name: "Behind-the-Back Wrist Curls",
+        description:
+          "Hold a barbell behind the hips and curl the wrists upward for a strong forearm pump.",
+        difficulty: "intermediate",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=behind+the+back+wrist+curls",
+            text: "Behind-the-Back Wrist Curls",
+          },
+        ],
+      },
+      {
+        name: "Fat Grip Holds",
+        description:
+          "Hold heavy dumbbells or bars with thick grips to challenge crushing grip strength.",
+        difficulty: "intermediate",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=fat+grip+holds+forearms",
+            text: "Fat Grip Holds for Forearms",
+          },
+        ],
+      },
+      {
+        name: "Dead Hangs",
+        description:
+          "Hang from a pull-up bar for time while keeping shoulders packed and grip firm.",
+        difficulty: "beginner",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=dead+hang+grip+strength",
+            text: "Dead Hang Grip Strength Guide",
+          },
+        ],
+      },
+      {
+        name: "Finger Curls",
+        description:
+          "Let a barbell roll to the fingertips, then curl it back into the palm and flex the wrist.",
+        difficulty: "advanced",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=barbell+finger+curls+forearms",
+            text: "Barbell Finger Curls",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    id: "neck",
+    name: "Sternocleidomastoid & Cervical Flexors",
+    commonName: "Neck",
+    region: "front",
+    overlay: "95,35 110,35 112,55 93,55",
+    exercises: [
+      {
+        name: "Chin Tucks",
+        description:
+          "Draw the chin straight back to train deep neck flexors without tipping the head up.",
+        difficulty: "beginner",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=chin+tucks+neck+exercise",
+            text: "Chin Tucks Neck Exercise",
+          },
+        ],
+      },
+      {
+        name: "Neck Flexion",
+        description: "Lying or with a harness, raise the head forward under light control.",
+        difficulty: "intermediate",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=neck+flexion+exercise+form",
+            text: "Neck Flexion Form",
+          },
+        ],
+      },
+      {
+        name: "Neck Extension",
+        description: "Lift the head backward against light resistance while keeping motion smooth.",
+        difficulty: "intermediate",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=neck+extension+exercise+form",
+            text: "Neck Extension Form",
+          },
+        ],
+      },
+      {
+        name: "Lateral Neck Flexion",
+        description:
+          "Tilt the ear toward the shoulder against light resistance to build side-neck strength.",
+        difficulty: "intermediate",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=lateral+neck+flexion+exercise",
+            text: "Lateral Neck Flexion Exercise",
+          },
+        ],
+      },
+      {
+        name: "Neck Harness Extensions",
+        description:
+          "Use a neck harness to strengthen the posterior neck through a controlled range.",
+        difficulty: "advanced",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=neck+harness+extensions",
+            text: "Neck Harness Extensions",
+          },
+        ],
+      },
+      {
+        name: "Band Resisted Neck Rotations",
+        description:
+          "Rotate the head gently against a light band to train controlled turning strength.",
+        difficulty: "intermediate",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=band+resisted+neck+rotation",
+            text: "Band Resisted Neck Rotation",
+          },
+        ],
+      },
+      {
+        name: "Isometric Neck Press",
+        description:
+          "Press the head into the hands from the front, back, and sides without moving the neck.",
+        difficulty: "beginner",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=isometric+neck+exercise",
+            text: "Isometric Neck Exercise",
+          },
+        ],
+      },
+      {
+        name: "Wrestler Bridges",
+        description:
+          "Bridge carefully on the head and feet to build neck resilience and extension strength.",
+        difficulty: "advanced",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=wrestler+bridge+neck+exercise",
+            text: "Wrestler Bridge Progression",
+          },
+        ],
+      },
     ],
   },
   {

@@ -29,6 +29,16 @@ describe("getExercisesForMuscle", () => {
     expect(exercises!.length).toBeGreaterThan(0);
   });
 
+  it("includes expanded forearm and neck exercise libraries", () => {
+    const forearmExercises = getExercisesForMuscle("forearms");
+    const neckExercises = getExercisesForMuscle("neck");
+
+    expect(forearmExercises).toBeDefined();
+    expect(forearmExercises!.length).toBeGreaterThanOrEqual(10);
+    expect(neckExercises).toBeDefined();
+    expect(neckExercises!.length).toBeGreaterThanOrEqual(8);
+  });
+
   it("returns undefined for unknown muscle", () => {
     expect(getExercisesForMuscle("nonexistent")).toBeUndefined();
   });
