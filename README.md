@@ -37,3 +37,29 @@ Interactive muscle map for browsing exercises and building a weekly gym schedule
 vp check
 vp test
 ```
+
+## Google Analytics
+
+- GA is enabled only when `VITE_GA_MEASUREMENT_ID` is set at build time.
+- Leave it unset to keep analytics disabled.
+- Because this is a static Vite build, changing the GA ID requires a rebuild and redeploy.
+
+### Local build
+
+```bash
+VITE_GA_MEASUREMENT_ID=G-XXXXXXXXXX vp build
+```
+
+### Docker build
+
+```bash
+docker build \
+  --build-arg VITE_GA_MEASUREMENT_ID=G-XXXXXXXXXX \
+  -t muscle-map .
+```
+
+### Coolify
+
+- Add `VITE_GA_MEASUREMENT_ID` as a build variable in Coolify.
+- Redeploy after saving it so the static bundle is rebuilt with the GA snippet enabled.
+- If you do not want analytics, leave that build variable empty or unset.
