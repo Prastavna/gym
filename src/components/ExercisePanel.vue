@@ -28,6 +28,10 @@ const badgeColor = (d: Exercise["difficulty"]) =>
 
 <template>
   <div class="h-full flex flex-col">
+    <ExercisePanelToolbar
+      @open-schedule="emit('openSchedule')"
+      @open-today-preview="emit('openTodayPreview')"
+    />
     <div
       v-if="!muscleName"
       class="flex items-center justify-center flex-1 min-h-[30vh] text-gray-400 text-lg text-center px-4"
@@ -36,10 +40,6 @@ const badgeColor = (d: Exercise["difficulty"]) =>
       <span class="md:hidden">Tap a muscle to see exercises</span>
     </div>
     <template v-else>
-      <ExercisePanelToolbar
-        @open-schedule="emit('openSchedule')"
-        @open-today-preview="emit('openTodayPreview')"
-      />
       <div class="flex-1 overflow-y-auto p-6">
         <h2 class="text-2xl font-bold text-gray-800">{{ commonName }}</h2>
         <p class="text-sm text-gray-500 mb-4">{{ muscleName }}</p>
