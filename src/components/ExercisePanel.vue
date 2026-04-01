@@ -18,7 +18,7 @@ const badgeColor = (d: Exercise["difficulty"]) =>
 <template>
   <div class="h-full p-6 overflow-y-auto">
     <div v-if="!muscleName" class="flex items-center justify-center h-full text-gray-400 text-lg">
-      Click on a muscle to see exercises
+      Hover over a muscle to see exercises
     </div>
     <div v-else>
       <h2 class="text-2xl font-bold text-gray-800">{{ commonName }}</h2>
@@ -39,6 +39,20 @@ const badgeColor = (d: Exercise["difficulty"]) =>
             </span>
           </div>
           <p class="text-sm text-gray-600">{{ exercise.description }}</p>
+          <div v-if="exercise.resources?.length" class="mt-2 flex flex-wrap gap-2">
+            <a
+              v-for="resource in exercise.resources"
+              :key="resource.link"
+              :href="resource.link"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="inline-flex items-center gap-1 text-xs text-blue-600 hover:text-blue-800 hover:underline"
+            >
+              <span v-if="resource.type === 'video'">&#9654;</span>
+              <span v-else>&#128196;</span>
+              {{ resource.text }}
+            </a>
+          </div>
         </div>
       </div>
     </div>

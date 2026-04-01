@@ -35,16 +35,6 @@ describe("MuscleOverlay", () => {
     expect(wrapper.emitted("hover")![0][0]).toBeNull();
   });
 
-  it("emits select on click", async () => {
-    const wrapper = mount(MuscleOverlay, {
-      props: { muscles, activeMuscle: null, hoveredMuscle: null },
-    });
-    const polygon = wrapper.find("polygon");
-    await polygon.trigger("click");
-    expect(wrapper.emitted("select")).toBeTruthy();
-    expect(wrapper.emitted("select")![0][0]).toBe(muscles[0].id);
-  });
-
   it("highlights active muscle polygon", () => {
     const wrapper = mount(MuscleOverlay, {
       props: { muscles, activeMuscle: "pectorals", hoveredMuscle: null },

@@ -5,8 +5,18 @@ import ExercisePanel from "../components/ExercisePanel.vue";
 import type { Exercise } from "../data/muscles";
 
 const sampleExercises: Exercise[] = [
-  { name: "Bench Press", description: "Press weight up from chest.", difficulty: "intermediate" },
-  { name: "Push-Ups", description: "Push body up from floor.", difficulty: "beginner" },
+  {
+    name: "Bench Press",
+    description: "Press weight up from chest.",
+    difficulty: "intermediate",
+    resources: [{ type: "video", link: "https://example.com/bench", text: "Bench Press Guide" }],
+  },
+  {
+    name: "Push-Ups",
+    description: "Push body up from floor.",
+    difficulty: "beginner",
+    resources: [],
+  },
 ];
 
 describe("ExercisePanel", () => {
@@ -14,7 +24,7 @@ describe("ExercisePanel", () => {
     const wrapper = mount(ExercisePanel, {
       props: { muscleName: null, commonName: null, exercises: [] },
     });
-    expect(wrapper.text()).toContain("Click on a muscle");
+    expect(wrapper.text()).toContain("Hover over a muscle");
   });
 
   it("displays muscle name and common name when provided", () => {
@@ -39,5 +49,14 @@ describe("ExercisePanel", () => {
     });
     expect(wrapper.text()).toContain("intermediate");
     expect(wrapper.text()).toContain("beginner");
+  });
+
+  it("renders resource links", () => {
+    const wrapper = mount(ExercisePanel, {
+      props: { muscleName: "Pectoralis Major", commonName: "Chest", exercises: sampleExercises },
+    });
+    const link = wrapper.find("a[href='https://example.com/bench']");
+    expect(link.exists()).toBe(true);
+    expect(link.text()).toContain("Bench Press Guide");
   });
 });

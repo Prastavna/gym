@@ -12,23 +12,23 @@ describe("MuscleMap", () => {
 
   it("shows placeholder text in exercise panel initially", () => {
     const wrapper = mount(MuscleMap);
-    expect(wrapper.text()).toContain("Click on a muscle");
+    expect(wrapper.text()).toContain("Hover over a muscle");
   });
 
-  it("shows exercises when a muscle overlay is clicked", async () => {
+  it("shows exercises when a muscle is hovered", async () => {
     const wrapper = mount(MuscleMap);
     const polygon = wrapper.find("polygon");
-    await polygon.trigger("click");
-    expect(wrapper.text()).not.toContain("Click on a muscle");
+    await polygon.trigger("mouseenter");
+    expect(wrapper.text()).not.toContain("Hover over a muscle");
   });
 
-  it("keeps exercises visible after mouse leaves the muscle", async () => {
+  it("keeps exercises visible after mouse leaves (sticky)", async () => {
     const wrapper = mount(MuscleMap);
     const polygon = wrapper.find("polygon");
-    await polygon.trigger("click");
+    await polygon.trigger("mouseenter");
     await polygon.trigger("mouseleave");
-    // Exercises should still be visible after mouseleave
-    expect(wrapper.text()).not.toContain("Click on a muscle");
+    // Last-hovered muscle should remain displayed
+    expect(wrapper.text()).not.toContain("Hover over a muscle");
   });
 
   it("shows Wikimedia attribution", () => {
