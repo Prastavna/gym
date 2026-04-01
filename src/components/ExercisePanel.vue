@@ -1,10 +1,10 @@
 <script setup lang="ts">
-import { ref } from "vue";
+import { computed, ref } from "vue";
 import type { Exercise } from "../data/muscles";
 import RestTimer from "./RestTimer.vue";
 import ExercisePanelToolbar from "./ExercisePanelToolbar.vue";
 
-defineProps<{
+const props = defineProps<{
   muscleName: string | null;
   commonName: string | null;
   exercises: Exercise[];
@@ -17,6 +17,8 @@ const emit = defineEmits<{
 }>();
 
 const activeRestExercise = ref<string | null>(null);
+const searchQuery = ref("");
+const difficultyFilter = ref<Exercise["difficulty"] | "all">("all");
 
 const badgeColor = (d: Exercise["difficulty"]) =>
   d === "beginner"
@@ -24,6 +26,21 @@ const badgeColor = (d: Exercise["difficulty"]) =>
     : d === "intermediate"
       ? "bg-yellow-100 text-yellow-800"
       : "bg-red-100 text-red-800";
+
+const filteredExercises = computed(() => {
+  const query = searchQuery.value.trim().toLowerCase();
+
+  return props.exercises.filter((exercise) => {
+    const matchesDifficulty =
+      difficultyFilter.value === "all" || exercise.difficulty === difficultyFilter.value;
+    const matchesQuery =
+      !query ||
+      exercise.name.toLowerCase().includes(query) ||
+      exercise.description.toLowerCase().includes(query);
+
+    return matchesDifficulty && matchesQuery;
+  });
+});
 </script>
 
 <template>
@@ -43,9 +60,37 @@ const badgeColor = (d: Exercise["difficulty"]) =>
       <div class="flex-1 overflow-y-auto p-6">
         <h2 class="text-2xl font-bold text-gray-800">{{ commonName }}</h2>
         <p class="text-sm text-gray-500 mb-4">{{ muscleName }}</p>
+        <div class="mb-4 rounded-lg border border-gray-200 bg-gray-50 p-3">
+          <div class="flex flex-col gap-3 md:flex-row">
+            <input
+              v-model="searchQuery"
+              type="search"
+              placeholder="Search exercises"
+              class="min-w-0 flex-1 rounded-md border border-gray-200 bg-white px-3 py-2 text-sm text-gray-700"
+            />
+            <select
+              v-model="difficultyFilter"
+              class="rounded-md border border-gray-200 bg-white px-3 py-2 text-sm text-gray-700"
+            >
+              <option value="all">All levels</option>
+              <option value="beginner">Beginner</option>
+              <option value="intermediate">Intermediate</option>
+              <option value="advanced">Advanced</option>
+            </select>
+          </div>
+          <p class="mt-2 text-xs text-gray-500">
+            Showing {{ filteredExercises.length }} of {{ exercises.length }} exercises
+          </p>
+        </div>
         <div class="space-y-4">
           <div
-            v-for="exercise in exercises"
+            v-if="filteredExercises.length === 0"
+            class="rounded-lg border border-dashed border-gray-200 bg-gray-50 px-4 py-8 text-center text-sm text-gray-500"
+          >
+            No exercises match this filter.
+          </div>
+          <div
+            v-for="exercise in filteredExercises"
             :key="exercise.name"
             class="bg-white rounded-lg border border-gray-200 p-4 shadow-sm"
           >

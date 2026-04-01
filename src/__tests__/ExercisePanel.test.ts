@@ -77,6 +77,39 @@ describe("ExercisePanel", () => {
     expect(wrapper.text()).toContain("Preview today's plan");
   });
 
+  it("filters exercises by search query", async () => {
+    const wrapper = mount(ExercisePanel, {
+      props: { muscleName: "Test", commonName: "Test", exercises: sampleExercises },
+    });
+
+    await wrapper.find("input[type='search']").setValue("push");
+
+    expect(wrapper.text()).toContain("Push-Ups");
+    expect(wrapper.text()).not.toContain("Bench Press Guide");
+    expect(wrapper.text()).not.toContain("Bench Press");
+  });
+
+  it("filters exercises by difficulty", async () => {
+    const wrapper = mount(ExercisePanel, {
+      props: { muscleName: "Test", commonName: "Test", exercises: sampleExercises },
+    });
+
+    await wrapper.find("select").setValue("beginner");
+
+    expect(wrapper.text()).toContain("Push-Ups");
+    expect(wrapper.text()).not.toContain("Bench Press");
+  });
+
+  it("shows an empty state when filters match nothing", async () => {
+    const wrapper = mount(ExercisePanel, {
+      props: { muscleName: "Test", commonName: "Test", exercises: sampleExercises },
+    });
+
+    await wrapper.find("input[type='search']").setValue("nothing-here");
+
+    expect(wrapper.text()).toContain("No exercises match this filter.");
+  });
+
   it("shows rest timer presets on each exercise card", () => {
     const wrapper = mount(ExercisePanel, {
       props: { muscleName: "Test", commonName: "Test", exercises: sampleExercises },
