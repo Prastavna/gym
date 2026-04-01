@@ -59,4 +59,21 @@ describe("ExercisePanel", () => {
     expect(link.exists()).toBe(true);
     expect(link.text()).toContain("Bench Press Guide");
   });
+
+  it("shows session timer when muscle is selected", () => {
+    const wrapper = mount(ExercisePanel, {
+      props: { muscleName: "Test", commonName: "Test", exercises: sampleExercises },
+    });
+    expect(wrapper.text()).toContain("00:00");
+    expect(wrapper.text()).toContain("Session");
+  });
+
+  it("shows rest timer presets on each exercise card", () => {
+    const wrapper = mount(ExercisePanel, {
+      props: { muscleName: "Test", commonName: "Test", exercises: sampleExercises },
+    });
+    const buttons = wrapper.findAll("button").filter((b) => b.text() === "60s");
+    // One per exercise card
+    expect(buttons.length).toBe(sampleExercises.length);
+  });
 });

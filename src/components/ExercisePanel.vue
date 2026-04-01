@@ -1,11 +1,16 @@
 <script setup lang="ts">
+import { ref } from "vue";
 import type { Exercise } from "../data/muscles";
+import SessionTimer from "./SessionTimer.vue";
+import RestTimer from "./RestTimer.vue";
 
 defineProps<{
   muscleName: string | null;
   commonName: string | null;
   exercises: Exercise[];
 }>();
+
+const activeRestExercise = ref<string | null>(null);
 
 const badgeColor = (d: Exercise["difficulty"]) =>
   d === "beginner"
@@ -16,49 +21,59 @@ const badgeColor = (d: Exercise["difficulty"]) =>
 </script>
 
 <template>
-  <div class="h-full p-6 overflow-y-auto">
+  <div class="h-full flex flex-col">
     <div
       v-if="!muscleName"
-      class="flex items-center justify-center h-full min-h-[30vh] text-gray-400 text-lg text-center px-4"
+      class="flex items-center justify-center flex-1 min-h-[30vh] text-gray-400 text-lg text-center px-4"
     >
       <span class="hidden md:inline">Hover over a muscle to see exercises</span>
       <span class="md:hidden">Tap a muscle to see exercises</span>
     </div>
-    <div v-else>
-      <h2 class="text-2xl font-bold text-gray-800">{{ commonName }}</h2>
-      <p class="text-sm text-gray-500 mb-4">{{ muscleName }}</p>
-      <div class="space-y-4">
-        <div
-          v-for="exercise in exercises"
-          :key="exercise.name"
-          class="bg-white rounded-lg border border-gray-200 p-4 shadow-sm"
-        >
-          <div class="flex items-center justify-between mb-2">
-            <h3 class="font-semibold text-gray-700">{{ exercise.name }}</h3>
-            <span
-              class="text-xs font-medium px-2 py-1 rounded-full"
-              :class="badgeColor(exercise.difficulty)"
-            >
-              {{ exercise.difficulty }}
-            </span>
-          </div>
-          <p class="text-sm text-gray-600">{{ exercise.description }}</p>
-          <div v-if="exercise.resources?.length" class="mt-2 flex flex-wrap gap-2">
-            <a
-              v-for="resource in exercise.resources"
-              :key="resource.link"
-              :href="resource.link"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="inline-flex items-center gap-1 text-xs text-blue-600 hover:text-blue-800 hover:underline"
-            >
-              <span v-if="resource.type === 'video'">&#9654;</span>
-              <span v-else>&#128196;</span>
-              {{ resource.text }}
-            </a>
+    <template v-else>
+      <SessionTimer />
+      <div class="flex-1 overflow-y-auto p-6">
+        <h2 class="text-2xl font-bold text-gray-800">{{ commonName }}</h2>
+        <p class="text-sm text-gray-500 mb-4">{{ muscleName }}</p>
+        <div class="space-y-4">
+          <div
+            v-for="exercise in exercises"
+            :key="exercise.name"
+            class="bg-white rounded-lg border border-gray-200 p-4 shadow-sm"
+          >
+            <div class="flex items-center justify-between mb-2">
+              <h3 class="font-semibold text-gray-700">{{ exercise.name }}</h3>
+              <span
+                class="text-xs font-medium px-2 py-1 rounded-full"
+                :class="badgeColor(exercise.difficulty)"
+              >
+                {{ exercise.difficulty }}
+              </span>
+            </div>
+            <p class="text-sm text-gray-600">{{ exercise.description }}</p>
+            <div v-if="exercise.resources?.length" class="mt-2 flex flex-wrap gap-2">
+              <a
+                v-for="resource in exercise.resources"
+                :key="resource.link"
+                :href="resource.link"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="inline-flex items-center gap-1 text-xs text-blue-600 hover:text-blue-800 hover:underline"
+              >
+                <span v-if="resource.type === 'video'">&#9654;</span>
+                <span v-else>&#128196;</span>
+                {{ resource.text }}
+              </a>
+            </div>
+            <div class="mt-3 pt-2 border-t border-gray-100">
+              <RestTimer
+                :active="activeRestExercise === exercise.name"
+                @start="activeRestExercise = exercise.name"
+                @done="activeRestExercise = null"
+              />
+            </div>
           </div>
         </div>
       </div>
-    </div>
+    </template>
   </div>
 </template>
