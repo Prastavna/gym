@@ -1,0 +1,35 @@
+{
+  "name": "muscle-map",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vp dev",
+    "build": "vue-tsc -b && vp build",
+    "preview": "vp preview",
+    "prepare": "vp config"
+  },
+  "dependencies": {
+    "@svgdotjs/svg.js": "^3.2.5",
+    "add": "^2.0.6",
+    "vue": "^3.5.30"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.2.2",
+    "@types/node": "^24.12.0",
+    "@vitejs/plugin-vue": "^6.0.5",
+    "@vue/test-utils": "^2.4.6",
+    "@vue/tsconfig": "^0.9.0",
+    "jsdom": "^29.0.1",
+    "tailwindcss": "^4.2.2",
+    "typescript": "~5.9.3",
+    "vite": "npm:@voidzero-dev/vite-plus-core@latest",
+    "vite-plus": "latest",
+    "vue-tsc": "^3.2.5"
+  },
+  "overrides": {
+    "vite": "npm:@voidzero-dev/vite-plus-core@latest",
+    "vitest": "npm:@voidzero-dev/vite-plus-test@latest"
+  },
+  "packageManager": "bun@1.3.11"
+}
