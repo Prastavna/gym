@@ -1,13 +1,19 @@
 <script setup lang="ts">
 import { ref } from "vue";
 import type { Exercise } from "../data/muscles";
-import SessionTimer from "./SessionTimer.vue";
 import RestTimer from "./RestTimer.vue";
+import ExercisePanelToolbar from "./ExercisePanelToolbar.vue";
 
 defineProps<{
   muscleName: string | null;
   commonName: string | null;
   exercises: Exercise[];
+}>();
+
+const emit = defineEmits<{
+  addToSchedule: [exerciseName: string];
+  openSchedule: [];
+  openTodayPreview: [];
 }>();
 
 const activeRestExercise = ref<string | null>(null);
@@ -30,7 +36,10 @@ const badgeColor = (d: Exercise["difficulty"]) =>
       <span class="md:hidden">Tap a muscle to see exercises</span>
     </div>
     <template v-else>
-      <SessionTimer />
+      <ExercisePanelToolbar
+        @open-schedule="emit('openSchedule')"
+        @open-today-preview="emit('openTodayPreview')"
+      />
       <div class="flex-1 overflow-y-auto p-6">
         <h2 class="text-2xl font-bold text-gray-800">{{ commonName }}</h2>
         <p class="text-sm text-gray-500 mb-4">{{ muscleName }}</p>
@@ -42,12 +51,21 @@ const badgeColor = (d: Exercise["difficulty"]) =>
           >
             <div class="flex items-center justify-between mb-2">
               <h3 class="font-semibold text-gray-700">{{ exercise.name }}</h3>
-              <span
-                class="text-xs font-medium px-2 py-1 rounded-full"
-                :class="badgeColor(exercise.difficulty)"
-              >
-                {{ exercise.difficulty }}
-              </span>
+              <div class="flex items-center gap-2">
+                <button
+                  type="button"
+                  class="rounded-full border border-indigo-200 px-3 py-1 text-xs font-semibold text-indigo-600 transition hover:border-indigo-300 hover:bg-indigo-50"
+                  @click="emit('addToSchedule', exercise.name)"
+                >
+                  Add to plan
+                </button>
+                <span
+                  class="text-xs font-medium px-2 py-1 rounded-full"
+                  :class="badgeColor(exercise.difficulty)"
+                >
+                  {{ exercise.difficulty }}
+                </span>
+              </div>
             </div>
             <p class="text-sm text-gray-600">{{ exercise.description }}</p>
             <div v-if="exercise.resources?.length" class="mt-2 flex flex-wrap gap-2">

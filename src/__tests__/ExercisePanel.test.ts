@@ -68,6 +68,15 @@ describe("ExercisePanel", () => {
     expect(wrapper.text()).toContain("Session");
   });
 
+  it("shows schedule actions beside the session timer", () => {
+    const wrapper = mount(ExercisePanel, {
+      props: { muscleName: "Test", commonName: "Test", exercises: sampleExercises },
+    });
+
+    expect(wrapper.text()).toContain("Weekly schedule");
+    expect(wrapper.text()).toContain("Preview today's plan");
+  });
+
   it("shows rest timer presets on each exercise card", () => {
     const wrapper = mount(ExercisePanel, {
       props: { muscleName: "Test", commonName: "Test", exercises: sampleExercises },
