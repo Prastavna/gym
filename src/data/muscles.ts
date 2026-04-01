@@ -104,6 +104,44 @@ export const muscles: Muscle[] = [
           },
         ],
       },
+      {
+        name: "Decline Push-Ups",
+        description:
+          "Place feet on an elevated surface and perform push-ups to bias the upper chest.",
+        difficulty: "intermediate",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=decline+push+ups+upper+chest",
+            text: "Decline Push-Ups for Upper Chest",
+          },
+        ],
+      },
+      {
+        name: "Machine Chest Press",
+        description: "Press the handles forward on a chest press machine with controlled tempo.",
+        difficulty: "beginner",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=machine+chest+press+form",
+            text: "Machine Chest Press Form",
+          },
+        ],
+      },
+      {
+        name: "Svend Press",
+        description:
+          "Press a plate or two plates together in front of the chest while keeping tension inward.",
+        difficulty: "intermediate",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=svend+press+exercise",
+            text: "Svend Press Exercise",
+          },
+        ],
+      },
     ],
   },
   {
@@ -187,6 +225,44 @@ export const muscles: Muscle[] = [
           },
         ],
       },
+      {
+        name: "Cable Lateral Raises",
+        description: "Raise one arm out to the side using a low cable for constant delt tension.",
+        difficulty: "intermediate",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=cable+lateral+raise+form",
+            text: "Cable Lateral Raise Form",
+          },
+        ],
+      },
+      {
+        name: "Pike Push-Ups",
+        description:
+          "Press from a pike position to train the shoulders with bodyweight resistance.",
+        difficulty: "intermediate",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=pike+push+ups+shoulders",
+            text: "Pike Push-Ups for Shoulders",
+          },
+        ],
+      },
+      {
+        name: "Cuban Press",
+        description:
+          "Rotate the shoulders externally and press overhead for delt and rotator cuff work.",
+        difficulty: "advanced",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=cuban+press+exercise",
+            text: "Cuban Press Exercise",
+          },
+        ],
+      },
     ],
   },
   {
@@ -266,6 +342,44 @@ export const muscles: Muscle[] = [
             type: "video",
             link: "https://www.youtube.com/results?search_query=chin+ups+vs+pull+ups+guide",
             text: "Mastering the Chin-Up",
+          },
+        ],
+      },
+      {
+        name: "Cable Curls",
+        description:
+          "Curl a cable handle toward the shoulders while keeping elbows pinned at the sides.",
+        difficulty: "beginner",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=cable+bicep+curls+form",
+            text: "Cable Bicep Curls Form",
+          },
+        ],
+      },
+      {
+        name: "Spider Curls",
+        description: "Lie chest-down on an incline bench and curl with the arms hanging freely.",
+        difficulty: "intermediate",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=spider+curls+exercise",
+            text: "Spider Curls Exercise",
+          },
+        ],
+      },
+      {
+        name: "Drag Curls",
+        description:
+          "Slide the bar up the torso while driving elbows back to emphasize the biceps.",
+        difficulty: "intermediate",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=drag+curls+biceps",
+            text: "Drag Curls for Biceps",
           },
         ],
       },
@@ -608,6 +722,31 @@ export const muscles: Muscle[] = [
           },
         ],
       },
+      {
+        name: "V-Ups",
+        description: "Lift legs and torso at the same time to meet in a V shape above the hips.",
+        difficulty: "intermediate",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=v+ups+ab+exercise",
+            text: "V-Ups Ab Exercise",
+          },
+        ],
+      },
+      {
+        name: "Reverse Crunches",
+        description:
+          "Curl the pelvis toward the ribcage while keeping the movement slow and controlled.",
+        difficulty: "beginner",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=reverse+crunch+form",
+            text: "Reverse Crunch Form",
+          },
+        ],
+      },
     ],
   },
   {
@@ -675,6 +814,30 @@ export const muscles: Muscle[] = [
             type: "video",
             link: "https://www.youtube.com/results?search_query=pallof+press+guide",
             text: "Pallof Press for Core Stability",
+          },
+        ],
+      },
+      {
+        name: "Suitcase Carry",
+        description: "Carry a weight on one side only and resist leaning to train the obliques.",
+        difficulty: "beginner",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=suitcase+carry+obliques",
+            text: "Suitcase Carry for Obliques",
+          },
+        ],
+      },
+      {
+        name: "Heel Touches",
+        description: "Lie on the floor and crunch side to side, reaching for each heel.",
+        difficulty: "beginner",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=heel+touches+obliques",
+            text: "Heel Touches for Obliques",
           },
         ],
       },
@@ -759,6 +922,30 @@ export const muscles: Muscle[] = [
           },
         ],
       },
+      {
+        name: "Hack Squat",
+        description: "Use a hack squat machine to squat with more direct quad emphasis.",
+        difficulty: "intermediate",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=hack+squat+machine+form",
+            text: "Hack Squat Machine Form",
+          },
+        ],
+      },
+      {
+        name: "Spanish Squat",
+        description: "Lean back into a strap or band behind the knees and squat to load the quads.",
+        difficulty: "intermediate",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=spanish+squat+exercise",
+            text: "Spanish Squat Exercise",
+          },
+        ],
+      },
     ],
   },
   {
@@ -813,6 +1000,32 @@ export const muscles: Muscle[] = [
             type: "video",
             link: "https://www.youtube.com/results?search_query=heel+walks+exercise+benefits",
             text: "Heel Walks Exercise Benefits",
+          },
+        ],
+      },
+      {
+        name: "Sled Toe Drags",
+        description:
+          "Drag a sled while staying on the heels to build tibialis endurance and strength.",
+        difficulty: "intermediate",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=sled+toe+drags+tibialis",
+            text: "Sled Toe Drags for Tibialis",
+          },
+        ],
+      },
+      {
+        name: "Weighted Toe Raises",
+        description:
+          "Place a light dumbbell on the foot and raise the toes for extra shin resistance.",
+        difficulty: "intermediate",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=weighted+toe+raises+shins",
+            text: "Weighted Toe Raises for Shins",
           },
         ],
       },
@@ -882,6 +1095,31 @@ export const muscles: Muscle[] = [
             type: "video",
             link: "https://www.youtube.com/results?search_query=rack+pulls+form+and+benefits",
             text: "Rack Pulls Form and Benefits",
+          },
+        ],
+      },
+      {
+        name: "Behind-the-Back Shrugs",
+        description:
+          "Hold the barbell behind the body and shrug upward for a different trap stimulus.",
+        difficulty: "intermediate",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=behind+the+back+shrugs",
+            text: "Behind-the-Back Shrugs",
+          },
+        ],
+      },
+      {
+        name: "Trap Bar Carries",
+        description: "Carry a loaded trap bar while keeping the shoulders packed and posture tall.",
+        difficulty: "intermediate",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=trap+bar+carry+exercise",
+            text: "Trap Bar Carry Exercise",
           },
         ],
       },
@@ -966,6 +1204,31 @@ export const muscles: Muscle[] = [
           },
         ],
       },
+      {
+        name: "Meadows Row",
+        description: "Perform a one-arm landmine row with a staggered stance and strong lat drive.",
+        difficulty: "advanced",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=meadows+row+exercise",
+            text: "Meadows Row Exercise",
+          },
+        ],
+      },
+      {
+        name: "Chest-Supported Row",
+        description:
+          "Row dumbbells or a machine while supported on a bench to reduce lower-back fatigue.",
+        difficulty: "beginner",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=chest+supported+row+form",
+            text: "Chest-Supported Row Form",
+          },
+        ],
+      },
     ],
   },
   {
@@ -1021,6 +1284,31 @@ export const muscles: Muscle[] = [
             type: "video",
             link: "https://www.youtube.com/results?search_query=prone+y+raise+exercise",
             text: "Prone Y Raise Execution",
+          },
+        ],
+      },
+      {
+        name: "Seal Row",
+        description: "Lie chest-down on a high bench and row the weight to isolate the upper back.",
+        difficulty: "intermediate",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=seal+row+exercise",
+            text: "Seal Row Exercise",
+          },
+        ],
+      },
+      {
+        name: "Scapular Retractions",
+        description:
+          "Pull the shoulder blades together without bending the elbows to train scapular control.",
+        difficulty: "beginner",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=scapular+retraction+exercise",
+            text: "Scapular Retraction Exercise",
           },
         ],
       },
@@ -1105,6 +1393,32 @@ export const muscles: Muscle[] = [
           },
         ],
       },
+      {
+        name: "JM Press",
+        description:
+          "Lower the bar toward the upper chest and extend with a tricep-dominant pressing path.",
+        difficulty: "advanced",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=jm+press+triceps",
+            text: "JM Press for Triceps",
+          },
+        ],
+      },
+      {
+        name: "Kickbacks",
+        description:
+          "Hinge at the hips and extend the elbow fully to squeeze the triceps at lockout.",
+        difficulty: "beginner",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=tricep+kickbacks+form",
+            text: "Tricep Kickbacks Form",
+          },
+        ],
+      },
     ],
   },
   {
@@ -1183,6 +1497,32 @@ export const muscles: Muscle[] = [
             type: "video",
             link: "https://www.youtube.com/results?search_query=proper+box+step+ups+exercise",
             text: "Proper Box Step-Ups Guide",
+          },
+        ],
+      },
+      {
+        name: "Cable Pull-Through",
+        description:
+          "Face away from a low cable, hinge back, then drive the hips through to stand tall.",
+        difficulty: "beginner",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=cable+pull+through+glutes",
+            text: "Cable Pull-Through for Glutes",
+          },
+        ],
+      },
+      {
+        name: "Frog Pumps",
+        description:
+          "Lie on the floor with feet together and drive the hips up for high-rep glute work.",
+        difficulty: "beginner",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=frog+pumps+glutes",
+            text: "Frog Pumps for Glutes",
           },
         ],
       },
@@ -1268,6 +1608,31 @@ export const muscles: Muscle[] = [
           },
         ],
       },
+      {
+        name: "Single-Leg Romanian Deadlift",
+        description: "Hinge on one leg while lowering a dumbbell to train hamstrings and balance.",
+        difficulty: "intermediate",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=single+leg+romanian+deadlift+form",
+            text: "Single-Leg Romanian Deadlift Form",
+          },
+        ],
+      },
+      {
+        name: "Glute-Ham Raise",
+        description:
+          "Use a glute-ham developer to lower and raise the torso with hamstring control.",
+        difficulty: "advanced",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=glute+ham+raise+exercise",
+            text: "Glute-Ham Raise Exercise",
+          },
+        ],
+      },
     ],
   },
   {
@@ -1334,6 +1699,32 @@ export const muscles: Muscle[] = [
             type: "video",
             link: "https://www.youtube.com/results?search_query=single+leg+calf+raise+guide",
             text: "Single-Leg Calf Raise Isolation",
+          },
+        ],
+      },
+      {
+        name: "Calf Press on Leg Press",
+        description:
+          "Use the leg press platform to push through the balls of the feet for calf overload.",
+        difficulty: "intermediate",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=calf+press+on+leg+press",
+            text: "Calf Press on Leg Press",
+          },
+        ],
+      },
+      {
+        name: "Tibialis-Calf Raises",
+        description:
+          "Alternate full heel raises and toe raises to train the lower leg through both directions.",
+        difficulty: "beginner",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=tibialis+and+calf+raises",
+            text: "Tibialis and Calf Raises",
           },
         ],
       },

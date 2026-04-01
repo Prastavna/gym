@@ -6,6 +6,12 @@ describe("muscles data", () => {
     expect(muscles.length).toBeGreaterThanOrEqual(10);
   });
 
+  it("has a deep overall exercise catalog", () => {
+    const totalExercises = muscles.reduce((count, muscle) => count + muscle.exercises.length, 0);
+
+    expect(totalExercises).toBeGreaterThanOrEqual(120);
+  });
+
   it("each muscle has required fields", () => {
     for (const muscle of muscles) {
       expect(muscle.id).toBeTruthy();
