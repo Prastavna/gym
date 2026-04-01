@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { reactive, ref, watch } from "vue";
+import Accordion from "./Accordion.vue";
 import AppDialog from "./AppDialog.vue";
 import {
   WEEK_DAYS,
@@ -140,17 +141,15 @@ function save() {
       </section>
 
       <section class="grid gap-4 lg:grid-cols-2">
-        <article
+        <Accordion
           v-for="day in WEEK_DAYS"
           :key="day"
-          class="rounded-3xl border border-slate-200 bg-slate-50 p-4"
+          :title="day"
+          :description="getDayHeadline(draftSchedule[day])"
+          :default-open="day === getTodayWeekDay()"
           :data-testid="`schedule-day-${day.toLowerCase()}`"
         >
-          <div class="flex items-start justify-between gap-3">
-            <div>
-              <h3 class="text-lg font-semibold text-slate-900">{{ day }}</h3>
-              <p class="text-sm text-slate-500">{{ getDayHeadline(draftSchedule[day]) }}</p>
-            </div>
+          <template #actions>
             <button
               type="button"
               class="rounded-full border border-slate-200 px-3 py-1 text-xs font-medium text-slate-500 transition hover:border-slate-300 hover:text-slate-800"
@@ -158,9 +157,9 @@ function save() {
             >
               Clear day
             </button>
-          </div>
+          </template>
 
-          <div class="mt-4 grid gap-3">
+          <div class="grid gap-3">
             <label class="text-sm text-slate-600">
               <span class="mb-1 block">Day type</span>
               <select
@@ -238,7 +237,7 @@ function save() {
               </button>
             </div>
           </div>
-        </article>
+        </Accordion>
       </section>
 
       <div class="flex justify-end border-t border-slate-200 pt-4">
