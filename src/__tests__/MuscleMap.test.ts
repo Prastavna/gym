@@ -72,12 +72,42 @@ describe("MuscleMap", () => {
 
     const previewButton = wrapper
       .findAll("button")
-      .find((button) => button.text() === "Preview today's plan");
+      .find((button) => button.text() === "Today's plan");
     expect(previewButton).toBeDefined();
     await previewButton!.trigger("click");
 
     expect(wrapper.text()).toContain("Today's schedule: Monday");
     expect(wrapper.text()).toContain("Bench Press");
+  });
+
+  it("offers searchable exercise suggestions while still allowing custom schedule entries", async () => {
+    const wrapper = mount(MuscleMap);
+    await wrapper.find("polygon").trigger("mouseenter");
+
+    const scheduleButton = wrapper
+      .findAll("button")
+      .find((button) => button.text() === "Weekly schedule");
+    expect(scheduleButton).toBeDefined();
+    await scheduleButton!.trigger("click");
+
+    const mondayCard = wrapper.find("[data-testid='schedule-day-monday']");
+    const exerciseInput = mondayCard.findAll("input")[1];
+    expect((exerciseInput.element as HTMLInputElement).placeholder).toBe(
+      "Search or add a custom exercise",
+    );
+
+    const listId = (exerciseInput.element as HTMLInputElement).getAttribute("list");
+    expect(listId).toBeTruthy();
+
+    const options = wrapper.findAll(`datalist#${listId} option`);
+    expect(options.some((option) => option.attributes("value") === "Bench Press")).toBe(true);
+
+    await exerciseInput.setValue("Hill Sprints");
+    const addButton = mondayCard.findAll("button").find((button) => button.text() === "Add");
+    expect(addButton).toBeDefined();
+    await addButton!.trigger("click");
+
+    expect(wrapper.text()).toContain("Hill Sprints");
   });
 
   it("persists weekly schedule edits including cardio days", async () => {

@@ -74,7 +74,7 @@ describe("ExercisePanel", () => {
     });
 
     expect(wrapper.text()).toContain("Weekly schedule");
-    expect(wrapper.text()).toContain("Preview today's plan");
+    expect(wrapper.text()).toContain("Today's plan");
   });
 
   it("filters exercises by search query", async () => {

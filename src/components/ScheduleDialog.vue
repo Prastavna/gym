@@ -1,7 +1,8 @@
 <script setup lang="ts">
-import { reactive, ref, watch } from "vue";
+import { computed, reactive, ref, watch } from "vue";
 import Accordion from "./Accordion.vue";
 import AppDialog from "./AppDialog.vue";
+import { muscles } from "../data/muscles";
 import {
   WEEK_DAYS,
   cloneWeeklySchedule,
@@ -35,6 +36,11 @@ const customExerciseInputs = reactive<Record<WeekDay, string>>(
   ),
 );
 const quickAddDay = ref<WeekDay>(getTodayWeekDay());
+const availableExercises = computed(() =>
+  Array.from(
+    new Set(muscles.flatMap((muscle) => muscle.exercises.map((exercise) => exercise.name.trim()))),
+  ).sort((left, right) => left.localeCompare(right)),
+);
 
 function resetDraft() {
   const nextSchedule = cloneWeeklySchedule(props.schedule);
@@ -223,11 +229,15 @@ function save() {
             <div class="flex gap-2">
               <input
                 v-model="customExerciseInputs[day]"
+                :list="`exercise-options-${day.toLowerCase()}`"
                 type="text"
                 class="min-w-0 flex-1 rounded-xl border border-slate-200 bg-white px-3 py-2 text-sm text-slate-700"
-                placeholder="Add a custom exercise"
+                placeholder="Search or add a custom exercise"
                 @keydown.enter.prevent="addCustomExercise(day)"
               />
+              <datalist :id="`exercise-options-${day.toLowerCase()}`">
+                <option v-for="exercise in availableExercises" :key="exercise" :value="exercise" />
+              </datalist>
               <button
                 type="button"
                 class="rounded-xl border border-slate-200 bg-white px-4 py-2 text-sm font-medium text-slate-700 transition hover:border-slate-300 hover:text-slate-900"
