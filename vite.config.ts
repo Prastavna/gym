@@ -2,8 +2,6 @@ import { defineConfig } from "vite-plus";
 import vue from "@vitejs/plugin-vue";
 import tailwindcss from "@tailwindcss/vite";
 import { VitePWA } from "vite-plugin-pwa";
-import fs from "node:fs";
-
 // https://vite.dev/config/
 export default defineConfig({
   base: "./",
@@ -47,12 +45,4 @@ export default defineConfig({
     }),
     vue(),
   ],
-  server: {
-    https: fs.existsSync("./.cert/key.pem")
-      ? {
-          key: fs.readFileSync("./.cert/key.pem"),
-          cert: fs.readFileSync("./.cert/cert.pem"),
-        }
-      : undefined,
-  },
 });
