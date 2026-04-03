@@ -58,8 +58,10 @@ const filteredExercises = computed(() => {
     </div>
     <template v-else>
       <div class="flex-1 overflow-y-auto p-6">
-        <h2 class="text-2xl font-bold text-gray-800">{{ commonName }}</h2>
-        <p class="text-sm text-gray-500 mb-4">{{ muscleName }}</p>
+        <div class="flex gap-2 items-center mb-2">
+          <h2 class="text-2xl font-bold text-gray-800">{{ commonName }}</h2>
+          <p class="text-sm text-gray-500">({{ muscleName }})</p>
+        </div>
         <div class="mb-4 rounded-lg border border-gray-200 bg-gray-50 p-3">
           <div class="flex flex-col gap-3 md:flex-row">
             <input

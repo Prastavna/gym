@@ -27,7 +27,7 @@ export const muscles: Muscle[] = [
     name: "Pectoralis Major",
     commonName: "Chest",
     region: "front",
-    overlay: "77,65 127,65 127,95 77,95",
+    overlay: "67,70 137,70 137,105 67,105",
     exercises: [
       {
         name: "Bench Press",
@@ -536,7 +536,7 @@ export const muscles: Muscle[] = [
     name: "Sternocleidomastoid & Cervical Flexors",
     commonName: "Neck",
     region: "front",
-    overlay: "90,35 115,35 112,55 93,55|303,35 328,35 325,55 306,55",
+    overlay: "90,45 115,45 112,65 93,65|303,45 328,45 325,65 306,65",
     exercises: [
       {
         name: "Chin Tucks",
@@ -647,7 +647,7 @@ export const muscles: Muscle[] = [
     name: "Rectus Abdominis",
     commonName: "Abs",
     region: "front",
-    overlay: "90,95 114,95 114,150 90,150",
+    overlay: "82,110 122,110 122,160 82,160",
     exercises: [
       {
         name: "Crunches",
@@ -754,7 +754,7 @@ export const muscles: Muscle[] = [
     name: "External Obliques",
     commonName: "Side Abs",
     region: "front",
-    overlay: "77,95 90,95 90,150 77,145",
+    overlay: "72,115 85,115 85,160 72,155|121,115 134,115 134,155 121,160",
     exercises: [
       {
         name: "Russian Twists",
@@ -1036,7 +1036,7 @@ export const muscles: Muscle[] = [
     name: "Trapezius",
     commonName: "Traps",
     region: "back",
-    overlay: "290,55 340,55 335,85 295,85",
+    overlay: "290,65 340,65 335,90 295,90",
     exercises: [
       {
         name: "Barbell Shrugs",
@@ -1236,7 +1236,7 @@ export const muscles: Muscle[] = [
     name: "Rhomboids",
     commonName: "Upper Inner Back",
     region: "back",
-    overlay: "303,70 327,70 327,95 303,95",
+    overlay: "303,85 327,85 327,110 303,110",
     exercises: [
       {
         name: "Cable Rows",
@@ -1426,7 +1426,7 @@ export const muscles: Muscle[] = [
     name: "Gluteus Maximus",
     commonName: "Glutes / Butt",
     region: "back",
-    overlay: "290,150 340,150 340,180 290,180",
+    overlay: "285,150 345,150 345,190 285,190",
     exercises: [
       {
         name: "Hip Thrusts",
