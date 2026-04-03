@@ -41,4 +41,18 @@ describe("RestTimer", () => {
     expect(wrapper.text()).toContain("Rest complete");
     vi.useRealTimers();
   });
+
+  it("shows preset buttons again after countdown finishes", async () => {
+    vi.useFakeTimers();
+    const wrapper = mount(RestTimer, { props: { active: false } });
+    const btn = wrapper.findAll("button").find((b) => b.text() === "30s");
+    await btn!.trigger("click");
+    vi.advanceTimersByTime(30000);
+    await wrapper.vm.$nextTick();
+    expect(wrapper.text()).toContain("Rest complete");
+    expect(wrapper.text()).toContain("30s");
+    expect(wrapper.text()).toContain("60s");
+    expect(wrapper.text()).toContain("90s");
+    vi.useRealTimers();
+  });
 });

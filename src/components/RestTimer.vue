@@ -39,7 +39,7 @@ const circumference = 2 * Math.PI * radius;
 <template>
   <div class="inline-flex items-center gap-2">
     <!-- Idle: show preset buttons -->
-    <template v-if="!running && !done">
+    <template v-if="!running">
       <button
         v-for="s in presets"
         :key="s"
