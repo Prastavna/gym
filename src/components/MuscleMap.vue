@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, computed } from "vue";
+import { computed, ref } from "vue";
 import { muscles } from "../data/muscles";
 import MuscleOverlay from "./MuscleOverlay.vue";
 import ExercisePanel from "./ExercisePanel.vue";
