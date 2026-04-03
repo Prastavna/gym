@@ -48,9 +48,11 @@ export default defineConfig({
     vue(),
   ],
   server: {
-    https: {
-      key: fs.readFileSync("./.cert/key.pem"),
-      cert: fs.readFileSync("./.cert/cert.pem"),
-    },
+    https: fs.existsSync("./.cert/key.pem")
+      ? {
+          key: fs.readFileSync("./.cert/key.pem"),
+          cert: fs.readFileSync("./.cert/cert.pem"),
+        }
+      : undefined,
   },
 });
