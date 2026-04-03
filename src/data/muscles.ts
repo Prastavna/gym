@@ -844,6 +844,80 @@ export const muscles: Muscle[] = [
     ],
   },
   {
+    id: "serratus",
+    name: "Serratus Anterior",
+    commonName: "Serratus",
+    region: "front",
+    overlay: "70,95 82,95 88,120 76,130 68,120|124,95 136,95 138,120 130,130 118,120",
+    exercises: [
+      {
+        name: "Push-Up Plus",
+        description:
+          "Perform a push-up, then protract the shoulder blades at the top to emphasize the serratus.",
+        difficulty: "beginner",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=push+up+plus+serratus",
+            text: "Push-Up Plus for Serratus",
+          },
+        ],
+      },
+      {
+        name: "Wall Slides",
+        description:
+          "Slide the forearms up a wall while reaching forward to train upward rotation and scapular control.",
+        difficulty: "beginner",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=wall+slides+serratus+anterior",
+            text: "Wall Slides Serratus Exercise",
+          },
+        ],
+      },
+      {
+        name: "Serratus Punches",
+        description:
+          "Punch a dumbbell or cable forward from shoulder height without shrugging to target the serratus.",
+        difficulty: "beginner",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=serratus+punch+exercise",
+            text: "Serratus Punch Exercise",
+          },
+        ],
+      },
+      {
+        name: "Bear Crawl",
+        description:
+          "Crawl forward with knees hovering off the ground while actively pushing the floor away.",
+        difficulty: "intermediate",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=bear+crawl+serratus+exercise",
+            text: "Bear Crawl for Shoulder Stability",
+          },
+        ],
+      },
+      {
+        name: "Dumbbell Pullover",
+        description:
+          "Lower a dumbbell behind the head and pull it back over the chest with ribcage control.",
+        difficulty: "intermediate",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=dumbbell+pullover+serratus",
+            text: "Dumbbell Pullover Guide",
+          },
+        ],
+      },
+    ],
+  },
+  {
     id: "quadriceps",
     name: "Quadriceps Femoris",
     commonName: "Quads / Thighs",
@@ -943,6 +1017,80 @@ export const muscles: Muscle[] = [
             type: "video",
             link: "https://www.youtube.com/results?search_query=spanish+squat+exercise",
             text: "Spanish Squat Exercise",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    id: "adductors",
+    name: "Hip Adductors",
+    commonName: "Inner Thighs",
+    region: "front",
+    overlay: "92,165 107,165 110,255 96,255",
+    exercises: [
+      {
+        name: "Copenhagen Plank",
+        description:
+          "Support the top leg on a bench and hold a side plank to build strong, resilient adductors.",
+        difficulty: "advanced",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=copenhagen+plank+exercise",
+            text: "Copenhagen Plank Exercise",
+          },
+        ],
+      },
+      {
+        name: "Sumo Squat",
+        description:
+          "Take a wide stance, sit down between the hips, and drive through the feet to stand tall.",
+        difficulty: "beginner",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=sumo+squat+inner+thighs",
+            text: "Sumo Squat for Inner Thighs",
+          },
+        ],
+      },
+      {
+        name: "Adductor Machine",
+        description:
+          "Sit in the machine and bring the legs inward under control to isolate the inner thighs.",
+        difficulty: "beginner",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=adductor+machine+form",
+            text: "Adductor Machine Form",
+          },
+        ],
+      },
+      {
+        name: "Lateral Lunge",
+        description:
+          "Step out to the side, sit into one hip, and drive back to center to lengthen and load the adductors.",
+        difficulty: "intermediate",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=lateral+lunge+form+guide",
+            text: "Lateral Lunge Form Guide",
+          },
+        ],
+      },
+      {
+        name: "Slider Adduction",
+        description:
+          "Stand with one foot on a slider, let it glide outward, then pull it back in using the inner thigh.",
+        difficulty: "intermediate",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=slider+adduction+exercise",
+            text: "Slider Adduction Exercise",
           },
         ],
       },
@@ -1633,6 +1781,119 @@ export const muscles: Muscle[] = [
           },
         ],
       },
+      {
+        name: "Sliding Leg Curl",
+        description:
+          "Bridge the hips up and slide the heels in and out on towels or sliders to challenge the hamstrings.",
+        difficulty: "intermediate",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=sliding+leg+curl+exercise",
+            text: "Sliding Leg Curl Exercise",
+          },
+        ],
+      },
+      {
+        name: "Stability Ball Leg Curl",
+        description:
+          "Lie on the floor with heels on a ball, bridge up, and curl the ball toward the glutes.",
+        difficulty: "intermediate",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=stability+ball+leg+curl",
+            text: "Stability Ball Leg Curl",
+          },
+        ],
+      },
+      {
+        name: "Cable Leg Curl",
+        description:
+          "Use an ankle strap on a low cable and curl the heel toward the glutes one leg at a time.",
+        difficulty: "beginner",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=cable+leg+curl+ankle+strap",
+            text: "Cable Leg Curl Tutorial",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    id: "erector-spinae",
+    name: "Erector Spinae",
+    commonName: "Lower Back",
+    region: "back",
+    overlay: "304,112 326,112 330,165 300,165",
+    exercises: [
+      {
+        name: "Back Extensions",
+        description:
+          "Hinge over a back extension bench and raise the torso until the spine is neutral.",
+        difficulty: "beginner",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=back+extensions+form",
+            text: "Back Extensions Form",
+          },
+        ],
+      },
+      {
+        name: "Bird Dog",
+        description:
+          "Extend the opposite arm and leg from all fours while keeping the trunk braced and still.",
+        difficulty: "beginner",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=bird+dog+exercise+form",
+            text: "Bird Dog Exercise Form",
+          },
+        ],
+      },
+      {
+        name: "Superman Hold",
+        description:
+          "Lie face down and lift the arms, chest, and legs slightly off the floor with control.",
+        difficulty: "beginner",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=superman+hold+lower+back",
+            text: "Superman Hold Lower Back Exercise",
+          },
+        ],
+      },
+      {
+        name: "Reverse Hyperextension",
+        description:
+          "Swing the legs up behind the body on a reverse hyper machine or bench with a controlled arc.",
+        difficulty: "intermediate",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=reverse+hyperextension+exercise",
+            text: "Reverse Hyperextension Exercise",
+          },
+        ],
+      },
+      {
+        name: "Jefferson Curl",
+        description:
+          "Roll the spine down one segment at a time under light load, then return slowly and smoothly.",
+        difficulty: "advanced",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=jefferson+curl+exercise",
+            text: "Jefferson Curl Exercise",
+          },
+        ],
+      },
     ],
   },
   {
@@ -1725,6 +1986,45 @@ export const muscles: Muscle[] = [
             type: "video",
             link: "https://www.youtube.com/results?search_query=tibialis+and+calf+raises",
             text: "Tibialis and Calf Raises",
+          },
+        ],
+      },
+      {
+        name: "Bent-Knee Calf Raise",
+        description:
+          "Perform calf raises with the knees slightly bent to increase soleus involvement.",
+        difficulty: "beginner",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=bent+knee+calf+raise",
+            text: "Bent-Knee Calf Raise",
+          },
+        ],
+      },
+      {
+        name: "Pogo Jumps",
+        description:
+          "Perform quick, springy ankle-driven jumps to build calf stiffness and reactive strength.",
+        difficulty: "intermediate",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=pogo+jumps+exercise",
+            text: "Pogo Jumps Exercise",
+          },
+        ],
+      },
+      {
+        name: "Single-Leg Seated Calf Raise",
+        description:
+          "Use one leg at a time in a seated position to bring up weaker calves with extra range.",
+        difficulty: "intermediate",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=single+leg+seated+calf+raise",
+            text: "Single-Leg Seated Calf Raise",
           },
         ],
       },
