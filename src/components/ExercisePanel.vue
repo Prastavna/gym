@@ -3,6 +3,7 @@ import { computed, ref } from "vue";
 import type { Exercise } from "../data/muscles";
 import RestTimer from "./RestTimer.vue";
 import ExercisePanelToolbar from "./ExercisePanelToolbar.vue";
+import { useFavourites } from "../composables/useFavourites";
 
 const props = defineProps<{
   muscleName: string | null;
@@ -14,7 +15,10 @@ const emit = defineEmits<{
   addToSchedule: [exerciseName: string];
   openSchedule: [];
   openTodayPreview: [];
+  openFavourites: [];
 }>();
+
+const { toggle, isFavourite, favourites } = useFavourites();
 
 const activeRestExercise = ref<string | null>(null);
 const searchQuery = ref("");
@@ -46,8 +50,10 @@ const filteredExercises = computed(() => {
 <template>
   <div class="h-full flex flex-col">
     <ExercisePanelToolbar
+      :favourite-count="favourites.size"
       @open-schedule="emit('openSchedule')"
       @open-today-preview="emit('openTodayPreview')"
+      @open-favourites="emit('openFavourites')"
     />
     <div
       v-if="!muscleName"
@@ -112,6 +118,35 @@ const filteredExercises = computed(() => {
                 >
                   {{ exercise.difficulty }}
                 </span>
+                <button
+                  type="button"
+                  class="rounded-full p-1 transition"
+                  :class="
+                    isFavourite(exercise.name)
+                      ? 'text-amber-400 hover:text-amber-500'
+                      : 'text-gray-300 hover:text-amber-400'
+                  "
+                  :aria-label="
+                    isFavourite(exercise.name)
+                      ? `Remove ${exercise.name} from favourites`
+                      : `Add ${exercise.name} to favourites`
+                  "
+                  @click="toggle(exercise.name)"
+                >
+                  <svg
+                    viewBox="0 0 24 24"
+                    class="size-5"
+                    :fill="isFavourite(exercise.name) ? 'currentColor' : 'none'"
+                    stroke="currentColor"
+                    stroke-width="1.5"
+                  >
+                    <path
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      d="M11.48 3.499a.562.562 0 0 1 1.04 0l2.125 5.111a.563.563 0 0 0 .475.345l5.518.442c.499.04.701.663.321.988l-4.204 3.602a.563.563 0 0 0-.182.557l1.285 5.385a.562.562 0 0 1-.84.61l-4.725-2.885a.562.562 0 0 0-.586 0L6.982 20.54a.562.562 0 0 1-.84-.61l1.285-5.386a.562.562 0 0 0-.182-.557l-4.204-3.602a.562.562 0 0 1 .321-.988l5.518-.442a.563.563 0 0 0 .475-.345L11.48 3.5Z"
+                    />
+                  </svg>
+                </button>
               </div>
             </div>
             <p class="text-sm text-gray-600">{{ exercise.description }}</p>

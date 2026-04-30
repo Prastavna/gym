@@ -1,8 +1,10 @@
 // @vitest-environment jsdom
-import { describe, expect, it } from "vite-plus/test";
+import { beforeEach, describe, expect, it } from "vite-plus/test";
 import { mount } from "@vue/test-utils";
+import { nextTick } from "vue";
 import ExercisePanel from "../components/ExercisePanel.vue";
 import type { Exercise } from "../data/muscles";
+import { useFavourites } from "../composables/useFavourites";
 
 const sampleExercises: Exercise[] = [
   {
@@ -20,6 +22,12 @@ const sampleExercises: Exercise[] = [
 ];
 
 describe("ExercisePanel", () => {
+  beforeEach(() => {
+    localStorage.clear();
+    const { favourites } = useFavourites();
+    favourites.value = new Set();
+  });
+
   it("shows placeholder when no muscle is selected", () => {
     const wrapper = mount(ExercisePanel, {
       props: { muscleName: null, commonName: null, exercises: [] },
@@ -73,7 +81,7 @@ describe("ExercisePanel", () => {
       props: { muscleName: "Test", commonName: "Test", exercises: sampleExercises },
     });
 
-    expect(wrapper.text()).toContain("Weekly schedule");
+    expect(wrapper.text()).toContain("Schedule");
     expect(wrapper.text()).toContain("Today's plan");
   });
 
@@ -117,5 +125,51 @@ describe("ExercisePanel", () => {
     const buttons = wrapper.findAll("button").filter((b) => b.text() === "60s");
     // One per exercise card
     expect(buttons.length).toBe(sampleExercises.length);
+  });
+
+  it("renders a star button on each exercise card", () => {
+    const wrapper = mount(ExercisePanel, {
+      props: { muscleName: "Test", commonName: "Test", exercises: sampleExercises },
+    });
+    const stars = wrapper.findAll("button[aria-label*='favourites']");
+    expect(stars.length).toBe(sampleExercises.length);
+  });
+
+  it("star button shows 'Add to favourites' label when not favourited", () => {
+    const wrapper = mount(ExercisePanel, {
+      props: { muscleName: "Test", commonName: "Test", exercises: sampleExercises },
+    });
+    expect(wrapper.find("button[aria-label='Add Bench Press to favourites']").exists()).toBe(true);
+  });
+
+  it("clicking star toggles to 'Remove from favourites'", async () => {
+    const wrapper = mount(ExercisePanel, {
+      props: { muscleName: "Test", commonName: "Test", exercises: sampleExercises },
+    });
+    await wrapper.find("button[aria-label='Add Bench Press to favourites']").trigger("click");
+    await nextTick();
+    expect(wrapper.find("button[aria-label='Remove Bench Press from favourites']").exists()).toBe(
+      true,
+    );
+  });
+
+  it("clicking star twice unfavourites the exercise", async () => {
+    const wrapper = mount(ExercisePanel, {
+      props: { muscleName: "Test", commonName: "Test", exercises: sampleExercises },
+    });
+    await wrapper.find("button[aria-label='Add Bench Press to favourites']").trigger("click");
+    await nextTick();
+    await wrapper.find("button[aria-label='Remove Bench Press from favourites']").trigger("click");
+    await nextTick();
+    expect(wrapper.find("button[aria-label='Add Bench Press to favourites']").exists()).toBe(true);
+  });
+
+  it("favourites toolbar button shows count when exercises are starred", async () => {
+    const wrapper = mount(ExercisePanel, {
+      props: { muscleName: "Test", commonName: "Test", exercises: sampleExercises },
+    });
+    await wrapper.find("button[aria-label='Add Bench Press to favourites']").trigger("click");
+    await nextTick();
+    expect(wrapper.find("button[aria-label='Favourites (1)']").exists()).toBe(true);
   });
 });

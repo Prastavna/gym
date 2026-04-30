@@ -5,6 +5,7 @@ import MuscleOverlay from "./MuscleOverlay.vue";
 import ExercisePanel from "./ExercisePanel.vue";
 import ScheduleDialog from "./ScheduleDialog.vue";
 import TodayScheduleDialog from "./TodayScheduleDialog.vue";
+import FavouritesDialog from "./FavouritesDialog.vue";
 import { useWeeklySchedule } from "../composables/useWeeklySchedule";
 
 const hoveredMuscleId = ref<string | null>(null);
@@ -12,6 +13,7 @@ const stickyMuscleId = ref<string | null>(null);
 const debug = new URLSearchParams(window.location.search).has("debug");
 const scheduleDialogOpen = ref(false);
 const todayDialogOpen = ref(false);
+const favouritesDialogOpen = ref(false);
 const suggestedExercise = ref<string | null>(null);
 
 /** Show hovered muscle if hovering, otherwise fall back to sticky (last-hovered) */
@@ -89,6 +91,7 @@ function openScheduleDialogWithExercise(exerciseName: string) {
           @add-to-schedule="openScheduleDialogWithExercise"
           @open-schedule="scheduleDialogOpen = true"
           @open-today-preview="todayDialogOpen = true"
+          @open-favourites="favouritesDialogOpen = true"
         />
       </div>
     </div>
@@ -108,5 +111,7 @@ function openScheduleDialogWithExercise(exerciseName: string) {
       :schedule="todaysSchedule"
       @close="todayDialogOpen = false"
     />
+
+    <FavouritesDialog :open="favouritesDialogOpen" @close="favouritesDialogOpen = false" />
   </div>
 </template>
