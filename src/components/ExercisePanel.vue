@@ -4,6 +4,7 @@ import type { Exercise } from "../data/muscles";
 import RestTimer from "./RestTimer.vue";
 import ExercisePanelToolbar from "./ExercisePanelToolbar.vue";
 import { useFavourites } from "../composables/useFavourites";
+import { usePersonalRecords } from "../composables/usePersonalRecords";
 
 const props = defineProps<{
   muscleName: string | null;
@@ -19,6 +20,7 @@ const emit = defineEmits<{
 }>();
 
 const { toggle, isFavourite, favourites } = useFavourites();
+const { getRecord, setRecord } = usePersonalRecords();
 
 const activeRestExercise = ref<string | null>(null);
 const searchQuery = ref("");
@@ -164,7 +166,20 @@ const filteredExercises = computed(() => {
                 {{ resource.text }}
               </a>
             </div>
-            <div class="mt-3 pt-2 border-t border-gray-100">
+            <div class="mt-3 flex items-center gap-2">
+              <span class="shrink-0 text-xs font-semibold uppercase tracking-wide text-amber-500"
+                >PR</span
+              >
+              <input
+                type="text"
+                :value="getRecord(exercise.name)"
+                placeholder="e.g. 70 lbs × 20 reps"
+                class="min-w-0 flex-1 rounded border border-transparent bg-transparent px-1 py-0.5 text-xs text-gray-600 placeholder-gray-300 transition hover:border-gray-200 focus:border-gray-300 focus:bg-gray-50 focus:outline-none"
+                @blur="setRecord(exercise.name, ($event.target as HTMLInputElement).value)"
+                @keyup.enter="($event.target as HTMLInputElement).blur()"
+              />
+            </div>
+            <div class="mt-2 pt-2 border-t border-gray-100">
               <RestTimer
                 :active="activeRestExercise === exercise.name"
                 @start="activeRestExercise = exercise.name"

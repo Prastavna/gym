@@ -5,6 +5,7 @@ import { nextTick } from "vue";
 import ExercisePanel from "../components/ExercisePanel.vue";
 import type { Exercise } from "../data/muscles";
 import { useFavourites } from "../composables/useFavourites";
+import { usePersonalRecords } from "../composables/usePersonalRecords";
 
 const sampleExercises: Exercise[] = [
   {
@@ -26,6 +27,8 @@ describe("ExercisePanel", () => {
     localStorage.clear();
     const { favourites } = useFavourites();
     favourites.value = new Set();
+    const { records } = usePersonalRecords();
+    records.value = {};
   });
 
   it("shows placeholder when no muscle is selected", () => {
@@ -162,6 +165,48 @@ describe("ExercisePanel", () => {
     await wrapper.find("button[aria-label='Remove Bench Press from favourites']").trigger("click");
     await nextTick();
     expect(wrapper.find("button[aria-label='Add Bench Press to favourites']").exists()).toBe(true);
+  });
+
+  it("renders a PR input on each exercise card", () => {
+    const wrapper = mount(ExercisePanel, {
+      props: { muscleName: "Test", commonName: "Test", exercises: sampleExercises },
+    });
+    const inputs = wrapper.findAll("input[placeholder='e.g. 70 lbs × 20 reps']");
+    expect(inputs.length).toBe(sampleExercises.length);
+  });
+
+  it("PR input is empty by default", () => {
+    const wrapper = mount(ExercisePanel, {
+      props: { muscleName: "Test", commonName: "Test", exercises: sampleExercises },
+    });
+    const input = wrapper.findAll("input[placeholder='e.g. 70 lbs × 20 reps']")[0];
+    expect((input.element as HTMLInputElement).value).toBe("");
+  });
+
+  it("PR input saves on blur", async () => {
+    const wrapper = mount(ExercisePanel, {
+      props: { muscleName: "Test", commonName: "Test", exercises: sampleExercises },
+    });
+    const input = wrapper.findAll("input[placeholder='e.g. 70 lbs × 20 reps']")[0];
+    await input.setValue("80 lbs × 8 reps");
+    await input.trigger("blur");
+    await nextTick();
+
+    const { getRecord } = usePersonalRecords();
+    expect(getRecord("Bench Press")).toBe("80 lbs × 8 reps");
+  });
+
+  it("PR input shows existing record value", async () => {
+    const { setRecord } = usePersonalRecords();
+    setRecord("Bench Press", "100 kg × 5");
+
+    const wrapper = mount(ExercisePanel, {
+      props: { muscleName: "Test", commonName: "Test", exercises: sampleExercises },
+    });
+    await nextTick();
+
+    const input = wrapper.findAll("input[placeholder='e.g. 70 lbs × 20 reps']")[0];
+    expect((input.element as HTMLInputElement).value).toBe("100 kg × 5");
   });
 
   it("favourites toolbar button shows count when exercises are starred", async () => {
