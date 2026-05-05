@@ -3,6 +3,7 @@ import { computed } from "vue";
 import AppDialog from "./AppDialog.vue";
 import { muscles } from "../data/muscles";
 import { useFavourites } from "../composables/useFavourites";
+import { usePersonalRecords } from "../composables/usePersonalRecords";
 
 defineProps<{
   open: boolean;
@@ -13,6 +14,7 @@ const emit = defineEmits<{
 }>();
 
 const { favourites, toggle } = useFavourites();
+const { getRecord } = usePersonalRecords();
 
 const favouriteExercises = computed(() => {
   const result: Array<{ exerciseName: string; muscleCommonName: string }> = [];
@@ -73,6 +75,7 @@ const favouriteExercises = computed(() => {
             >
               <th class="px-4 py-3">Exercise</th>
               <th class="px-4 py-3">Muscle</th>
+              <th class="px-4 py-3">PR</th>
               <th class="px-4 py-3 text-right"></th>
             </tr>
           </thead>
@@ -80,6 +83,7 @@ const favouriteExercises = computed(() => {
             <tr v-for="ex in favouriteExercises" :key="ex.exerciseName" class="hover:bg-gray-50">
               <td class="px-4 py-3 font-medium text-gray-800">{{ ex.exerciseName }}</td>
               <td class="px-4 py-3 text-gray-500">{{ ex.muscleCommonName }}</td>
+              <td class="px-4 py-3 text-gray-700">{{ getRecord(ex.exerciseName) || "—" }}</td>
               <td class="px-4 py-3 text-right">
                 <button
                   type="button"

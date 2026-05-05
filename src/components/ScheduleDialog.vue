@@ -113,7 +113,7 @@ function save() {
     v-if="open"
     title="Weekly gym schedule"
     description="Plan each day, add exercises, and keep the schedule saved in local storage."
-    @close="emit('close')"
+    @close="save"
   >
     <div class="space-y-6 p-6">
       <section
