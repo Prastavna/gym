@@ -68,6 +68,19 @@ export const muscles: Muscle[] = [
         ],
       },
       {
+        name: "Pectoral Fly",
+        description:
+          "Use a pec deck or cable setup to bring arms together in a controlled arc, squeezing the chest.",
+        difficulty: "beginner",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=pectoral+fly+machine+form",
+            text: "Pectoral Fly Machine Form Guide",
+          },
+        ],
+      },
+      {
         name: "Incline Bench Press",
         description: "Press barbell on a 30-45 degree incline bench to target upper chest.",
         difficulty: "intermediate",
