@@ -5,16 +5,16 @@ import { muscles } from "../data/muscles";
 import { useFavourites } from "../composables/useFavourites";
 import { usePersonalRecords } from "../composables/usePersonalRecords";
 
-defineProps<{
-  open: boolean;
-}>();
-
 const emit = defineEmits<{
   close: [];
 }>();
 
 const { favourites, toggle } = useFavourites();
 const { getRecord } = usePersonalRecords();
+
+const props = defineProps<{
+  open: boolean;
+}>();
 
 const favouriteExercises = computed(() => {
   const result: Array<{ exerciseName: string; muscleCommonName: string }> = [];

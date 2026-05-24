@@ -2,6 +2,7 @@
 import { afterEach, beforeEach, describe, expect, it, vi } from "vite-plus/test";
 import { mount } from "@vue/test-utils";
 import MuscleMap from "../components/MuscleMap.vue";
+import { useFavourites } from "../composables/useFavourites";
 
 describe("MuscleMap", () => {
   beforeEach(() => {
@@ -86,7 +87,7 @@ describe("MuscleMap", () => {
 
     const scheduleButton = wrapper
       .findAll("button")
-      .find((button) => button.text() === "Weekly schedule");
+      .find((button) => button.text().includes("Schedule"));
     expect(scheduleButton).toBeDefined();
     await scheduleButton!.trigger("click");
 
@@ -116,7 +117,7 @@ describe("MuscleMap", () => {
 
     const scheduleButton = wrapper
       .findAll("button")
-      .find((button) => button.text() === "Weekly schedule");
+      .find((button) => button.text().includes("Schedule"));
     expect(scheduleButton).toBeDefined();
     await scheduleButton!.trigger("click");
 
@@ -142,7 +143,7 @@ describe("MuscleMap", () => {
     await secondWrapper.find("polygon").trigger("mouseenter");
     const secondScheduleButton = secondWrapper
       .findAll("button")
-      .find((button) => button.text() === "Weekly schedule");
+      .find((button) => button.text().includes("Schedule"));
     expect(secondScheduleButton).toBeDefined();
     await secondScheduleButton!.trigger("click");
 
@@ -162,5 +163,22 @@ describe("MuscleMap", () => {
 
     expect(wrapper.text()).not.toContain("Planned days:");
     expect(wrapper.text()).not.toContain("Today:");
+  });
+
+  it("shows all favourites in the favourites dialog even when a muscle is selected", async () => {
+    const { toggle } = useFavourites();
+    toggle("Bench Press");
+    toggle("Overhead Press");
+
+    const wrapper = mount(MuscleMap);
+    await wrapper.find("polygon").trigger("mouseenter");
+
+    const favouritesButton = wrapper.find("button[aria-label='Favourites (2)']");
+    expect(favouritesButton.exists()).toBe(true);
+    await favouritesButton.trigger("click");
+
+    expect(wrapper.text()).toContain("Bench Press");
+    expect(wrapper.text()).toContain("Overhead Press");
+    expect(wrapper.text()).toContain("2 exercises saved");
   });
 });

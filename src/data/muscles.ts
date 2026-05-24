@@ -226,6 +226,19 @@ export const muscles: Muscle[] = [
         ],
       },
       {
+        name: "Rear Delt Fly",
+        description:
+          "Hinge at the hips or lie chest-supported, then raise dumbbells out wide to target the rear delts.",
+        difficulty: "beginner",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=rear+delt+fly+form",
+            text: "Rear Delt Fly Form Guide",
+          },
+        ],
+      },
+      {
         name: "Landmine Press",
         description:
           "Press the end of a barbell anchored at the floor upward and forward at an angle.",
@@ -247,6 +260,19 @@ export const muscles: Muscle[] = [
             type: "video",
             link: "https://www.youtube.com/results?search_query=cable+lateral+raise+form",
             text: "Cable Lateral Raise Form",
+          },
+        ],
+      },
+      {
+        name: "Scaption Raise",
+        description:
+          "Raise dumbbells slightly forward of your sides in the scapular plane to train the shoulders smoothly.",
+        difficulty: "beginner",
+        resources: [
+          {
+            type: "video",
+            link: "https://www.youtube.com/results?search_query=scaption+raise+form",
+            text: "Scaption Raise Form Guide",
           },
         ],
       },

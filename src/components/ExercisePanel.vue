@@ -25,6 +25,11 @@ const { getRecord, setRecord } = usePersonalRecords();
 const activeRestExercise = ref<string | null>(null);
 const searchQuery = ref("");
 const difficultyFilter = ref<Exercise["difficulty"] | "all">("all");
+const difficultyOrder: Record<Exercise["difficulty"], number> = {
+  beginner: 0,
+  intermediate: 1,
+  advanced: 2,
+};
 
 const badgeColor = (d: Exercise["difficulty"]) =>
   d === "beginner"
@@ -36,16 +41,32 @@ const badgeColor = (d: Exercise["difficulty"]) =>
 const filteredExercises = computed(() => {
   const query = searchQuery.value.trim().toLowerCase();
 
-  return props.exercises.filter((exercise) => {
-    const matchesDifficulty =
-      difficultyFilter.value === "all" || exercise.difficulty === difficultyFilter.value;
-    const matchesQuery =
-      !query ||
-      exercise.name.toLowerCase().includes(query) ||
-      exercise.description.toLowerCase().includes(query);
+  return props.exercises
+    .filter((exercise) => {
+      const matchesDifficulty =
+        difficultyFilter.value === "all" || exercise.difficulty === difficultyFilter.value;
+      const matchesQuery =
+        !query ||
+        exercise.name.toLowerCase().includes(query) ||
+        exercise.description.toLowerCase().includes(query);
 
-    return matchesDifficulty && matchesQuery;
-  });
+      return matchesDifficulty && matchesQuery;
+    })
+    .sort((a, b) => {
+      const favouriteDelta = Number(isFavourite(b.name)) - Number(isFavourite(a.name));
+
+      if (favouriteDelta !== 0) {
+        return favouriteDelta;
+      }
+
+      const difficultyDelta = difficultyOrder[a.difficulty] - difficultyOrder[b.difficulty];
+
+      if (difficultyDelta !== 0) {
+        return difficultyDelta;
+      }
+
+      return a.name.localeCompare(b.name);
+    });
 });
 </script>
 

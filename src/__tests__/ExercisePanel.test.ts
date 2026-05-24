@@ -2,6 +2,7 @@
 import { beforeEach, describe, expect, it } from "vite-plus/test";
 import { mount } from "@vue/test-utils";
 import { nextTick } from "vue";
+import type { VueWrapper } from "@vue/test-utils";
 import ExercisePanel from "../components/ExercisePanel.vue";
 import type { Exercise } from "../data/muscles";
 import { useFavourites } from "../composables/useFavourites";
@@ -20,7 +21,19 @@ const sampleExercises: Exercise[] = [
     difficulty: "beginner",
     resources: [],
   },
+  {
+    name: "Ring Dips",
+    description: "Dip on rings with more stability demand.",
+    difficulty: "advanced",
+    resources: [],
+  },
 ];
+
+const getExerciseCard = (wrapper: VueWrapper, exerciseName: string) =>
+  wrapper
+    .findAll("h3")
+    .find((heading) => heading.text() === exerciseName)
+    ?.element.closest(".bg-white.rounded-lg.border.border-gray-200.p-4.shadow-sm");
 
 describe("ExercisePanel", () => {
   beforeEach(() => {
@@ -52,6 +65,7 @@ describe("ExercisePanel", () => {
     });
     expect(wrapper.text()).toContain("Bench Press");
     expect(wrapper.text()).toContain("Push-Ups");
+    expect(wrapper.text()).toContain("Ring Dips");
   });
 
   it("shows difficulty badges", () => {
@@ -60,6 +74,7 @@ describe("ExercisePanel", () => {
     });
     expect(wrapper.text()).toContain("intermediate");
     expect(wrapper.text()).toContain("beginner");
+    expect(wrapper.text()).toContain("advanced");
   });
 
   it("renders resource links", () => {
@@ -109,6 +124,27 @@ describe("ExercisePanel", () => {
 
     expect(wrapper.text()).toContain("Push-Ups");
     expect(wrapper.text()).not.toContain("Bench Press");
+  });
+
+  it("sorts exercises from beginner to advanced by default", () => {
+    const wrapper = mount(ExercisePanel, {
+      props: { muscleName: "Test", commonName: "Test", exercises: sampleExercises },
+    });
+
+    const headings = wrapper.findAll("h3").map((node) => node.text());
+    expect(headings).toEqual(["Push-Ups", "Bench Press", "Ring Dips"]);
+  });
+
+  it("shows favourited exercises first within the selected muscle", async () => {
+    const wrapper = mount(ExercisePanel, {
+      props: { muscleName: "Test", commonName: "Test", exercises: sampleExercises },
+    });
+
+    await wrapper.find("button[aria-label='Add Ring Dips to favourites']").trigger("click");
+    await nextTick();
+
+    const headings = wrapper.findAll("h3").map((node) => node.text());
+    expect(headings).toEqual(["Ring Dips", "Push-Ups", "Bench Press"]);
   });
 
   it("shows an empty state when filters match nothing", async () => {
@@ -187,7 +223,11 @@ describe("ExercisePanel", () => {
     const wrapper = mount(ExercisePanel, {
       props: { muscleName: "Test", commonName: "Test", exercises: sampleExercises },
     });
-    const input = wrapper.findAll("input[placeholder='e.g. 70 lbs × 20 reps']")[0];
+    const card = getExerciseCard(wrapper, "Bench Press");
+    expect(card).not.toBeNull();
+    const input = wrapper
+      .findAll("input[placeholder='e.g. 70 lbs × 20 reps']")
+      .find((node) => card?.contains(node.element))!;
     await input.setValue("80 lbs × 8 reps");
     await input.trigger("blur");
     await nextTick();
@@ -205,7 +245,11 @@ describe("ExercisePanel", () => {
     });
     await nextTick();
 
-    const input = wrapper.findAll("input[placeholder='e.g. 70 lbs × 20 reps']")[0];
+    const card = getExerciseCard(wrapper, "Bench Press");
+    expect(card).not.toBeNull();
+    const input = wrapper
+      .findAll("input[placeholder='e.g. 70 lbs × 20 reps']")
+      .find((node) => card?.contains(node.element))!;
     expect((input.element as HTMLInputElement).value).toBe("100 kg × 5");
   });
 
