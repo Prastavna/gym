@@ -34,6 +34,12 @@ function openScheduleDialogWithExercise(exerciseName: string) {
   suggestedExercise.value = exerciseName;
   scheduleDialogOpen.value = true;
 }
+
+function selectMuscleFromFavourites(muscleId: string) {
+  hoveredMuscleId.value = null;
+  stickyMuscleId.value = muscleId;
+  favouritesDialogOpen.value = false;
+}
 </script>
 
 <template>
@@ -112,6 +118,10 @@ function openScheduleDialogWithExercise(exerciseName: string) {
       @close="todayDialogOpen = false"
     />
 
-    <FavouritesDialog :open="favouritesDialogOpen" @close="favouritesDialogOpen = false" />
+    <FavouritesDialog
+      :open="favouritesDialogOpen"
+      @close="favouritesDialogOpen = false"
+      @select-muscle="selectMuscleFromFavourites"
+    />
   </div>
 </template>

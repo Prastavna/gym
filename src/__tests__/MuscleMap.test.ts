@@ -1,8 +1,10 @@
 // @vitest-environment jsdom
 import { afterEach, beforeEach, describe, expect, it, vi } from "vite-plus/test";
 import { mount } from "@vue/test-utils";
+import { nextTick } from "vue";
 import MuscleMap from "../components/MuscleMap.vue";
 import { useFavourites } from "../composables/useFavourites";
+import FavouritesDialog from "../components/FavouritesDialog.vue";
 
 describe("MuscleMap", () => {
   beforeEach(() => {
@@ -180,5 +182,26 @@ describe("MuscleMap", () => {
     expect(wrapper.text()).toContain("Bench Press");
     expect(wrapper.text()).toContain("Overhead Press");
     expect(wrapper.text()).toContain("2 exercises saved");
+  });
+
+  it("closes favourites and selects the muscle when a favourite exercise name is clicked", async () => {
+    const { toggle } = useFavourites();
+    toggle("Overhead Press");
+
+    const wrapper = mount(MuscleMap);
+    const initialPolygon = wrapper.find("polygon");
+    await initialPolygon.trigger("mouseenter");
+
+    const favouritesButton = wrapper.find("button[aria-label='Favourites (1)']");
+    expect(favouritesButton.exists()).toBe(true);
+    await favouritesButton.trigger("click");
+    await nextTick();
+
+    wrapper.findComponent(FavouritesDialog).vm.$emit("selectMuscle", "deltoids");
+    await nextTick();
+
+    expect(wrapper.find("[role='dialog']").exists()).toBe(false);
+    expect(wrapper.text()).toContain("Shoulders");
+    expect(wrapper.text()).toContain("Deltoids");
   });
 });

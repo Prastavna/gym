@@ -7,6 +7,7 @@ import { usePersonalRecords } from "../composables/usePersonalRecords";
 
 const emit = defineEmits<{
   close: [];
+  selectMuscle: [muscleId: string];
 }>();
 
 const { favourites, toggle } = useFavourites();
@@ -17,12 +18,16 @@ const props = defineProps<{
 }>();
 
 const favouriteExercises = computed(() => {
-  const result: Array<{ exerciseName: string; muscleCommonName: string }> = [];
+  const result: Array<{ exerciseName: string; muscleCommonName: string; muscleId: string }> = [];
 
   for (const muscle of muscles) {
     for (const exercise of muscle.exercises) {
       if (favourites.value.has(exercise.name)) {
-        result.push({ exerciseName: exercise.name, muscleCommonName: muscle.commonName });
+        result.push({
+          exerciseName: exercise.name,
+          muscleCommonName: muscle.commonName,
+          muscleId: muscle.id,
+        });
       }
     }
   }
@@ -81,7 +86,16 @@ const favouriteExercises = computed(() => {
           </thead>
           <tbody class="divide-y divide-gray-100 bg-white">
             <tr v-for="ex in favouriteExercises" :key="ex.exerciseName" class="hover:bg-gray-50">
-              <td class="px-4 py-3 font-medium text-gray-800">{{ ex.exerciseName }}</td>
+              <td class="px-4 py-3 font-medium text-gray-800">
+                <button
+                  type="button"
+                  class="text-left text-gray-800 transition hover:text-blue-600 hover:underline"
+                  :aria-label="`View muscle for ${ex.exerciseName}`"
+                  @click="emit('selectMuscle', ex.muscleId)"
+                >
+                  {{ ex.exerciseName }}
+                </button>
+              </td>
               <td class="px-4 py-3 text-gray-500">{{ ex.muscleCommonName }}</td>
               <td class="px-4 py-3 text-gray-700">{{ getRecord(ex.exerciseName) || "—" }}</td>
               <td class="px-4 py-3 text-right">

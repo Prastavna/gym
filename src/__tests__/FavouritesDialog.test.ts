@@ -80,6 +80,19 @@ describe("FavouritesDialog", () => {
     expect(wrapper.text()).not.toContain("Bench Press");
   });
 
+  it("emits selectMuscle when an exercise name is clicked", async () => {
+    const { toggle } = useFavourites();
+    toggle("Bench Press");
+    await nextTick();
+
+    const wrapper = mount(FavouritesDialog, { props: { open: true } });
+    const exerciseButton = wrapper.find("button[aria-label='View muscle for Bench Press']");
+    expect(exerciseButton.exists()).toBe(true);
+    await exerciseButton.trigger("click");
+
+    expect(wrapper.emitted("selectMuscle")).toEqual([["pectorals"]]);
+  });
+
   it("shows empty state after all favourites are removed", async () => {
     const { toggle } = useFavourites();
     toggle("Bench Press");
