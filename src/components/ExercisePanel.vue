@@ -3,6 +3,7 @@ import { computed, ref } from "vue";
 import type { Exercise } from "../data/muscles";
 import RestTimer from "./RestTimer.vue";
 import ExercisePanelToolbar from "./ExercisePanelToolbar.vue";
+import AppDialog from "./AppDialog.vue";
 import { useFavourites } from "../composables/useFavourites";
 import { usePersonalRecords } from "../composables/usePersonalRecords";
 
@@ -23,7 +24,12 @@ const { toggle, isFavourite, favourites } = useFavourites();
 const { getRecord, setRecord } = usePersonalRecords();
 
 const activeRestExercise = ref<string | null>(null);
+const mediaExercise = ref<Exercise | null>(null);
 const searchQuery = ref("");
+
+function openMedia(exercise: Exercise) {
+  mediaExercise.value = exercise;
+}
 const difficultyFilter = ref<Exercise["difficulty"] | "all">("all");
 const difficultyOrder: Record<Exercise["difficulty"], number> = {
   beginner: 0,
@@ -48,7 +54,8 @@ const filteredExercises = computed(() => {
       const matchesQuery =
         !query ||
         exercise.name.toLowerCase().includes(query) ||
-        exercise.description.toLowerCase().includes(query);
+        exercise.description.toLowerCase().includes(query) ||
+        (exercise.equipment?.toLowerCase().includes(query) ?? false);
 
       return matchesDifficulty && matchesQuery;
     })
@@ -172,7 +179,62 @@ const filteredExercises = computed(() => {
                 </button>
               </div>
             </div>
-            <p class="text-sm text-gray-600">{{ exercise.description }}</p>
+            <div class="flex gap-3">
+              <button
+                v-if="exercise.image"
+                type="button"
+                class="group relative block shrink-0"
+                :aria-label="`View demo for ${exercise.name}`"
+                @click="openMedia(exercise)"
+              >
+                <img
+                  :src="exercise.image"
+                  :alt="exercise.name"
+                  loading="lazy"
+                  width="72"
+                  height="72"
+                  class="size-18 rounded-md border border-gray-200 bg-gray-50 object-cover"
+                />
+                <span
+                  v-if="exercise.gif"
+                  class="absolute inset-0 flex items-center justify-center rounded-md bg-black/0 text-transparent transition group-hover:bg-black/40 group-hover:text-white"
+                  aria-hidden="true"
+                >
+                  &#9654;
+                </span>
+              </button>
+              <p class="text-sm text-gray-600">{{ exercise.description }}</p>
+            </div>
+            <div v-if="exercise.equipment" class="mt-2">
+              <span
+                class="inline-flex items-center gap-1 rounded-full bg-slate-100 px-2 py-1 text-xs font-medium capitalize text-slate-600"
+              >
+                <svg
+                  viewBox="0 0 24 24"
+                  class="size-3.5"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    d="M6.5 6.5 17.5 17.5M4 8l-1 1 3 3M20 16l1-1-3-3M8 4 7 3M16 20l1 1"
+                  />
+                </svg>
+                {{ exercise.equipment }}
+              </span>
+            </div>
+            <details v-if="exercise.steps?.length" class="mt-2 group">
+              <summary
+                class="cursor-pointer text-xs font-semibold text-indigo-600 hover:text-indigo-700 select-none"
+              >
+                Instructions ({{ exercise.steps.length }} steps)
+              </summary>
+              <ol class="mt-2 list-decimal space-y-1 pl-5 text-sm text-gray-600">
+                <li v-for="(step, i) in exercise.steps" :key="i">{{ step }}</li>
+              </ol>
+            </details>
             <div v-if="exercise.resources?.length" class="mt-2 flex flex-wrap gap-2">
               <a
                 v-for="resource in exercise.resources"
@@ -211,5 +273,27 @@ const filteredExercises = computed(() => {
         </div>
       </div>
     </template>
+
+    <AppDialog
+      v-if="mediaExercise"
+      :title="mediaExercise.name"
+      :description="mediaExercise.equipment ? `Equipment: ${mediaExercise.equipment}` : undefined"
+      width-class="max-w-md"
+      @close="mediaExercise = null"
+    >
+      <div class="p-6">
+        <img
+          :src="mediaExercise.gif ?? mediaExercise.image ?? ''"
+          :alt="`${mediaExercise.name} demonstration`"
+          class="mx-auto w-full max-w-sm rounded-xl border border-gray-200 bg-gray-50"
+        />
+        <ol
+          v-if="mediaExercise.steps?.length"
+          class="mt-4 list-decimal space-y-1 pl-5 text-sm text-gray-600"
+        >
+          <li v-for="(step, i) in mediaExercise.steps" :key="i">{{ step }}</li>
+        </ol>
+      </div>
+    </AppDialog>
   </div>
 </template>

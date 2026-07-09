@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { computed } from "vue";
 import AppDialog from "./AppDialog.vue";
-import { muscles } from "../data/muscles";
+import { useExerciseCatalog } from "../composables/useExerciseCatalog";
 import { useFavourites } from "../composables/useFavourites";
 import { usePersonalRecords } from "../composables/usePersonalRecords";
 
@@ -10,6 +10,7 @@ const emit = defineEmits<{
   selectMuscle: [muscleId: string];
 }>();
 
+const { muscles } = useExerciseCatalog();
 const { favourites, toggle } = useFavourites();
 const { getRecord } = usePersonalRecords();
 
@@ -20,7 +21,7 @@ const props = defineProps<{
 const favouriteExercises = computed(() => {
   const result: Array<{ exerciseName: string; muscleCommonName: string; muscleId: string }> = [];
 
-  for (const muscle of muscles) {
+  for (const muscle of muscles.value) {
     for (const exercise of muscle.exercises) {
       if (favourites.value.has(exercise.name)) {
         result.push({

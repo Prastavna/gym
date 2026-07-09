@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { computed, ref } from "vue";
-import { muscles } from "../data/muscles";
+import { useExerciseCatalog } from "../composables/useExerciseCatalog";
 import MuscleOverlay from "./MuscleOverlay.vue";
 import ExercisePanel from "./ExercisePanel.vue";
 import ScheduleDialog from "./ScheduleDialog.vue";
@@ -8,6 +8,7 @@ import TodayScheduleDialog from "./TodayScheduleDialog.vue";
 import FavouritesDialog from "./FavouritesDialog.vue";
 import { useWeeklySchedule } from "../composables/useWeeklySchedule";
 
+const { muscles } = useExerciseCatalog();
 const hoveredMuscleId = ref<string | null>(null);
 const stickyMuscleId = ref<string | null>(null);
 const debug = new URLSearchParams(window.location.search).has("debug");
@@ -19,7 +20,7 @@ const suggestedExercise = ref<string | null>(null);
 /** Show hovered muscle if hovering, otherwise fall back to sticky (last-hovered) */
 const displayedMuscleId = computed(() => hoveredMuscleId.value ?? stickyMuscleId.value);
 const displayedMuscle = computed(
-  () => muscles.find((m) => m.id === displayedMuscleId.value) ?? null,
+  () => muscles.value.find((m) => m.id === displayedMuscleId.value) ?? null,
 );
 const { schedule, today, todaysSchedule, replaceSchedule } = useWeeklySchedule();
 

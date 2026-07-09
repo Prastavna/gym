@@ -1,3 +1,5 @@
+import type { DatasetExercise } from "./exercises.dataset";
+
 export interface Resource {
   type: "video" | "blog";
   link: string;
@@ -9,6 +11,16 @@ export interface Exercise {
   description: string;
   difficulty: "beginner" | "intermediate" | "advanced";
   resources: Resource[];
+  /** Where the exercise comes from — hand-curated or the imported dataset. */
+  source?: "curated" | "dataset";
+  /** Equipment required (dataset exercises only). */
+  equipment?: string | null;
+  /** Step-by-step instructions (dataset exercises only). */
+  steps?: string[];
+  /** Static thumbnail URL (dataset exercises only). */
+  image?: string | null;
+  /** Animated demo URL (dataset exercises only). */
+  gif?: string | null;
 }
 
 export interface Muscle {
@@ -21,7 +33,7 @@ export interface Muscle {
   exercises: Exercise[];
 }
 
-export const muscles: Muscle[] = [
+const curatedMuscles: Muscle[] = [
   {
     id: "pectorals",
     name: "Pectoralis Major",
@@ -2070,6 +2082,87 @@ export const muscles: Muscle[] = [
     ],
   },
 ];
+const normaliseName = (name: string) => name.trim().toLowerCase();
+
+/**
+ * Muscles the dataset's `target` field does not cover directly. They are filled
+ * by matching the exercise's `muscle_group` / `secondary_muscles` instead.
+ */
+const FALLBACK_TOKENS: Record<string, string[]> = {
+  obliques: ["obliques"],
+};
+
+function toExercise(ex: DatasetExercise): Exercise {
+  return {
+    name: ex.name,
+    description: ex.description,
+    difficulty: ex.difficulty,
+    resources: [],
+    source: "dataset",
+    equipment: ex.equipment,
+    steps: ex.steps,
+    image: ex.image,
+    gif: ex.gif,
+  };
+}
+
+function datasetExercisesForMuscle(id: string, dataset: DatasetExercise[]): DatasetExercise[] {
+  const tokens = FALLBACK_TOKENS[id];
+  return dataset.filter((ex) => {
+    if (ex.muscleId === id) return true;
+    if (!tokens) return false;
+    return tokens.some((token) => ex.muscleGroup === token || ex.secondaryMuscles.includes(token));
+  });
+}
+
+/**
+ * Merge the imported dataset into the curated catalog. Curated entries win on
+ * name collisions so their video resources are kept.
+ */
+function mergeCatalog(dataset: DatasetExercise[]): Muscle[] {
+  return curatedMuscles.map((muscle) => {
+    const seen = new Set(muscle.exercises.map((ex) => normaliseName(ex.name)));
+    const curated = muscle.exercises.map(
+      (ex): Exercise => ({ ...ex, source: ex.source ?? "curated" }),
+    );
+
+    const fromDataset: Exercise[] = [];
+    for (const ex of datasetExercisesForMuscle(muscle.id, dataset)) {
+      const key = normaliseName(ex.name);
+      if (seen.has(key)) continue;
+      seen.add(key);
+      fromDataset.push(toExercise(ex));
+    }
+
+    return { ...muscle, exercises: [...curated, ...fromDataset] };
+  });
+}
+
+/**
+ * Synchronous catalog: hand-curated exercises only. Available immediately for a
+ * fast first paint. The much larger imported dataset is loaded on demand via
+ * {@link loadExerciseCatalog}, keeping it out of the main bundle.
+ */
+export const muscles: Muscle[] = curatedMuscles.map((muscle) => ({
+  ...muscle,
+  exercises: muscle.exercises.map((ex): Exercise => ({ ...ex, source: ex.source ?? "curated" })),
+}));
+
+let catalogPromise: Promise<Muscle[]> | null = null;
+
+/**
+ * Lazily import the exercise dataset (a separate chunk) and return the curated
+ * catalog augmented with it. The result is cached, so repeated calls are cheap.
+ */
+export function loadExerciseCatalog(): Promise<Muscle[]> {
+  if (!catalogPromise) {
+    catalogPromise = import("./exercises.dataset").then(({ datasetExercises }) =>
+      mergeCatalog(datasetExercises),
+    );
+  }
+  return catalogPromise;
+}
+
 export function getExercisesForMuscle(id: string): Exercise[] | undefined {
   return muscles.find((m) => m.id === id)?.exercises;
 }

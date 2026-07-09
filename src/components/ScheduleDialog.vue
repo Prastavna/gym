@@ -2,7 +2,7 @@
 import { computed, reactive, ref, watch } from "vue";
 import Accordion from "./Accordion.vue";
 import AppDialog from "./AppDialog.vue";
-import { muscles } from "../data/muscles";
+import { useExerciseCatalog } from "../composables/useExerciseCatalog";
 import {
   WEEK_DAYS,
   cloneWeeklySchedule,
@@ -36,9 +36,12 @@ const customExerciseInputs = reactive<Record<WeekDay, string>>(
   ),
 );
 const quickAddDay = ref<WeekDay>(getTodayWeekDay());
+const { muscles } = useExerciseCatalog();
 const availableExercises = computed(() =>
   Array.from(
-    new Set(muscles.flatMap((muscle) => muscle.exercises.map((exercise) => exercise.name.trim()))),
+    new Set(
+      muscles.value.flatMap((muscle) => muscle.exercises.map((exercise) => exercise.name.trim())),
+    ),
   ).sort((left, right) => left.localeCompare(right)),
 );
 

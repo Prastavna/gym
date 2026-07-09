@@ -31,6 +31,38 @@ Interactive muscle map for browsing exercises and building a weekly gym schedule
 - `src/__tests__/useWeeklySchedule.test.ts`: verifies local storage save/load behavior and invalid-storage fallback.
 - `src/__tests__/MuscleMap.test.ts`: verifies schedule dialog flows, today's preview, and persistence through remounts.
 
+## Exercise dataset
+
+The exercise catalog is augmented with the community
+[`hasaneyldrm/exercises-dataset`](https://github.com/hasaneyldrm/exercises-dataset)
+(1,300+ exercises with step-by-step instructions, equipment, thumbnails and
+animated demos, © [Gym Visual](https://gymvisual.com/)).
+
+- Hand-curated exercises (with video resources) are kept and win on name
+  collisions; dataset exercises are merged in per muscle, deduped by name.
+- Each dataset exercise is mapped to a muscle via its `target` field; muscles
+  the `target` vocabulary misses (e.g. obliques) fall back to `muscle_group` /
+  `secondary_muscles` matching (`FALLBACK_TOKENS` in `src/data/muscles.ts`).
+- The dataset carries no difficulty rating, so difficulty is derived from
+  equipment (bodyweight → beginner, machines → intermediate, barbell/weighted →
+  advanced).
+- Thumbnails and animated GIFs are served straight from GitHub raw URLs; no
+  media is vendored into the repo. Clicking a thumbnail opens the animated demo
+  and instructions in a modal.
+- The dataset is **code-split** into its own chunk and loaded on demand
+  (`loadExerciseCatalog()` in `src/data/muscles.ts`, wired through the
+  `useExerciseCatalog` composable). The app first paints with the curated
+  catalog, then reactively swaps in the augmented one once the chunk resolves,
+  keeping it out of the main bundle.
+
+The generated data lives in `src/data/exercises.dataset.ts` (auto-generated —
+do not edit by hand). Regenerate it with:
+
+```bash
+node scripts/build-exercises.mjs            # downloads the latest dataset
+node scripts/build-exercises.mjs ./exercises.json   # or build from a local copy
+```
+
 ## Commands
 
 ```bash
