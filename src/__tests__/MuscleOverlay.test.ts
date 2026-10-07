@@ -12,7 +12,12 @@ describe("MuscleOverlay", () => {
     const svg = wrapper.find("svg");
     expect(svg.exists()).toBe(true);
     const polygons = wrapper.findAll("polygon");
-    expect(polygons.length).toBe(muscles.length);
+    // A muscle's overlay may hold several "|"-separated polygons.
+    const expected = muscles.reduce((n, m) => n + m.overlay.split("|").length, 0);
+    expect(polygons.length).toBe(expected);
+    // ...and every muscle gets at least one.
+    const rendered = new Set(polygons.map((p) => p.attributes("data-muscle")));
+    expect(rendered.size).toBe(muscles.length);
   });
 
   it("emits hover event with muscle id on mouseenter", async () => {
