@@ -1,5 +1,10 @@
 import { describe, expect, it } from "vite-plus/test";
-import { muscles, getExercisesForMuscle, loadExerciseCatalog } from "../data/muscles";
+import {
+  muscles,
+  getExercisesForMuscle,
+  loadExerciseCatalog,
+  mediaFallbackUrl,
+} from "../data/muscles";
 
 const exercisesFor = async (id: string) =>
   (await loadExerciseCatalog()).find((m) => m.id === id)!.exercises;
@@ -70,6 +75,31 @@ describe("dataset integration", () => {
     const withMedia = datasetOnes.find((ex) => ex.image && ex.gif && ex.steps?.length);
     expect(withMedia).toBeDefined();
     expect(withMedia!.image).toContain("hasaneyldrm/exercises-dataset");
+  });
+
+  it("serves dataset media from a pinned commit, never a moving branch", async () => {
+    const catalog = await loadExerciseCatalog();
+    const urls = catalog
+      .flatMap((m) => m.exercises)
+      .flatMap((ex) => [ex.image, ex.gif])
+      .filter((url): url is string => Boolean(url));
+
+    expect(urls.length).toBeGreaterThan(0);
+    for (const url of urls) {
+      expect(url).toMatch(
+        /^https:\/\/cdn\.jsdelivr\.net\/gh\/hasaneyldrm\/exercises-dataset@[0-9a-f]{40}\//,
+      );
+      expect(mediaFallbackUrl(url)).toMatch(
+        /^https:\/\/raw\.githubusercontent\.com\/hasaneyldrm\/exercises-dataset\/[0-9a-f]{40}\//,
+      );
+    }
+  });
+
+  it("maps jsDelivr media URLs to their GitHub raw mirror", () => {
+    expect(
+      mediaFallbackUrl("https://cdn.jsdelivr.net/gh/owner/repo@abc123/videos/0001-x.gif"),
+    ).toBe("https://raw.githubusercontent.com/owner/repo/abc123/videos/0001-x.gif");
+    expect(mediaFallbackUrl("https://example.com/a.gif")).toBeNull();
   });
 
   it("keeps curated exercises and dedupes by name", async () => {

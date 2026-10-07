@@ -39,8 +39,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0001-2gPfomN.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0001-2gPfomN.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0001-2gPfomN.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0001-2gPfomN.gif",
   },
   {
     id: "0002",
@@ -61,8 +61,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0002-Hy9D21L.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0002-Hy9D21L.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0002-Hy9D21L.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0002-Hy9D21L.gif",
   },
   {
     id: "0003",
@@ -83,8 +83,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides in a pedaling motion for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0003-1ZFqTDN.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0003-1ZFqTDN.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0003-1ZFqTDN.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0003-1ZFqTDN.gif",
   },
   {
     id: "1512",
@@ -105,8 +105,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Switch legs and repeat the stretch on the other side.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1512-qBcKorM.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1512-qBcKorM.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1512-qBcKorM.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1512-qBcKorM.gif",
   },
   {
     id: "0006",
@@ -127,8 +127,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0006-qaZVsGk.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0006-qaZVsGk.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0006-qaZVsGk.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0006-qaZVsGk.gif",
   },
   {
     id: "0007",
@@ -149,8 +149,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0007-4IKbhHV.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0007-4IKbhHV.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0007-4IKbhHV.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0007-4IKbhHV.gif",
   },
   {
     id: "1368",
@@ -170,8 +170,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat with the other leg.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1368-uL9CsKm.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1368-uL9CsKm.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1368-uL9CsKm.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1368-uL9CsKm.gif",
   },
   {
     id: "3293",
@@ -193,8 +193,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Alternate sides with each repetition.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3293-72BC5Za.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3293-72BC5Za.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3293-72BC5Za.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3293-72BC5Za.gif",
   },
   {
     id: "3294",
@@ -216,8 +216,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3294-A9qxk2F.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3294-A9qxk2F.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3294-A9qxk2F.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3294-A9qxk2F.gif",
   },
   {
     id: "2355",
@@ -237,8 +237,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2355-uWpxD4v.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2355-uWpxD4v.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2355-uWpxD4v.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2355-uWpxD4v.gif",
   },
   {
     id: "2333",
@@ -258,8 +258,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2333-PXTIwgu.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2333-PXTIwgu.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2333-PXTIwgu.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2333-PXTIwgu.gif",
   },
   {
     id: "3214",
@@ -280,8 +280,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3214-RtyAsy1.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3214-RtyAsy1.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3214-RtyAsy1.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3214-RtyAsy1.gif",
   },
   {
     id: "3204",
@@ -302,8 +302,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3204-NAkmgdx.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3204-NAkmgdx.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3204-NAkmgdx.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3204-NAkmgdx.gif",
   },
   {
     id: "0009",
@@ -324,8 +324,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0009-PAgTVaK.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0009-PAgTVaK.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0009-PAgTVaK.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0009-PAgTVaK.gif",
   },
   {
     id: "0011",
@@ -346,8 +346,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0011-03lzqwk.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0011-03lzqwk.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0011-03lzqwk.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0011-03lzqwk.gif",
   },
   {
     id: "0010",
@@ -367,8 +367,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Allow your legs to swing back up and repeat the movement for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0010-8K0w2yA.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0010-8K0w2yA.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0010-8K0w2yA.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0010-8K0w2yA.gif",
   },
   {
     id: "1708",
@@ -389,8 +389,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Release the stretch and repeat on the other leg.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1708-GxDwDX0.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1708-GxDwDX0.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1708-GxDwDX0.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1708-GxDwDX0.gif",
   },
   {
     id: "1709",
@@ -411,8 +411,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Release and repeat on the other side.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1709-yn0LjwL.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1709-yn0LjwL.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1709-yn0LjwL.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1709-yn0LjwL.gif",
   },
   {
     id: "1710",
@@ -433,8 +433,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Release the stretch and repeat on the other side.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1710-RQNVT10.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1710-RQNVT10.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1710-RQNVT10.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1710-RQNVT10.gif",
   },
   {
     id: "0012",
@@ -457,8 +457,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0012-UGhRD1A.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0012-UGhRD1A.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0012-UGhRD1A.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0012-UGhRD1A.gif",
   },
   {
     id: "0013",
@@ -482,8 +482,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0013-VX5YKR5.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0013-VX5YKR5.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0013-VX5YKR5.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0013-VX5YKR5.gif",
   },
   {
     id: "0014",
@@ -505,8 +505,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0014-r7cT9YD.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0014-r7cT9YD.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0014-r7cT9YD.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0014-r7cT9YD.gif",
   },
   {
     id: "0015",
@@ -529,8 +529,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0015-vrhHa6D.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0015-vrhHa6D.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0015-vrhHa6D.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0015-vrhHa6D.gif",
   },
   {
     id: "0016",
@@ -551,8 +551,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0016-VedGSby.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0016-VedGSby.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0016-VedGSby.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0016-VedGSby.gif",
   },
   {
     id: "1713",
@@ -573,8 +573,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat with your right leg.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1713-YUYAMEj.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1713-YUYAMEj.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1713-YUYAMEj.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1713-YUYAMEj.gif",
   },
   {
     id: "1714",
@@ -595,8 +595,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Release and repeat on the other side.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1714-2Ryn564.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1714-2Ryn564.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1714-2Ryn564.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1714-2Ryn564.gif",
   },
   {
     id: "0017",
@@ -619,8 +619,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0017-kiJ4Z2K.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0017-kiJ4Z2K.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0017-kiJ4Z2K.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0017-kiJ4Z2K.gif",
   },
   {
     id: "1716",
@@ -641,8 +641,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1716-RoV1Rfa.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1716-RoV1Rfa.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1716-RoV1Rfa.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1716-RoV1Rfa.gif",
   },
   {
     id: "1712",
@@ -664,8 +664,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Return to the starting position and repeat on the other side.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1712-hC6oYY5.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1712-hC6oYY5.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1712-hC6oYY5.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1712-hC6oYY5.gif",
   },
   {
     id: "1758",
@@ -687,8 +687,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1758-aumB2IV.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1758-aumB2IV.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1758-aumB2IV.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1758-aumB2IV.gif",
   },
   {
     id: "1431",
@@ -711,8 +711,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1431-7OeHptV.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1431-7OeHptV.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1431-7OeHptV.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1431-7OeHptV.gif",
   },
   {
     id: "1432",
@@ -735,8 +735,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1432-f4xtKBj.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1432-f4xtKBj.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1432-f4xtKBj.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1432-f4xtKBj.gif",
   },
   {
     id: "0018",
@@ -757,8 +757,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0018-7HcfMBP.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0018-7HcfMBP.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0018-7HcfMBP.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0018-7HcfMBP.gif",
   },
   {
     id: "0019",
@@ -779,8 +779,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0019-J60bN17.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0019-J60bN17.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0019-J60bN17.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0019-J60bN17.gif",
   },
   {
     id: "2364",
@@ -801,8 +801,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2364-PnZJIrk.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2364-PnZJIrk.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2364-PnZJIrk.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2364-PnZJIrk.gif",
   },
   {
     id: "1314",
@@ -823,8 +823,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1314-qLpO4vV.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1314-qLpO4vV.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1314-qLpO4vV.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1314-qLpO4vV.gif",
   },
   {
     id: "3297",
@@ -846,8 +846,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3297-GaSzzuh.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3297-GaSzzuh.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3297-GaSzzuh.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3297-GaSzzuh.gif",
   },
   {
     id: "1405",
@@ -870,8 +870,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat on the opposite side.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1405-chfnQnM.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1405-chfnQnM.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1405-chfnQnM.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1405-chfnQnM.gif",
   },
   {
     id: "1473",
@@ -891,8 +891,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1473-SaDOwk7.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1473-SaDOwk7.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1473-SaDOwk7.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1473-SaDOwk7.gif",
   },
   {
     id: "0020",
@@ -913,8 +913,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat the exercise with the other foot.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0020-xAySMB0.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0020-xAySMB0.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0020-xAySMB0.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0020-xAySMB0.gif",
   },
   {
     id: "0968",
@@ -934,8 +934,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating arms for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0968-3omWx6P.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0968-3omWx6P.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0968-3omWx6P.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0968-3omWx6P.gif",
   },
   {
     id: "0969",
@@ -956,8 +956,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0969-ztAa1RK.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0969-ztAa1RK.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0969-ztAa1RK.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0969-ztAa1RK.gif",
   },
   {
     id: "0970",
@@ -979,8 +979,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0970-r1XNRYB.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0970-r1XNRYB.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0970-r1XNRYB.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0970-r1XNRYB.gif",
   },
   {
     id: "0971",
@@ -1001,8 +1001,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0971-zhF9lW4.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0971-zhF9lW4.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0971-zhF9lW4.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0971-zhF9lW4.gif",
   },
   {
     id: "1254",
@@ -1023,8 +1023,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1254-khlHMqs.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1254-khlHMqs.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1254-khlHMqs.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1254-khlHMqs.gif",
   },
   {
     id: "0980",
@@ -1047,8 +1047,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating legs for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0980-wSScovH.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0980-wSScovH.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0980-wSScovH.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0980-wSScovH.gif",
   },
   {
     id: "0972",
@@ -1069,8 +1069,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0972-tZkGYZ9.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0972-tZkGYZ9.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0972-tZkGYZ9.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0972-tZkGYZ9.gif",
   },
   {
     id: "0974",
@@ -1092,8 +1092,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0974-DptumMx.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0974-DptumMx.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0974-DptumMx.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0974-DptumMx.gif",
   },
   {
     id: "0975",
@@ -1114,8 +1114,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0975-ufaxB52.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0975-ufaxB52.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0975-ufaxB52.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0975-ufaxB52.gif",
   },
   {
     id: "0976",
@@ -1137,8 +1137,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0976-kmVVAfu.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0976-kmVVAfu.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0976-kmVVAfu.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0976-kmVVAfu.gif",
   },
   {
     id: "3117",
@@ -1162,8 +1162,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3117-4LoWllp.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3117-4LoWllp.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3117-4LoWllp.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3117-4LoWllp.gif",
   },
   {
     id: "3116",
@@ -1188,8 +1188,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3116-ZH68exZ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3116-ZH68exZ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3116-ZH68exZ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3116-ZH68exZ.gif",
   },
   {
     id: "0977",
@@ -1209,8 +1209,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0977-sTg7iys.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0977-sTg7iys.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0977-sTg7iys.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0977-sTg7iys.gif",
   },
   {
     id: "0978",
@@ -1230,8 +1230,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0978-TFA88iB.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0978-TFA88iB.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0978-TFA88iB.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0978-TFA88iB.gif",
   },
   {
     id: "1408",
@@ -1253,8 +1253,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1408-E4R8Hz1.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1408-E4R8Hz1.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1408-E4R8Hz1.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1408-E4R8Hz1.gif",
   },
   {
     id: "0979",
@@ -1279,8 +1279,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0979-9pa4H5m.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0979-9pa4H5m.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0979-9pa4H5m.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0979-9pa4H5m.gif",
   },
   {
     id: "0981",
@@ -1300,8 +1300,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0981-KCBKjma.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0981-KCBKjma.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0981-KCBKjma.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0981-KCBKjma.gif",
   },
   {
     id: "0983",
@@ -1323,8 +1323,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0983-pmnrOp0.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0983-pmnrOp0.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0983-pmnrOp0.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0983-pmnrOp0.gif",
   },
   {
     id: "0985",
@@ -1346,8 +1346,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0985-225x2Vd.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0985-225x2Vd.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0985-225x2Vd.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0985-225x2Vd.gif",
   },
   {
     id: "0984",
@@ -1368,8 +1368,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0984-vIICElP.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0984-vIICElP.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0984-vIICElP.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0984-vIICElP.gif",
   },
   {
     id: "1002",
@@ -1390,8 +1390,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1002-bbLR7fB.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1002-bbLR7fB.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1002-bbLR7fB.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1002-bbLR7fB.gif",
   },
   {
     id: "0986",
@@ -1412,8 +1412,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0986-UNAB8ak.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0986-UNAB8ak.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0986-UNAB8ak.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0986-UNAB8ak.gif",
   },
   {
     id: "0987",
@@ -1435,8 +1435,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch legs.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0987-arsYEd3.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0987-arsYEd3.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0987-arsYEd3.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0987-arsYEd3.gif",
   },
   {
     id: "0988",
@@ -1459,8 +1459,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0988-km0sQC0.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0988-km0sQC0.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0988-km0sQC0.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0988-km0sQC0.gif",
   },
   {
     id: "0989",
@@ -1484,8 +1484,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Switch sides and repeat the exercise with the other hand.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0989-c16nYGA.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0989-c16nYGA.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0989-c16nYGA.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0989-c16nYGA.gif",
   },
   {
     id: "0990",
@@ -1507,8 +1507,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0990-DKBwJrL.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0990-DKBwJrL.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0990-DKBwJrL.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0990-DKBwJrL.gif",
   },
   {
     id: "0991",
@@ -1531,8 +1531,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0991-VtTbiP3.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0991-VtTbiP3.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0991-VtTbiP3.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0991-VtTbiP3.gif",
   },
   {
     id: "0992",
@@ -1554,8 +1554,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0992-zFzbBfL.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0992-zFzbBfL.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0992-zFzbBfL.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0992-zFzbBfL.gif",
   },
   {
     id: "0993",
@@ -1577,8 +1577,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0993-sTfvVsG.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0993-sTfvVsG.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0993-sTfvVsG.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0993-sTfvVsG.gif",
   },
   {
     id: "0994",
@@ -1600,8 +1600,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0994-Ezpnw9d.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0994-Ezpnw9d.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0994-Ezpnw9d.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0994-Ezpnw9d.gif",
   },
   {
     id: "0996",
@@ -1623,8 +1623,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0996-9gbyYKk.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0996-9gbyYKk.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0996-9gbyYKk.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0996-9gbyYKk.gif",
   },
   {
     id: "1011",
@@ -1646,8 +1646,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1011-S1JXDAG.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1011-S1JXDAG.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1011-S1JXDAG.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1011-S1JXDAG.gif",
   },
   {
     id: "0997",
@@ -1668,8 +1668,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0997-peAeMR3.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0997-peAeMR3.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0997-peAeMR3.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0997-peAeMR3.gif",
   },
   {
     id: "1018",
@@ -1690,8 +1690,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1018-trmte8s.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1018-trmte8s.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1018-trmte8s.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1018-trmte8s.gif",
   },
   {
     id: "0998",
@@ -1712,8 +1712,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0998-obe5LMq.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0998-obe5LMq.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0998-obe5LMq.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0998-obe5LMq.gif",
   },
   {
     id: "0999",
@@ -1734,8 +1734,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the right leg.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0999-9JprnPh.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0999-9JprnPh.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0999-9JprnPh.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0999-9JprnPh.gif",
   },
   {
     id: "1000",
@@ -1756,8 +1756,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other leg.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1000-QsSQWbf.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1000-QsSQWbf.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1000-QsSQWbf.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1000-QsSQWbf.gif",
   },
   {
     id: "1001",
@@ -1778,8 +1778,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat on the other side.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1001-y8bYM8w.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1001-y8bYM8w.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1001-y8bYM8w.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1001-y8bYM8w.gif",
   },
   {
     id: "1004",
@@ -1800,8 +1800,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1004-TUZLh71.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1004-TUZLh71.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1004-TUZLh71.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1004-TUZLh71.gif",
   },
   {
     id: "1003",
@@ -1824,8 +1824,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1003-w1NOByi.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1003-w1NOByi.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1003-w1NOByi.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1003-w1NOByi.gif",
   },
   {
     id: "1005",
@@ -1847,8 +1847,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1005-Kzg30R7.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1005-Kzg30R7.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1005-Kzg30R7.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1005-Kzg30R7.gif",
   },
   {
     id: "1022",
@@ -1870,8 +1870,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1022-tc5dYrf.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1022-tc5dYrf.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1022-tc5dYrf.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1022-tc5dYrf.gif",
   },
   {
     id: "1007",
@@ -1893,8 +1893,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1007-euq4pwp.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1007-euq4pwp.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1007-euq4pwp.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1007-euq4pwp.gif",
   },
   {
     id: "1008",
@@ -1917,8 +1917,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating legs for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1008-d5bTEPV.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1008-d5bTEPV.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1008-d5bTEPV.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1008-d5bTEPV.gif",
   },
   {
     id: "1009",
@@ -1941,8 +1941,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1009-kuMiR2T.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1009-kuMiR2T.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1009-kuMiR2T.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1009-kuMiR2T.gif",
   },
   {
     id: "1023",
@@ -1964,8 +1964,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1023-lHeUULr.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1023-lHeUULr.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1023-lHeUULr.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1023-lHeUULr.gif",
   },
   {
     id: "1010",
@@ -1988,8 +1988,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1010-KUaoUV8.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1010-KUaoUV8.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1010-KUaoUV8.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1010-KUaoUV8.gif",
   },
   {
     id: "1012",
@@ -2012,8 +2012,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1012-u4bAmKp.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1012-u4bAmKp.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1012-u4bAmKp.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1012-u4bAmKp.gif",
   },
   {
     id: "1369",
@@ -2034,8 +2034,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1369-jl6uxZV.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1369-jl6uxZV.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1369-jl6uxZV.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1369-jl6uxZV.gif",
   },
   {
     id: "1013",
@@ -2058,8 +2058,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1013-k6tUeqS.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1013-k6tUeqS.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1013-k6tUeqS.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1013-k6tUeqS.gif",
   },
   {
     id: "1014",
@@ -2079,8 +2079,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1014-H6ETwO9.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1014-H6ETwO9.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1014-H6ETwO9.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1014-H6ETwO9.gif",
   },
   {
     id: "1015",
@@ -2103,8 +2103,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1015-G7PXMlT.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1015-G7PXMlT.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1015-G7PXMlT.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1015-G7PXMlT.gif",
   },
   {
     id: "1016",
@@ -2125,8 +2125,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1016-vUTfFHw.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1016-vUTfFHw.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1016-vUTfFHw.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1016-vUTfFHw.gif",
   },
   {
     id: "1017",
@@ -2147,8 +2147,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1017-aHDy5O5.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1017-aHDy5O5.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1017-aHDy5O5.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1017-aHDy5O5.gif",
   },
   {
     id: "0023",
@@ -2170,8 +2170,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, alternating arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0023-Yza7XrQ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0023-Yza7XrQ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0023-Yza7XrQ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0023-Yza7XrQ.gif",
   },
   {
     id: "0024",
@@ -2192,8 +2192,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0024-Y7YcmIJ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0024-Y7YcmIJ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0024-Y7YcmIJ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0024-Y7YcmIJ.gif",
   },
   {
     id: "0025",
@@ -2216,8 +2216,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0025-EIeI8Vf.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0025-EIeI8Vf.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0025-EIeI8Vf.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0025-EIeI8Vf.gif",
   },
   {
     id: "0026",
@@ -2241,8 +2241,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0026-W9pFVv1.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0026-W9pFVv1.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0026-W9pFVv1.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0026-W9pFVv1.gif",
   },
   {
     id: "1316",
@@ -2263,8 +2263,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1316-cA9FuWG.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1316-cA9FuWG.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1316-cA9FuWG.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1316-cA9FuWG.gif",
   },
   {
     id: "0027",
@@ -2286,8 +2286,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0027-eZyBC3j.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0027-eZyBC3j.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0027-eZyBC3j.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0027-eZyBC3j.gif",
   },
   {
     id: "2407",
@@ -2310,8 +2310,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2407-aee2Fcj.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2407-aee2Fcj.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2407-aee2Fcj.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2407-aee2Fcj.gif",
   },
   {
     id: "0028",
@@ -2334,8 +2334,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Lower the barbell back down to the starting position and repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0028-SGY8Zui.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0028-SGY8Zui.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0028-SGY8Zui.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0028-SGY8Zui.gif",
   },
   {
     id: "0029",
@@ -2357,8 +2357,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0029-qi996YS.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0029-qi996YS.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0029-qi996YS.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0029-qi996YS.gif",
   },
   {
     id: "0030",
@@ -2380,8 +2380,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0030-J6Dx1Mu.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0030-J6Dx1Mu.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0030-J6Dx1Mu.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0030-J6Dx1Mu.gif",
   },
   {
     id: "0031",
@@ -2403,8 +2403,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0031-25GPyDY.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0031-25GPyDY.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0031-25GPyDY.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0031-25GPyDY.gif",
   },
   {
     id: "0032",
@@ -2426,8 +2426,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0032-ila4NZS.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0032-ila4NZS.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0032-ila4NZS.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0032-ila4NZS.gif",
   },
   {
     id: "0033",
@@ -2448,8 +2448,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0033-GrO65fd.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0033-GrO65fd.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0033-GrO65fd.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0033-GrO65fd.gif",
   },
   {
     id: "0034",
@@ -2470,8 +2470,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0034-hMEptv0.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0034-hMEptv0.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0034-hMEptv0.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0034-hMEptv0.gif",
   },
   {
     id: "0035",
@@ -2491,8 +2491,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0035-LMGXZn8.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0035-LMGXZn8.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0035-LMGXZn8.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0035-LMGXZn8.gif",
   },
   {
     id: "1255",
@@ -2514,8 +2514,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1255-9sgNE2O.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1255-9sgNE2O.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1255-9sgNE2O.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1255-9sgNE2O.gif",
   },
   {
     id: "0036",
@@ -2536,8 +2536,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0036-hl8DUh8.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0036-hl8DUh8.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0036-hl8DUh8.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0036-hl8DUh8.gif",
   },
   {
     id: "0037",
@@ -2558,8 +2558,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0037-Hj4FOCd.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0037-Hj4FOCd.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0037-Hj4FOCd.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0037-Hj4FOCd.gif",
   },
   {
     id: "0038",
@@ -2580,8 +2580,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0038-IENzBdA.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0038-IENzBdA.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0038-IENzBdA.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0038-IENzBdA.gif",
   },
   {
     id: "1370",
@@ -2603,8 +2603,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1370-2IHEa2T.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1370-2IHEa2T.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1370-2IHEa2T.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1370-2IHEa2T.gif",
   },
   {
     id: "0039",
@@ -2626,8 +2626,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0039-IeTIEqg.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0039-IeTIEqg.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0039-IeTIEqg.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0039-IeTIEqg.gif",
   },
   {
     id: "0041",
@@ -2647,8 +2647,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0041-b2Uoz54.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0041-b2Uoz54.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0041-b2Uoz54.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0041-b2Uoz54.gif",
   },
   {
     id: "0040",
@@ -2670,8 +2670,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0040-33AzZeV.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0040-33AzZeV.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0040-33AzZeV.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0040-33AzZeV.gif",
   },
   {
     id: "0042",
@@ -2693,8 +2693,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0042-zG0zs85.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0042-zG0zs85.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0042-zG0zs85.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0042-zG0zs85.gif",
   },
   {
     id: "0043",
@@ -2718,8 +2718,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0043-qXTaZnJ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0043-qXTaZnJ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0043-qXTaZnJ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0043-qXTaZnJ.gif",
   },
   {
     id: "1461",
@@ -2743,8 +2743,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1461-DhMl549.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1461-DhMl549.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1461-DhMl549.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1461-DhMl549.gif",
   },
   {
     id: "1462",
@@ -2768,8 +2768,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1462-iYzB0Cz.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1462-iYzB0Cz.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1462-iYzB0Cz.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1462-iYzB0Cz.gif",
   },
   {
     id: "1545",
@@ -2792,8 +2792,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1545-vR1vold.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1545-vR1vold.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1545-vR1vold.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1545-vR1vold.gif",
   },
   {
     id: "1409",
@@ -2815,8 +2815,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1409-qKBpF7I.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1409-qKBpF7I.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1409-qKBpF7I.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1409-qKBpF7I.gif",
   },
   {
     id: "3562",
@@ -2838,8 +2838,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3562-qg2PGl6.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3562-qg2PGl6.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3562-qg2PGl6.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3562-qg2PGl6.gif",
   },
   {
     id: "0044",
@@ -2860,8 +2860,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0044-XlZ4lAC.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0044-XlZ4lAC.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0044-XlZ4lAC.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0044-XlZ4lAC.gif",
   },
   {
     id: "0045",
@@ -2883,8 +2883,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0045-GXoaSgn.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0045-GXoaSgn.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0045-GXoaSgn.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0045-GXoaSgn.gif",
   },
   {
     id: "0046",
@@ -2906,8 +2906,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0046-5VCj6iH.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0046-5VCj6iH.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0046-5VCj6iH.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0046-5VCj6iH.gif",
   },
   {
     id: "1436",
@@ -2929,8 +2929,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1436-Gnfo4FM.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1436-Gnfo4FM.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1436-Gnfo4FM.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1436-Gnfo4FM.gif",
   },
   {
     id: "0047",
@@ -2952,8 +2952,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0047-3TZduzM.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0047-3TZduzM.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0047-3TZduzM.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0047-3TZduzM.gif",
   },
   {
     id: "1719",
@@ -2976,8 +2976,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1719-gx7s7uF.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1719-gx7s7uF.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1719-gx7s7uF.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1719-gx7s7uF.gif",
   },
   {
     id: "0048",
@@ -2998,8 +2998,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0048-641mIfk.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0048-641mIfk.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0048-641mIfk.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0048-641mIfk.gif",
   },
   {
     id: "0049",
@@ -3022,8 +3022,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0049-dmgMp3n.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0049-dmgMp3n.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0049-dmgMp3n.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0049-dmgMp3n.gif",
   },
   {
     id: "0050",
@@ -3046,8 +3046,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0050-xi0yckC.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0050-xi0yckC.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0050-xi0yckC.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0050-xi0yckC.gif",
   },
   {
     id: "0051",
@@ -3069,8 +3069,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat the movement, alternating your forward and back foot with each repetition.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0051-pkSoCW9.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0051-pkSoCW9.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0051-pkSoCW9.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0051-pkSoCW9.gif",
   },
   {
     id: "0052",
@@ -3091,8 +3091,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0052-ZsiqXYa.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0052-ZsiqXYa.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0052-ZsiqXYa.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0052-ZsiqXYa.gif",
   },
   {
     id: "0053",
@@ -3113,8 +3113,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Land softly back into the squat position and immediately repeat the movement for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0053-1gFNTZV.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0053-1gFNTZV.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0053-1gFNTZV.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0053-1gFNTZV.gif",
   },
   {
     id: "1410",
@@ -3135,8 +3135,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat on the other side, stepping with your left foot.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1410-py1HSzx.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1410-py1HSzx.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1410-py1HSzx.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1410-py1HSzx.gif",
   },
   {
     id: "1435",
@@ -3157,8 +3157,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1435-bTpEUcm.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1435-bTpEUcm.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1435-bTpEUcm.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1435-bTpEUcm.gif",
   },
   {
     id: "0054",
@@ -3179,8 +3179,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat with your left leg, alternating legs for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0054-t8iSghb.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0054-t8iSghb.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0054-t8iSghb.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0054-t8iSghb.gif",
   },
   {
     id: "1720",
@@ -3201,8 +3201,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1720-yg8Totb.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1720-yg8Totb.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1720-yg8Totb.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1720-yg8Totb.gif",
   },
   {
     id: "0055",
@@ -3224,8 +3224,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0055-EcaV7aL.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0055-EcaV7aL.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0055-EcaV7aL.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0055-EcaV7aL.gif",
   },
   {
     id: "0056",
@@ -3247,8 +3247,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0056-HJ63mSO.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0056-HJ63mSO.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0056-HJ63mSO.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0056-HJ63mSO.gif",
   },
   {
     id: "0057",
@@ -3269,8 +3269,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0057-EMpUwRI.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0057-EMpUwRI.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0057-EMpUwRI.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0057-EMpUwRI.gif",
   },
   {
     id: "0058",
@@ -3291,8 +3291,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0058-SNFfUff.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0058-SNFfUff.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0058-SNFfUff.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0058-SNFfUff.gif",
   },
   {
     id: "0059",
@@ -3314,8 +3314,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0059-SYJ4Bkt.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0059-SYJ4Bkt.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0059-SYJ4Bkt.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0059-SYJ4Bkt.gif",
   },
   {
     id: "0061",
@@ -3336,8 +3336,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0061-iZop9xO.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0061-iZop9xO.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0061-iZop9xO.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0061-iZop9xO.gif",
   },
   {
     id: "0060",
@@ -3358,8 +3358,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0060-h8LFzo9.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0060-h8LFzo9.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0060-h8LFzo9.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0060-h8LFzo9.gif",
   },
   {
     id: "0063",
@@ -3381,8 +3381,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0063-elhhVgj.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0063-elhhVgj.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0063-elhhVgj.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0063-elhhVgj.gif",
   },
   {
     id: "0064",
@@ -3403,8 +3403,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0064-Jsgsc27.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0064-Jsgsc27.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0064-Jsgsc27.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0064-Jsgsc27.gif",
   },
   {
     id: "0065",
@@ -3425,8 +3425,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0065-vtusOWT.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0065-vtusOWT.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0065-vtusOWT.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0065-vtusOWT.gif",
   },
   {
     id: "0066",
@@ -3448,8 +3448,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0066-2DxtqHL.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0066-2DxtqHL.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0066-2DxtqHL.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0066-2DxtqHL.gif",
   },
   {
     id: "0067",
@@ -3473,8 +3473,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0067-xHKN2s8.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0067-xHKN2s8.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0067-xHKN2s8.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0067-xHKN2s8.gif",
   },
   {
     id: "0068",
@@ -3495,8 +3495,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch legs and repeat.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0068-uKyN64F.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0068-uKyN64F.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0068-uKyN64F.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0068-uKyN64F.gif",
   },
   {
     id: "0069",
@@ -3517,8 +3517,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0069-gfk9kD4.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0069-gfk9kD4.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0069-gfk9kD4.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0069-gfk9kD4.gif",
   },
   {
     id: "1411",
@@ -3539,8 +3539,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1411-yzYH9pI.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1411-yzYH9pI.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1411-yzYH9pI.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1411-yzYH9pI.gif",
   },
   {
     id: "1412",
@@ -3561,8 +3561,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1412-SJAA2IQ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1412-SJAA2IQ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1412-SJAA2IQ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1412-SJAA2IQ.gif",
   },
   {
     id: "3017",
@@ -3584,8 +3584,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3017-r0z6xzQ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3017-r0z6xzQ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3017-r0z6xzQ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3017-r0z6xzQ.gif",
   },
   {
     id: "1751",
@@ -3609,8 +3609,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1751-bndCa3Q.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1751-bndCa3Q.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1751-bndCa3Q.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1751-bndCa3Q.gif",
   },
   {
     id: "0070",
@@ -3632,8 +3632,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0070-qOgPVf6.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0070-qOgPVf6.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0070-qOgPVf6.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0070-qOgPVf6.gif",
   },
   {
     id: "0071",
@@ -3654,8 +3654,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0071-wnEscH8.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0071-wnEscH8.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0071-wnEscH8.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0071-wnEscH8.gif",
   },
   {
     id: "0072",
@@ -3680,8 +3680,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0072-WLvTAv5.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0072-WLvTAv5.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0072-WLvTAv5.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0072-WLvTAv5.gif",
   },
   {
     id: "0073",
@@ -3702,8 +3702,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0073-i6LWjok.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0073-i6LWjok.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0073-i6LWjok.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0073-i6LWjok.gif",
   },
   {
     id: "0022",
@@ -3724,8 +3724,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0022-znLogoF.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0022-znLogoF.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0022-znLogoF.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0022-znLogoF.gif",
   },
   {
     id: "0074",
@@ -3747,8 +3747,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0074-za9Ni4z.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0074-za9Ni4z.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0074-za9Ni4z.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0074-za9Ni4z.gif",
   },
   {
     id: "0075",
@@ -3769,8 +3769,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0075-Ln9iTbU.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0075-Ln9iTbU.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0075-Ln9iTbU.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0075-Ln9iTbU.gif",
   },
   {
     id: "0076",
@@ -3792,8 +3792,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0076-S9zHIvU.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0076-S9zHIvU.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0076-S9zHIvU.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0076-S9zHIvU.gif",
   },
   {
     id: "0078",
@@ -3814,8 +3814,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat with the other leg.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0078-VaP75jl.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0078-VaP75jl.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0078-VaP75jl.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0078-VaP75jl.gif",
   },
   {
     id: "0077",
@@ -3836,8 +3836,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat with the other leg.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0077-62Nw60O.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0077-62Nw60O.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0077-62Nw60O.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0077-62Nw60O.gif",
   },
   {
     id: "0079",
@@ -3859,8 +3859,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0079-qDnGfDb.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0079-qDnGfDb.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0079-qDnGfDb.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0079-qDnGfDb.gif",
   },
   {
     id: "2187",
@@ -3883,8 +3883,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2187-YqJw82s.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2187-YqJw82s.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2187-YqJw82s.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2187-YqJw82s.gif",
   },
   {
     id: "0080",
@@ -3906,8 +3906,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0080-xNrS20v.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0080-xNrS20v.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0080-xNrS20v.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0080-xNrS20v.gif",
   },
   {
     id: "0118",
@@ -3929,8 +3929,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0118-SzX3uzM.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0118-SzX3uzM.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0118-SzX3uzM.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0118-SzX3uzM.gif",
   },
   {
     id: "1256",
@@ -3951,8 +3951,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1256-DotAgEF.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1256-DotAgEF.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1256-DotAgEF.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1256-DotAgEF.gif",
   },
   {
     id: "1257",
@@ -3975,8 +3975,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1257-DU7I633.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1257-DU7I633.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1257-DU7I633.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1257-DU7I633.gif",
   },
   {
     id: "1317",
@@ -4000,8 +4000,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1317-8d8qJQI.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1317-8d8qJQI.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1317-8d8qJQI.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1317-8d8qJQI.gif",
   },
   {
     id: "1721",
@@ -4023,8 +4023,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1721-yRLPCLu.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1721-yRLPCLu.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1721-yRLPCLu.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1721-yRLPCLu.gif",
   },
   {
     id: "0081",
@@ -4046,8 +4046,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0081-4LIG9xr.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0081-4LIG9xr.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0081-4LIG9xr.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0081-4LIG9xr.gif",
   },
   {
     id: "0082",
@@ -4068,8 +4068,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0082-LsZkfU6.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0082-LsZkfU6.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0082-LsZkfU6.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0082-LsZkfU6.gif",
   },
   {
     id: "0084",
@@ -4090,8 +4090,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0084-7M66AVi.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0084-7M66AVi.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0084-7M66AVi.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0084-7M66AVi.gif",
   },
   {
     id: "0083",
@@ -4113,8 +4113,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0083-Gxg9lDc.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0083-Gxg9lDc.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0083-Gxg9lDc.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0083-Gxg9lDc.gif",
   },
   {
     id: "0085",
@@ -4138,8 +4138,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Lower the barbell back down to the starting position and repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0085-wQ2c4XD.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0085-wQ2c4XD.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0085-wQ2c4XD.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0085-wQ2c4XD.gif",
   },
   {
     id: "0086",
@@ -4161,8 +4161,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0086-ngPpyRS.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0086-ngPpyRS.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0086-ngPpyRS.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0086-ngPpyRS.gif",
   },
   {
     id: "0087",
@@ -4183,8 +4183,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Lower the barbell back to shoulder height and repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0087-0dCyly0.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0087-0dCyly0.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0087-0dCyly0.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0087-0dCyly0.gif",
   },
   {
     id: "0088",
@@ -4206,8 +4206,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0088-ktsFQAZ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0088-ktsFQAZ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0088-ktsFQAZ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0088-ktsFQAZ.gif",
   },
   {
     id: "1371",
@@ -4228,8 +4228,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1371-ipvgBnC.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1371-ipvgBnC.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1371-ipvgBnC.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1371-ipvgBnC.gif",
   },
   {
     id: "1718",
@@ -4250,8 +4250,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1718-4CBIBOM.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1718-4CBIBOM.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1718-4CBIBOM.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1718-4CBIBOM.gif",
   },
   {
     id: "0089",
@@ -4272,8 +4272,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0089-1V1gj1u.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0089-1V1gj1u.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0089-1V1gj1u.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0089-1V1gj1u.gif",
   },
   {
     id: "0090",
@@ -4294,8 +4294,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0090-d960PgE.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0090-d960PgE.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0090-d960PgE.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0090-d960PgE.gif",
   },
   {
     id: "0091",
@@ -4317,8 +4317,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0091-kTbSH9h.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0091-kTbSH9h.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0091-kTbSH9h.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0091-kTbSH9h.gif",
   },
   {
     id: "0092",
@@ -4339,8 +4339,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0092-5uFK1xr.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0092-5uFK1xr.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0092-5uFK1xr.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0092-5uFK1xr.gif",
   },
   {
     id: "0094",
@@ -4362,8 +4362,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0094-dFSNDOA.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0094-dFSNDOA.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0094-dFSNDOA.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0094-dFSNDOA.gif",
   },
   {
     id: "0095",
@@ -4384,8 +4384,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0095-dG7tG5y.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0095-dG7tG5y.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0095-dG7tG5y.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0095-dG7tG5y.gif",
   },
   {
     id: "0096",
@@ -4407,8 +4407,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0096-i4JkUaL.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0096-i4JkUaL.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0096-i4JkUaL.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0096-i4JkUaL.gif",
   },
   {
     id: "0098",
@@ -4430,8 +4430,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0098-W31mMjd.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0098-W31mMjd.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0098-W31mMjd.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0098-W31mMjd.gif",
   },
   {
     id: "0097",
@@ -4454,8 +4454,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0097-HUEqZ1y.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0097-HUEqZ1y.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0097-HUEqZ1y.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0097-HUEqZ1y.gif",
   },
   {
     id: "1756",
@@ -4477,8 +4477,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1756-gEyURal.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1756-gEyURal.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1756-gEyURal.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1756-gEyURal.gif",
   },
   {
     id: "0099",
@@ -4500,8 +4500,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch legs.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0099-gGNQmVt.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0099-gGNQmVt.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0099-gGNQmVt.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0099-gGNQmVt.gif",
   },
   {
     id: "2799",
@@ -4521,8 +4521,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating legs for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2799-G7xoEzr.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2799-G7xoEzr.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2799-G7xoEzr.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2799-G7xoEzr.gif",
   },
   {
     id: "2800",
@@ -4543,8 +4543,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating legs for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2800-BCs0G2F.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2800-BCs0G2F.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2800-BCs0G2F.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2800-BCs0G2F.gif",
   },
   {
     id: "0100",
@@ -4565,8 +4565,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0100-4Leypho.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0100-4Leypho.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0100-4Leypho.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0100-4Leypho.gif",
   },
   {
     id: "0101",
@@ -4588,8 +4588,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0101-euI1BwR.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0101-euI1BwR.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0101-euI1BwR.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0101-euI1BwR.gif",
   },
   {
     id: "2810",
@@ -4610,8 +4610,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat with your left leg forward for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2810-HBYyX94.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2810-HBYyX94.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2810-HBYyX94.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2810-HBYyX94.gif",
   },
   {
     id: "0102",
@@ -4633,8 +4633,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0102-oR7O9LW.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0102-oR7O9LW.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0102-oR7O9LW.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0102-oR7O9LW.gif",
   },
   {
     id: "2798",
@@ -4658,8 +4658,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating legs for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2798-RYcV1kH.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2798-RYcV1kH.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2798-RYcV1kH.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2798-RYcV1kH.gif",
   },
   {
     id: "0103",
@@ -4680,8 +4680,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0103-xnInPfE.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0103-xnInPfE.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0103-xnInPfE.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0103-xnInPfE.gif",
   },
   {
     id: "0104",
@@ -4702,8 +4702,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0104-2qTvJAZ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0104-2qTvJAZ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0104-2qTvJAZ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0104-2qTvJAZ.gif",
   },
   {
     id: "0105",
@@ -4723,8 +4723,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0105-dCPESfR.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0105-dCPESfR.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0105-dCPESfR.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0105-dCPESfR.gif",
   },
   {
     id: "1372",
@@ -4744,8 +4744,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1372-8ozhUIZ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1372-8ozhUIZ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1372-8ozhUIZ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1372-8ozhUIZ.gif",
   },
   {
     id: "0106",
@@ -4767,8 +4767,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0106-4dUn2iv.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0106-4dUn2iv.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0106-4dUn2iv.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0106-4dUn2iv.gif",
   },
   {
     id: "1456",
@@ -4789,8 +4789,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1456-wdRZISl.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1456-wdRZISl.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1456-wdRZISl.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1456-wdRZISl.gif",
   },
   {
     id: "2414",
@@ -4812,8 +4812,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2414-vsMcDi9.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2414-vsMcDi9.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2414-vsMcDi9.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2414-vsMcDi9.gif",
   },
   {
     id: "0107",
@@ -4835,8 +4835,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0107-S8mo30S.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0107-S8mo30S.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0107-S8mo30S.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0107-S8mo30S.gif",
   },
   {
     id: "0108",
@@ -4856,8 +4856,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0108-rGwhJ5o.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0108-rGwhJ5o.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0108-rGwhJ5o.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0108-rGwhJ5o.gif",
   },
   {
     id: "0109",
@@ -4878,8 +4878,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0109-dZl9Q27.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0109-dZl9Q27.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0109-dZl9Q27.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0109-dZl9Q27.gif",
   },
   {
     id: "0110",
@@ -4901,8 +4901,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0110-LWuA3aZ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0110-LWuA3aZ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0110-LWuA3aZ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0110-LWuA3aZ.gif",
   },
   {
     id: "0111",
@@ -4922,8 +4922,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0111-6HiHHe0.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0111-6HiHHe0.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0111-6HiHHe0.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0111-6HiHHe0.gif",
   },
   {
     id: "0112",
@@ -4945,8 +4945,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating twists for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0112-yQe5HpE.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0112-yQe5HpE.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0112-yQe5HpE.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0112-yQe5HpE.gif",
   },
   {
     id: "1629",
@@ -4968,8 +4968,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1629-faHKVkK.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1629-faHKVkK.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1629-faHKVkK.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1629-faHKVkK.gif",
   },
   {
     id: "1457",
@@ -4989,8 +4989,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Lower the barbell back to shoulder height and repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1457-Kyd9Rz5.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1457-Kyd9Rz5.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1457-Kyd9Rz5.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1457-Kyd9Rz5.gif",
   },
   {
     id: "0113",
@@ -5013,8 +5013,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0113-NdIb5Z1.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0113-NdIb5Z1.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0113-NdIb5Z1.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0113-NdIb5Z1.gif",
   },
   {
     id: "0114",
@@ -5036,8 +5036,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating legs for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0114-Kxquu2E.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0114-Kxquu2E.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0114-Kxquu2E.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0114-Kxquu2E.gif",
   },
   {
     id: "0115",
@@ -5059,8 +5059,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0115-JrOHAZc.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0115-JrOHAZc.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0115-JrOHAZc.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0115-JrOHAZc.gif",
   },
   {
     id: "0116",
@@ -5082,8 +5082,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0116-hrVQWvE.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0116-hrVQWvE.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0116-hrVQWvE.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0116-hrVQWvE.gif",
   },
   {
     id: "0117",
@@ -5106,8 +5106,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0117-KgI0tqW.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0117-KgI0tqW.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0117-KgI0tqW.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0117-KgI0tqW.gif",
   },
   {
     id: "3305",
@@ -5128,8 +5128,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3305-f7Y9eDZ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3305-f7Y9eDZ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3305-f7Y9eDZ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3305-f7Y9eDZ.gif",
   },
   {
     id: "0120",
@@ -5150,8 +5150,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0120-UDlhcO8.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0120-UDlhcO8.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0120-UDlhcO8.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0120-UDlhcO8.gif",
   },
   {
     id: "0119",
@@ -5172,8 +5172,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0119-83HoW9X.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0119-83HoW9X.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0119-83HoW9X.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0119-83HoW9X.gif",
   },
   {
     id: "0121",
@@ -5194,8 +5194,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0121-fI18Rbc.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0121-fI18Rbc.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0121-fI18Rbc.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0121-fI18Rbc.gif",
   },
   {
     id: "0122",
@@ -5217,8 +5217,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0122-JsKq9so.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0122-JsKq9so.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0122-JsKq9so.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0122-JsKq9so.gif",
   },
   {
     id: "1258",
@@ -5240,8 +5240,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1258-945zpRg.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1258-945zpRg.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1258-945zpRg.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1258-945zpRg.gif",
   },
   {
     id: "0124",
@@ -5263,8 +5263,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0124-s7HX1BY.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0124-s7HX1BY.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0124-s7HX1BY.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0124-s7HX1BY.gif",
   },
   {
     id: "0123",
@@ -5285,8 +5285,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0123-RgJDRR1.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0123-RgJDRR1.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0123-RgJDRR1.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0123-RgJDRR1.gif",
   },
   {
     id: "0126",
@@ -5307,8 +5307,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0126-82LxxkW.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0126-82LxxkW.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0126-82LxxkW.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0126-82LxxkW.gif",
   },
   {
     id: "0125",
@@ -5330,8 +5330,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0125-6kSxYnw.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0125-6kSxYnw.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0125-6kSxYnw.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0125-6kSxYnw.gif",
   },
   {
     id: "0127",
@@ -5353,8 +5353,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0127-LSTChY9.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0127-LSTChY9.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0127-LSTChY9.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0127-LSTChY9.gif",
   },
   {
     id: "3212",
@@ -5375,8 +5375,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3212-BbfB8Gb.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3212-BbfB8Gb.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3212-BbfB8Gb.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3212-BbfB8Gb.gif",
   },
   {
     id: "0128",
@@ -5397,8 +5397,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue for the desired duration or number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0128-RJa4tCo.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0128-RJa4tCo.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0128-RJa4tCo.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0128-RJa4tCo.gif",
   },
   {
     id: "1259",
@@ -5419,8 +5419,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Release the stretch and repeat as desired.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1259-QoHIhPl.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1259-QoHIhPl.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1259-QoHIhPl.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1259-QoHIhPl.gif",
   },
   {
     id: "0129",
@@ -5441,8 +5441,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0129-RrLske5.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0129-RrLske5.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0129-RrLske5.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0129-RrLske5.gif",
   },
   {
     id: "1399",
@@ -5463,8 +5463,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1399-9RT8oQW.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1399-9RT8oQW.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1399-9RT8oQW.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1399-9RT8oQW.gif",
   },
   {
     id: "0130",
@@ -5485,8 +5485,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0130-u27Kcdz.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0130-u27Kcdz.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0130-u27Kcdz.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0130-u27Kcdz.gif",
   },
   {
     id: "3019",
@@ -5509,8 +5509,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3019-mExgrF9.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3019-mExgrF9.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3019-mExgrF9.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3019-mExgrF9.gif",
   },
   {
     id: "3639",
@@ -5532,8 +5532,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3639-6sYyrRX.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3639-6sYyrRX.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3639-6sYyrRX.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3639-6sYyrRX.gif",
   },
   {
     id: "1770",
@@ -5554,8 +5554,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1770-sJFIDIp.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1770-sJFIDIp.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1770-sJFIDIp.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1770-sJFIDIp.gif",
   },
   {
     id: "0139",
@@ -5575,8 +5575,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0139-50BETrz.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0139-50BETrz.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0139-50BETrz.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0139-50BETrz.gif",
   },
   {
     id: "0140",
@@ -5596,8 +5596,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0140-guT8YnS.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0140-guT8YnS.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0140-guT8YnS.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0140-guT8YnS.gif",
   },
   {
     id: "0137",
@@ -5618,8 +5618,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0137-U6G2gk9.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0137-U6G2gk9.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0137-U6G2gk9.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0137-U6G2gk9.gif",
   },
   {
     id: "3543",
@@ -5641,8 +5641,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3543-wfotm7S.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3543-wfotm7S.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3543-wfotm7S.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3543-wfotm7S.gif",
   },
   {
     id: "3544",
@@ -5663,8 +5663,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Lower your hips back down to the ground and repeat on the other side.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3544-5VXmnV5.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3544-5VXmnV5.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3544-5VXmnV5.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3544-5VXmnV5.gif",
   },
   {
     id: "1771",
@@ -5686,8 +5686,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1771-s0HKO2I.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1771-s0HKO2I.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1771-s0HKO2I.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1771-s0HKO2I.gif",
   },
   {
     id: "1769",
@@ -5707,8 +5707,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1769-gscGLOU.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1769-gscGLOU.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1769-gscGLOU.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1769-gscGLOU.gif",
   },
   {
     id: "3168",
@@ -5729,8 +5729,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3168-3xK09Sk.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3168-3xK09Sk.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3168-3xK09Sk.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3168-3xK09Sk.gif",
   },
   {
     id: "3167",
@@ -5751,8 +5751,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3167-BReCuOn.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3167-BReCuOn.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3167-BReCuOn.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3167-BReCuOn.gif",
   },
   {
     id: "1373",
@@ -5773,8 +5773,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1373-bJYHBIN.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1373-bJYHBIN.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1373-bJYHBIN.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1373-bJYHBIN.gif",
   },
   {
     id: "3156",
@@ -5795,8 +5795,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3156-v2DfH14.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3156-v2DfH14.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3156-v2DfH14.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3156-v2DfH14.gif",
   },
   {
     id: "3158",
@@ -5818,8 +5818,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3158-tig3PXb.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3158-tig3PXb.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3158-tig3PXb.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3158-tig3PXb.gif",
   },
   {
     id: "3162",
@@ -5842,8 +5842,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3162-xbkPfaw.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3162-xbkPfaw.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3162-xbkPfaw.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3162-xbkPfaw.gif",
   },
   {
     id: "3161",
@@ -5864,8 +5864,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3161-O4oIqQD.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3161-O4oIqQD.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3161-O4oIqQD.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3161-O4oIqQD.gif",
   },
   {
     id: "3166",
@@ -5888,8 +5888,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3166-wd4ds3s.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3166-wd4ds3s.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3166-wd4ds3s.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3166-wd4ds3s.gif",
   },
   {
     id: "3165",
@@ -5910,8 +5910,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3165-uTv34oq.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3165-uTv34oq.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3165-uTv34oq.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3165-uTv34oq.gif",
   },
   {
     id: "0138",
@@ -5932,8 +5932,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0138-CI6baTY.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0138-CI6baTY.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0138-CI6baTY.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0138-CI6baTY.gif",
   },
   {
     id: "1374",
@@ -5955,8 +5955,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat the exercise with the other leg.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1374-iPm26QU.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1374-iPm26QU.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1374-iPm26QU.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1374-iPm26QU.gif",
   },
   {
     id: "2466",
@@ -5979,8 +5979,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2466-9c6T1YX.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2466-9c6T1YX.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2466-9c6T1YX.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2466-9c6T1YX.gif",
   },
   {
     id: "0870",
@@ -6002,8 +6002,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0870-qcNN2FN.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0870-qcNN2FN.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0870-qcNN2FN.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0870-qcNN2FN.gif",
   },
   {
     id: "1494",
@@ -6026,8 +6026,8 @@ export const datasetExercises: DatasetExercise[] = [
       "To release, slowly bring your knees back up and extend your legs.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1494-bWlZvXh.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1494-bWlZvXh.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1494-bWlZvXh.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1494-bWlZvXh.gif",
   },
   {
     id: "0148",
@@ -6050,8 +6050,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Alternate between arms for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0148-KHPZL0b.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0148-KHPZL0b.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0148-KHPZL0b.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0148-KHPZL0b.gif",
   },
   {
     id: "0149",
@@ -6073,8 +6073,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating arms for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0149-Gchi5Tr.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0149-Gchi5Tr.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0149-Gchi5Tr.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0149-Gchi5Tr.gif",
   },
   {
     id: "3235",
@@ -6097,8 +6097,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3235-zHEpuuc.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3235-zHEpuuc.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3235-zHEpuuc.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3235-zHEpuuc.gif",
   },
   {
     id: "0150",
@@ -6121,8 +6121,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0150-eYnzaCm.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0150-eYnzaCm.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0150-eYnzaCm.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0150-eYnzaCm.gif",
   },
   {
     id: "0151",
@@ -6146,8 +6146,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0151-7xI5MXA.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0151-7xI5MXA.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0151-7xI5MXA.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0151-7xI5MXA.gif",
   },
   {
     id: "1630",
@@ -6171,8 +6171,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1630-BCGQ6J5.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1630-BCGQ6J5.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1630-BCGQ6J5.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1630-BCGQ6J5.gif",
   },
   {
     id: "1631",
@@ -6193,8 +6193,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1631-NvfE43H.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1631-NvfE43H.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1631-NvfE43H.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1631-NvfE43H.gif",
   },
   {
     id: "0152",
@@ -6215,8 +6215,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0152-Db7eEgw.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0152-Db7eEgw.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0152-Db7eEgw.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0152-Db7eEgw.gif",
   },
   {
     id: "0153",
@@ -6239,8 +6239,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0153-OQ1otBN.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0153-OQ1otBN.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0153-OQ1otBN.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0153-OQ1otBN.gif",
   },
   {
     id: "0154",
@@ -6262,8 +6262,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0154-aqvSOQE.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0154-aqvSOQE.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0154-aqvSOQE.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0154-aqvSOQE.gif",
   },
   {
     id: "0155",
@@ -6286,8 +6286,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0155-0CXGHya.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0155-0CXGHya.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0155-0CXGHya.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0155-0CXGHya.gif",
   },
   {
     id: "0868",
@@ -6310,8 +6310,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0868-G08RZcQ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0868-G08RZcQ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0868-G08RZcQ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0868-G08RZcQ.gif",
   },
   {
     id: "0157",
@@ -6333,8 +6333,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0157-eGDudUV.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0157-eGDudUV.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0157-eGDudUV.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0157-eGDudUV.gif",
   },
   {
     id: "0158",
@@ -6356,8 +6356,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0158-7saC5zz.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0158-7saC5zz.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0158-7saC5zz.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0158-7saC5zz.gif",
   },
   {
     id: "1260",
@@ -6379,8 +6379,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1260-KHGNa16.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1260-KHGNa16.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1260-KHGNa16.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1260-KHGNa16.gif",
   },
   {
     id: "1261",
@@ -6404,8 +6404,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1261-2Pya1cP.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1261-2Pya1cP.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1261-2Pya1cP.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1261-2Pya1cP.gif",
   },
   {
     id: "0159",
@@ -6427,8 +6427,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0159-kesXOpB.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0159-kesXOpB.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0159-kesXOpB.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0159-kesXOpB.gif",
   },
   {
     id: "1632",
@@ -6450,8 +6450,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1632-dXz8zjF.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1632-dXz8zjF.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1632-dXz8zjF.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1632-dXz8zjF.gif",
   },
   {
     id: "0160",
@@ -6474,8 +6474,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0160-veXwo0D.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0160-veXwo0D.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0160-veXwo0D.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0160-veXwo0D.gif",
   },
   {
     id: "0161",
@@ -6496,8 +6496,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0161-hvHhCv8.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0161-hvHhCv8.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0161-hvHhCv8.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0161-hvHhCv8.gif",
   },
   {
     id: "0162",
@@ -6519,8 +6519,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0162-u2X71Np.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0162-u2X71Np.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0162-u2X71Np.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0162-u2X71Np.gif",
   },
   {
     id: "0164",
@@ -6542,8 +6542,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0164-mTT3KLn.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0164-mTT3KLn.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0164-mTT3KLn.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0164-mTT3KLn.gif",
   },
   {
     id: "0165",
@@ -6566,8 +6566,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0165-HPlPoQA.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0165-HPlPoQA.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0165-HPlPoQA.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0165-HPlPoQA.gif",
   },
   {
     id: "1722",
@@ -6589,8 +6589,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1722-1xHyxys.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1722-1xHyxys.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1722-1xHyxys.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1722-1xHyxys.gif",
   },
   {
     id: "0167",
@@ -6612,8 +6612,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0167-ZSJNetl.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0167-ZSJNetl.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0167-ZSJNetl.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0167-ZSJNetl.gif",
   },
   {
     id: "0168",
@@ -6635,8 +6635,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0168-hBGWILP.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0168-hBGWILP.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0168-hBGWILP.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0168-hBGWILP.gif",
   },
   {
     id: "0169",
@@ -6659,8 +6659,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0169-Vh0GsK4.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0169-Vh0GsK4.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0169-Vh0GsK4.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0169-Vh0GsK4.gif",
   },
   {
     id: "1318",
@@ -6683,8 +6683,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1318-yaMIo4D.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1318-yaMIo4D.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1318-yaMIo4D.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1318-yaMIo4D.gif",
   },
   {
     id: "0171",
@@ -6706,8 +6706,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0171-tBWXbIT.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0171-tBWXbIT.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0171-tBWXbIT.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0171-tBWXbIT.gif",
   },
   {
     id: "0170",
@@ -6732,8 +6732,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0170-27NNGFr.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0170-27NNGFr.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0170-27NNGFr.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0170-27NNGFr.gif",
   },
   {
     id: "0172",
@@ -6756,8 +6756,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0172-1PK5Uo3.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0172-1PK5Uo3.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0172-1PK5Uo3.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0172-1PK5Uo3.gif",
   },
   {
     id: "0173",
@@ -6781,8 +6781,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0173-Hx1WC8I.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0173-Hx1WC8I.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0173-Hx1WC8I.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0173-Hx1WC8I.gif",
   },
   {
     id: "0174",
@@ -6806,8 +6806,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0174-MvQPqVW.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0174-MvQPqVW.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0174-MvQPqVW.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0174-MvQPqVW.gif",
   },
   {
     id: "0860",
@@ -6830,8 +6830,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0860-HEJ6DIX.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0860-HEJ6DIX.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0860-HEJ6DIX.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0860-HEJ6DIX.gif",
   },
   {
     id: "0175",
@@ -6852,8 +6852,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0175-WW95auq.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0175-WW95auq.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0175-WW95auq.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0175-WW95auq.gif",
   },
   {
     id: "3697",
@@ -6875,8 +6875,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3697-G61cXLk.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3697-G61cXLk.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3697-G61cXLk.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3697-G61cXLk.gif",
   },
   {
     id: "0176",
@@ -6898,8 +6898,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0176-KWdF2JI.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0176-KWdF2JI.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0176-KWdF2JI.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0176-KWdF2JI.gif",
   },
   {
     id: "2330",
@@ -6921,8 +6921,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2330-LEprlgG.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2330-LEprlgG.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2330-LEprlgG.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2330-LEprlgG.gif",
   },
   {
     id: "0177",
@@ -6946,8 +6946,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0177-CuaWCmC.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0177-CuaWCmC.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0177-CuaWCmC.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0177-CuaWCmC.gif",
   },
   {
     id: "2616",
@@ -6969,8 +6969,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Slowly return the v-bar to the starting position and repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2616-4c9BhzB.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2616-4c9BhzB.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2616-4c9BhzB.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2616-4c9BhzB.gif",
   },
   {
     id: "0178",
@@ -6991,8 +6991,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0178-goJ6ezq.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0178-goJ6ezq.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0178-goJ6ezq.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0178-goJ6ezq.gif",
   },
   {
     id: "0179",
@@ -7015,8 +7015,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0179-FVmZVhk.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0179-FVmZVhk.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0179-FVmZVhk.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0179-FVmZVhk.gif",
   },
   {
     id: "0180",
@@ -7038,8 +7038,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0180-hvV79Si.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0180-hvV79Si.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0180-hvV79Si.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0180-hvV79Si.gif",
   },
   {
     id: "1634",
@@ -7063,8 +7063,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1634-otqIxU4.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1634-otqIxU4.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1634-otqIxU4.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1634-otqIxU4.gif",
   },
   {
     id: "0182",
@@ -7088,8 +7088,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0182-61GrD55.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0182-61GrD55.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0182-61GrD55.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0182-61GrD55.gif",
   },
   {
     id: "0184",
@@ -7111,8 +7111,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0184-Q2Eu1Ax.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0184-Q2Eu1Ax.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0184-Q2Eu1Ax.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0184-Q2Eu1Ax.gif",
   },
   {
     id: "0185",
@@ -7133,8 +7133,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0185-lJJ7Yq8.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0185-lJJ7Yq8.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0185-lJJ7Yq8.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0185-lJJ7Yq8.gif",
   },
   {
     id: "0186",
@@ -7156,8 +7156,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0186-uxJcFUU.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0186-uxJcFUU.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0186-uxJcFUU.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0186-uxJcFUU.gif",
   },
   {
     id: "0188",
@@ -7180,8 +7180,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0188-xLYSdtg.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0188-xLYSdtg.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0188-xLYSdtg.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0188-xLYSdtg.gif",
   },
   {
     id: "0189",
@@ -7203,8 +7203,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0189-EIsE3u8.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0189-EIsE3u8.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0189-EIsE3u8.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0189-EIsE3u8.gif",
   },
   {
     id: "0190",
@@ -7225,8 +7225,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0190-YTur5nR.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0190-YTur5nR.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0190-YTur5nR.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0190-YTur5nR.gif",
   },
   {
     id: "1262",
@@ -7248,8 +7248,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to your left arm and repeat the exercise.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1262-w4dLzSx.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1262-w4dLzSx.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1262-w4dLzSx.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1262-w4dLzSx.gif",
   },
   {
     id: "1263",
@@ -7271,8 +7271,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1263-hHy8tQG.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1263-hHy8tQG.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1263-hHy8tQG.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1263-hHy8tQG.gif",
   },
   {
     id: "1264",
@@ -7293,8 +7293,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1264-P14Dz9D.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1264-P14Dz9D.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1264-P14Dz9D.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1264-P14Dz9D.gif",
   },
   {
     id: "1265",
@@ -7317,8 +7317,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1265-GKEH6jj.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1265-GKEH6jj.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1265-GKEH6jj.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1265-GKEH6jj.gif",
   },
   {
     id: "1266",
@@ -7339,8 +7339,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1266-6t00BsF.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1266-6t00BsF.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1266-6t00BsF.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1266-6t00BsF.gif",
   },
   {
     id: "0191",
@@ -7362,8 +7362,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0191-dB07vDu.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0191-dB07vDu.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0191-dB07vDu.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0191-dB07vDu.gif",
   },
   {
     id: "0192",
@@ -7384,8 +7384,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0192-wEulIzp.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0192-wEulIzp.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0192-wEulIzp.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0192-wEulIzp.gif",
   },
   {
     id: "1633",
@@ -7410,8 +7410,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Switch arms and repeat the exercise.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1633-eHBlPsa.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1633-eHBlPsa.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1633-eHBlPsa.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1633-eHBlPsa.gif",
   },
   {
     id: "1267",
@@ -7433,8 +7433,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1267-MKIelrR.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1267-MKIelrR.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1267-MKIelrR.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1267-MKIelrR.gif",
   },
   {
     id: "3563",
@@ -7459,8 +7459,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Switch sides and repeat the exercise with the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3563-U5INZY6.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3563-U5INZY6.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3563-U5INZY6.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3563-U5INZY6.gif",
   },
   {
     id: "1635",
@@ -7485,8 +7485,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Switch arms and repeat the exercise.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1635-ZXnjcOQ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1635-ZXnjcOQ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1635-ZXnjcOQ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1635-ZXnjcOQ.gif",
   },
   {
     id: "0193",
@@ -7510,8 +7510,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Switch sides and repeat the exercise with the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0193-WrYPP2g.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0193-WrYPP2g.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0193-WrYPP2g.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0193-WrYPP2g.gif",
   },
   {
     id: "1723",
@@ -7535,8 +7535,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1723-qRZ5S1N.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1723-qRZ5S1N.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1723-qRZ5S1N.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1723-qRZ5S1N.gif",
   },
   {
     id: "1636",
@@ -7560,8 +7560,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1636-wDUqY2u.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1636-wDUqY2u.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1636-wDUqY2u.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1636-wDUqY2u.gif",
   },
   {
     id: "1637",
@@ -7582,8 +7582,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1637-ioTf098.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1637-ioTf098.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1637-ioTf098.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1637-ioTf098.gif",
   },
   {
     id: "0194",
@@ -7606,8 +7606,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0194-2IxROQ1.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0194-2IxROQ1.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0194-2IxROQ1.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0194-2IxROQ1.gif",
   },
   {
     id: "1319",
@@ -7631,8 +7631,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1319-OmQ8w0p.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1319-OmQ8w0p.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1319-OmQ8w0p.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1319-OmQ8w0p.gif",
   },
   {
     id: "0195",
@@ -7654,8 +7654,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0195-P2lNrGL.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0195-P2lNrGL.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0195-P2lNrGL.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0195-P2lNrGL.gif",
   },
   {
     id: "1268",
@@ -7676,8 +7676,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1268-vAwm6rK.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1268-vAwm6rK.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1268-vAwm6rK.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1268-vAwm6rK.gif",
   },
   {
     id: "0196",
@@ -7698,8 +7698,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0196-OM46QHm.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0196-OM46QHm.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0196-OM46QHm.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0196-OM46QHm.gif",
   },
   {
     id: "0198",
@@ -7722,8 +7722,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0198-RVwzP10.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0198-RVwzP10.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0198-RVwzP10.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0198-RVwzP10.gif",
   },
   {
     id: "0197",
@@ -7745,8 +7745,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0197-qdRxqCj.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0197-qdRxqCj.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0197-qdRxqCj.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0197-qdRxqCj.gif",
   },
   {
     id: "1638",
@@ -7770,8 +7770,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1638-QTXKWPh.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1638-QTXKWPh.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1638-QTXKWPh.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1638-QTXKWPh.gif",
   },
   {
     id: "0201",
@@ -7794,8 +7794,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0201-3ZflifB.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0201-3ZflifB.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0201-3ZflifB.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0201-3ZflifB.gif",
   },
   {
     id: "0199",
@@ -7817,8 +7817,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0199-PskORrA.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0199-PskORrA.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0199-PskORrA.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0199-PskORrA.gif",
   },
   {
     id: "0200",
@@ -7841,8 +7841,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0200-dU605di.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0200-dU605di.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0200-dU605di.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0200-dU605di.gif",
   },
   {
     id: "0202",
@@ -7865,8 +7865,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Switch sides and repeat the exercise with your right arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0202-yUdIGNs.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0202-yUdIGNs.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0202-yUdIGNs.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0202-yUdIGNs.gif",
   },
   {
     id: "0203",
@@ -7889,8 +7889,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0203-wqNPGCg.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0203-wqNPGCg.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0203-wqNPGCg.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0203-wqNPGCg.gif",
   },
   {
     id: "0204",
@@ -7910,8 +7910,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Slowly return the handle to the starting position and repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0204-c3QQLPi.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0204-c3QQLPi.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0204-c3QQLPi.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0204-c3QQLPi.gif",
   },
   {
     id: "0205",
@@ -7934,8 +7934,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0205-SpsOSXk.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0205-SpsOSXk.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0205-SpsOSXk.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0205-SpsOSXk.gif",
   },
   {
     id: "0873",
@@ -7957,8 +7957,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0873-RqOtqD7.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0873-RqOtqD7.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0873-RqOtqD7.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0873-RqOtqD7.gif",
   },
   {
     id: "0206",
@@ -7982,8 +7982,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0206-eOG0r6v.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0206-eOG0r6v.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0206-eOG0r6v.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0206-eOG0r6v.gif",
   },
   {
     id: "2406",
@@ -8006,8 +8006,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2406-ThKP69G.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2406-ThKP69G.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2406-ThKP69G.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2406-ThKP69G.gif",
   },
   {
     id: "1413",
@@ -8028,8 +8028,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1413-gVlnLIJ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1413-gVlnLIJ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1413-gVlnLIJ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1413-gVlnLIJ.gif",
   },
   {
     id: "0209",
@@ -8052,8 +8052,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0209-IwX5NqK.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0209-IwX5NqK.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0209-IwX5NqK.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0209-IwX5NqK.gif",
   },
   {
     id: "0210",
@@ -8075,8 +8075,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0210-eYmsEPR.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0210-eYmsEPR.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0210-eYmsEPR.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0210-eYmsEPR.gif",
   },
   {
     id: "0207",
@@ -8099,8 +8099,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0207-VjYliFZ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0207-VjYliFZ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0207-VjYliFZ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0207-VjYliFZ.gif",
   },
   {
     id: "0208",
@@ -8122,8 +8122,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0208-PNtsX17.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0208-PNtsX17.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0208-PNtsX17.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0208-PNtsX17.gif",
   },
   {
     id: "1320",
@@ -8145,8 +8145,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1320-UFGF6gk.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1320-UFGF6gk.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1320-UFGF6gk.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1320-UFGF6gk.gif",
   },
   {
     id: "1321",
@@ -8169,8 +8169,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1321-c8oybX6.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1321-c8oybX6.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1321-c8oybX6.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1321-c8oybX6.gif",
   },
   {
     id: "1322",
@@ -8193,8 +8193,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1322-MgKwAAo.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1322-MgKwAAo.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1322-MgKwAAo.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1322-MgKwAAo.gif",
   },
   {
     id: "1639",
@@ -8218,8 +8218,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1639-PcPe0P5.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1639-PcPe0P5.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1639-PcPe0P5.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1639-PcPe0P5.gif",
   },
   {
     id: "1724",
@@ -8242,8 +8242,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1724-NN8nSNT.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1724-NN8nSNT.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1724-NN8nSNT.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1724-NN8nSNT.gif",
   },
   {
     id: "1725",
@@ -8266,8 +8266,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1725-ZujAdR9.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1725-ZujAdR9.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1725-ZujAdR9.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1725-ZujAdR9.gif",
   },
   {
     id: "1726",
@@ -8289,8 +8289,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1726-U3ffHlY.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1726-U3ffHlY.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1726-U3ffHlY.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1726-U3ffHlY.gif",
   },
   {
     id: "1640",
@@ -8314,8 +8314,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1640-4hATdoB.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1640-4hATdoB.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1640-4hATdoB.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1640-4hATdoB.gif",
   },
   {
     id: "1323",
@@ -8337,8 +8337,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1323-SJqRxOt.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1323-SJqRxOt.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1323-SJqRxOt.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1323-SJqRxOt.gif",
   },
   {
     id: "0211",
@@ -8360,8 +8360,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating twists for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0211-d9Xaxq6.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0211-d9Xaxq6.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0211-d9Xaxq6.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0211-d9Xaxq6.gif",
   },
   {
     id: "2144",
@@ -8383,8 +8383,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2144-nIR4Rwl.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2144-nIR4Rwl.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2144-nIR4Rwl.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2144-nIR4Rwl.gif",
   },
   {
     id: "0212",
@@ -8405,8 +8405,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0212-8xUv4J7.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0212-8xUv4J7.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0212-8xUv4J7.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0212-8xUv4J7.gif",
   },
   {
     id: "1641",
@@ -8428,8 +8428,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1641-8oYqOt9.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1641-8oYqOt9.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1641-8oYqOt9.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1641-8oYqOt9.gif",
   },
   {
     id: "0213",
@@ -8451,8 +8451,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0213-pwt0pnM.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0213-pwt0pnM.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0213-pwt0pnM.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0213-pwt0pnM.gif",
   },
   {
     id: "0214",
@@ -8475,8 +8475,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Alternate between arms for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0214-vpp9Ku2.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0214-vpp9Ku2.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0214-vpp9Ku2.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0214-vpp9Ku2.gif",
   },
   {
     id: "1642",
@@ -8498,8 +8498,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1642-rZ80Gbp.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1642-rZ80Gbp.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1642-rZ80Gbp.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1642-rZ80Gbp.gif",
   },
   {
     id: "1643",
@@ -8522,8 +8522,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1643-DpWMFP5.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1643-DpWMFP5.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1643-DpWMFP5.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1643-DpWMFP5.gif",
   },
   {
     id: "0215",
@@ -8544,8 +8544,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0215-x825CZm.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0215-x825CZm.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0215-x825CZm.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0215-x825CZm.gif",
   },
   {
     id: "0861",
@@ -8566,8 +8566,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0861-fUBheHs.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0861-fUBheHs.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0861-fUBheHs.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0861-fUBheHs.gif",
   },
   {
     id: "0216",
@@ -8589,8 +8589,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0216-YPoVrBi.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0216-YPoVrBi.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0216-YPoVrBi.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0216-YPoVrBi.gif",
   },
   {
     id: "2399",
@@ -8612,8 +8612,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2399-UEjSrKI.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2399-UEjSrKI.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2399-UEjSrKI.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2399-UEjSrKI.gif",
   },
   {
     id: "0218",
@@ -8636,8 +8636,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0218-qcY50ZD.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0218-qcY50ZD.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0218-qcY50ZD.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0218-qcY50ZD.gif",
   },
   {
     id: "0219",
@@ -8659,8 +8659,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0219-PzQanLE.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0219-PzQanLE.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0219-PzQanLE.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0219-PzQanLE.gif",
   },
   {
     id: "0220",
@@ -8681,8 +8681,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0220-Eg98Ft9.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0220-Eg98Ft9.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0220-Eg98Ft9.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0220-Eg98Ft9.gif",
   },
   {
     id: "0222",
@@ -8704,8 +8704,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Alternate sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0222-wPypxFY.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0222-wPypxFY.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0222-wPypxFY.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0222-wPypxFY.gif",
   },
   {
     id: "0221",
@@ -8726,8 +8726,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0221-qatbkEd.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0221-qatbkEd.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0221-qatbkEd.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0221-qatbkEd.gif",
   },
   {
     id: "0223",
@@ -8749,8 +8749,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0223-q2ADGqV.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0223-q2ADGqV.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0223-q2ADGqV.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0223-q2ADGqV.gif",
   },
   {
     id: "1717",
@@ -8774,8 +8774,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1717-f7fnAIB.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1717-f7fnAIB.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1717-f7fnAIB.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1717-f7fnAIB.gif",
   },
   {
     id: "1644",
@@ -8799,8 +8799,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1644-3XFdb1Z.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1644-3XFdb1Z.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1644-3XFdb1Z.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1644-3XFdb1Z.gif",
   },
   {
     id: "0224",
@@ -8822,8 +8822,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0224-VhX2JdE.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0224-VhX2JdE.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0224-VhX2JdE.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0224-VhX2JdE.gif",
   },
   {
     id: "1375",
@@ -8844,8 +8844,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1375-yl2IYyy.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1375-yl2IYyy.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1375-yl2IYyy.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1375-yl2IYyy.gif",
   },
   {
     id: "0225",
@@ -8868,8 +8868,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0225-P5p0j8B.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0225-P5p0j8B.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0225-P5p0j8B.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0225-P5p0j8B.gif",
   },
   {
     id: "0226",
@@ -8891,8 +8891,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0226-jpgqxiS.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0226-jpgqxiS.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0226-jpgqxiS.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0226-jpgqxiS.gif",
   },
   {
     id: "0874",
@@ -8914,8 +8914,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0874-XU3ePuv.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0874-XU3ePuv.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0874-XU3ePuv.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0874-XU3ePuv.gif",
   },
   {
     id: "0227",
@@ -8940,8 +8940,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0227-Pr9Rhf4.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0227-Pr9Rhf4.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0227-Pr9Rhf4.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0227-Pr9Rhf4.gif",
   },
   {
     id: "0228",
@@ -8964,8 +8964,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Switch sides and repeat with the other leg.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0228-Kpajagk.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0228-Kpajagk.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0228-Kpajagk.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0228-Kpajagk.gif",
   },
   {
     id: "0229",
@@ -8988,8 +8988,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0229-YwnI4ja.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0229-YwnI4ja.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0229-YwnI4ja.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0229-YwnI4ja.gif",
   },
   {
     id: "0230",
@@ -9011,8 +9011,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0230-qFpAkpP.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0230-qFpAkpP.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0230-qFpAkpP.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0230-qFpAkpP.gif",
   },
   {
     id: "0231",
@@ -9034,8 +9034,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides and perform the exercise with your left arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0231-sYCcnon.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0231-sYCcnon.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0231-sYCcnon.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0231-sYCcnon.gif",
   },
   {
     id: "1376",
@@ -9057,8 +9057,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch legs.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1376-fgc9Xdl.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1376-fgc9Xdl.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1376-fgc9Xdl.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1376-fgc9Xdl.gif",
   },
   {
     id: "0232",
@@ -9081,8 +9081,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0232-CvPn9WV.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0232-CvPn9WV.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0232-CvPn9WV.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0232-CvPn9WV.gif",
   },
   {
     id: "0233",
@@ -9104,8 +9104,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0233-ZfyAGhK.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0233-ZfyAGhK.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0233-ZfyAGhK.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0233-ZfyAGhK.gif",
   },
   {
     id: "1727",
@@ -9126,8 +9126,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1727-i11JWU7.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1727-i11JWU7.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1727-i11JWU7.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1727-i11JWU7.gif",
   },
   {
     id: "0234",
@@ -9149,8 +9149,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0234-4f8RXP8.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0234-4f8RXP8.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0234-4f8RXP8.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0234-4f8RXP8.gif",
   },
   {
     id: "0235",
@@ -9172,8 +9172,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0235-FWdVhcW.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0235-FWdVhcW.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0235-FWdVhcW.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0235-FWdVhcW.gif",
   },
   {
     id: "0236",
@@ -9199,8 +9199,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat the movement for the desired number of repetitions, alternating the twisting direction with each rep.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0236-JOZhu2h.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0236-JOZhu2h.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0236-JOZhu2h.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0236-JOZhu2h.gif",
   },
   {
     id: "1269",
@@ -9221,8 +9221,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1269-UKWTJWR.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1269-UKWTJWR.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1269-UKWTJWR.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1269-UKWTJWR.gif",
   },
   {
     id: "0238",
@@ -9244,8 +9244,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0238-x69MAlq.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0238-x69MAlq.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0238-x69MAlq.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0238-x69MAlq.gif",
   },
   {
     id: "0237",
@@ -9268,8 +9268,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0237-DT14T9T.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0237-DT14T9T.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0237-DT14T9T.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0237-DT14T9T.gif",
   },
   {
     id: "0239",
@@ -9291,8 +9291,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0239-Tq6gbK6.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0239-Tq6gbK6.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0239-Tq6gbK6.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0239-Tq6gbK6.gif",
   },
   {
     id: "0240",
@@ -9313,8 +9313,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0240-PQcUlDi.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0240-PQcUlDi.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0240-PQcUlDi.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0240-PQcUlDi.gif",
   },
   {
     id: "2464",
@@ -9336,8 +9336,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides and perform with your left arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2464-ZgwWBoC.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2464-ZgwWBoC.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2464-ZgwWBoC.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2464-ZgwWBoC.gif",
   },
   {
     id: "0241",
@@ -9361,8 +9361,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0241-gAwDzB3.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0241-gAwDzB3.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0241-gAwDzB3.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0241-gAwDzB3.gif",
   },
   {
     id: "2405",
@@ -9386,8 +9386,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2405-OxJk1fg.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2405-OxJk1fg.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2405-OxJk1fg.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2405-OxJk1fg.gif",
   },
   {
     id: "0242",
@@ -9409,8 +9409,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0242-TXtXc84.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0242-TXtXc84.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0242-TXtXc84.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0242-TXtXc84.gif",
   },
   {
     id: "0243",
@@ -9433,8 +9433,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0243-aVs3BR3.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0243-aVs3BR3.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0243-aVs3BR3.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0243-aVs3BR3.gif",
   },
   {
     id: "0862",
@@ -9456,8 +9456,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0862-fhZQPlV.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0862-fhZQPlV.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0862-fhZQPlV.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0862-fhZQPlV.gif",
   },
   {
     id: "0244",
@@ -9481,8 +9481,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides and perform with your right hand.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0244-zCgxPbV.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0244-zCgxPbV.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0244-zCgxPbV.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0244-zCgxPbV.gif",
   },
   {
     id: "1645",
@@ -9504,8 +9504,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1645-H9y3Dkr.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1645-H9y3Dkr.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1645-H9y3Dkr.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1645-H9y3Dkr.gif",
   },
   {
     id: "1728",
@@ -9526,8 +9526,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1728-vvNjDJS.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1728-vvNjDJS.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1728-vvNjDJS.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1728-vvNjDJS.gif",
   },
   {
     id: "0245",
@@ -9549,8 +9549,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0245-xBYcQHj.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0245-xBYcQHj.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0245-xBYcQHj.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0245-xBYcQHj.gif",
   },
   {
     id: "1270",
@@ -9574,8 +9574,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1270-j7XMAyn.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1270-j7XMAyn.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1270-j7XMAyn.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1270-j7XMAyn.gif",
   },
   {
     id: "1324",
@@ -9599,8 +9599,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1324-PQStVXH.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1324-PQStVXH.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1324-PQStVXH.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1324-PQStVXH.gif",
   },
   {
     id: "0246",
@@ -9622,8 +9622,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0246-cALKspW.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0246-cALKspW.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0246-cALKspW.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0246-cALKspW.gif",
   },
   {
     id: "1325",
@@ -9645,8 +9645,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1325-CmEr4pM.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1325-CmEr4pM.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1325-CmEr4pM.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1325-CmEr4pM.gif",
   },
   {
     id: "0247",
@@ -9669,8 +9669,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0247-LrV4s90.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0247-LrV4s90.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0247-LrV4s90.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0247-LrV4s90.gif",
   },
   {
     id: "1407",
@@ -9692,8 +9692,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Switch legs and repeat the stretch.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1407-PzNxakt.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1407-PzNxakt.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1407-PzNxakt.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1407-PzNxakt.gif",
   },
   {
     id: "1377",
@@ -9715,8 +9715,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Switch legs and repeat the stretch.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1377-m0tCHqc.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1377-m0tCHqc.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1377-m0tCHqc.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1377-m0tCHqc.gif",
   },
   {
     id: "1378",
@@ -9738,8 +9738,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat on the other leg.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1378-1LVFcEn.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1378-1LVFcEn.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1378-1LVFcEn.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1378-1LVFcEn.gif",
   },
   {
     id: "0248",
@@ -9760,8 +9760,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Lower the barbell back down to the starting position and repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0248-R5swFnc.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0248-R5swFnc.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0248-R5swFnc.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0248-R5swFnc.gif",
   },
   {
     id: "2963",
@@ -9783,8 +9783,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2963-weoDEpH.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2963-weoDEpH.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2963-weoDEpH.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2963-weoDEpH.gif",
   },
   {
     id: "1548",
@@ -9805,8 +9805,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Switch legs and repeat the stretch.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1548-xGgAGPm.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1548-xGgAGPm.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1548-xGgAGPm.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1548-xGgAGPm.gif",
   },
   {
     id: "1271",
@@ -9829,8 +9829,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1271-Uto7l43.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1271-Uto7l43.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1271-Uto7l43.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1271-Uto7l43.gif",
   },
   {
     id: "0251",
@@ -9850,8 +9850,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0251-9WTm7dq.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0251-9WTm7dq.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0251-9WTm7dq.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0251-9WTm7dq.gif",
   },
   {
     id: "1430",
@@ -9875,8 +9875,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1430-XgWyAiA.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1430-XgWyAiA.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1430-XgWyAiA.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1430-XgWyAiA.gif",
   },
   {
     id: "2462",
@@ -9897,8 +9897,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2462-LQFOrMn.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2462-LQFOrMn.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2462-LQFOrMn.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2462-LQFOrMn.gif",
   },
   {
     id: "1272",
@@ -9919,8 +9919,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1272-ykA5tU7.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1272-ykA5tU7.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1272-ykA5tU7.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1272-ykA5tU7.gif",
   },
   {
     id: "3216",
@@ -9942,8 +9942,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3216-7E06s6d.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3216-7E06s6d.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3216-7E06s6d.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3216-7E06s6d.gif",
   },
   {
     id: "1326",
@@ -9964,8 +9964,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1326-T2mxWqc.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1326-T2mxWqc.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1326-T2mxWqc.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1326-T2mxWqc.gif",
   },
   {
     id: "0253",
@@ -9986,8 +9986,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0253-G70mEAJ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0253-G70mEAJ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0253-G70mEAJ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0253-G70mEAJ.gif",
   },
   {
     id: "0257",
@@ -10007,8 +10007,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Perform the movement for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0257-X7jbxra.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0257-X7jbxra.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0257-X7jbxra.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0257-X7jbxra.gif",
   },
   {
     id: "1273",
@@ -10029,8 +10029,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1273-wigSg76.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1273-wigSg76.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1273-wigSg76.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1273-wigSg76.gif",
   },
   {
     id: "0258",
@@ -10052,8 +10052,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides with each repetition.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0258-CMAxnsG.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0258-CMAxnsG.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0258-CMAxnsG.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0258-CMAxnsG.gif",
   },
   {
     id: "1327",
@@ -10075,8 +10075,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1327-VnfUNW7.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1327-VnfUNW7.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1327-VnfUNW7.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1327-VnfUNW7.gif",
   },
   {
     id: "0259",
@@ -10096,8 +10096,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0259-x6KpKpq.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0259-x6KpKpq.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0259-x6KpKpq.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0259-x6KpKpq.gif",
   },
   {
     id: "2398",
@@ -10118,8 +10118,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2398-v3vLFW0.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2398-v3vLFW0.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2398-v3vLFW0.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2398-v3vLFW0.gif",
   },
   {
     id: "0260",
@@ -10140,8 +10140,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0260-SLKj2pX.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0260-SLKj2pX.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0260-SLKj2pX.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0260-SLKj2pX.gif",
   },
   {
     id: "1468",
@@ -10162,8 +10162,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1468-xgsGFVM.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1468-xgsGFVM.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1468-xgsGFVM.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1468-xgsGFVM.gif",
   },
   {
     id: "0262",
@@ -10185,8 +10185,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0262-rbu5UUb.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0262-rbu5UUb.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0262-rbu5UUb.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0262-rbu5UUb.gif",
   },
   {
     id: "0267",
@@ -10207,8 +10207,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0267-kjJ3VoQ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0267-kjJ3VoQ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0267-kjJ3VoQ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0267-kjJ3VoQ.gif",
   },
   {
     id: "0271",
@@ -10230,8 +10230,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0271-MCUhf1F.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0271-MCUhf1F.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0271-MCUhf1F.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0271-MCUhf1F.gif",
   },
   {
     id: "0272",
@@ -10253,8 +10253,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0272-Sn8wxAI.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0272-Sn8wxAI.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0272-Sn8wxAI.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0272-Sn8wxAI.gif",
   },
   {
     id: "0274",
@@ -10275,8 +10275,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0274-TFqbd8t.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0274-TFqbd8t.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0274-TFqbd8t.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0274-TFqbd8t.gif",
   },
   {
     id: "3016",
@@ -10297,8 +10297,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3016-g2oKspu.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3016-g2oKspu.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3016-g2oKspu.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3016-g2oKspu.gif",
   },
   {
     id: "3769",
@@ -10320,8 +10320,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat on the other side, stepping diagonally behind and across your body with your left foot.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3769-gUjqdei.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3769-gUjqdei.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3769-gUjqdei.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3769-gUjqdei.gif",
   },
   {
     id: "0276",
@@ -10344,8 +10344,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0276-iny3m5y.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0276-iny3m5y.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0276-iny3m5y.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0276-iny3m5y.gif",
   },
   {
     id: "0277",
@@ -10366,8 +10366,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0277-9Ap7miY.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0277-9Ap7miY.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0277-9Ap7miY.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0277-9Ap7miY.gif",
   },
   {
     id: "0279",
@@ -10388,8 +10388,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0279-i5cEhka.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0279-i5cEhka.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0279-i5cEhka.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0279-i5cEhka.gif",
   },
   {
     id: "0282",
@@ -10410,8 +10410,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0282-QLL2gdc.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0282-QLL2gdc.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0282-QLL2gdc.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0282-QLL2gdc.gif",
   },
   {
     id: "1274",
@@ -10431,8 +10431,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1274-vptOQ4N.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1274-vptOQ4N.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1274-vptOQ4N.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1274-vptOQ4N.gif",
   },
   {
     id: "0283",
@@ -10453,8 +10453,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0283-soIB2rj.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0283-soIB2rj.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0283-soIB2rj.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0283-soIB2rj.gif",
   },
   {
     id: "0284",
@@ -10475,8 +10475,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0284-u5ESqzH.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0284-u5ESqzH.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0284-u5ESqzH.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0284-u5ESqzH.gif",
   },
   {
     id: "1275",
@@ -10497,8 +10497,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1275-Q497lAE.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1275-Q497lAE.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1275-Q497lAE.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1275-Q497lAE.gif",
   },
   {
     id: "0285",
@@ -10520,8 +10520,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, alternating arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0285-BU15nH4.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0285-BU15nH4.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0285-BU15nH4.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0285-BU15nH4.gif",
   },
   {
     id: "2403",
@@ -10545,8 +10545,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating arms for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2403-CfKsRbG.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2403-CfKsRbG.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2403-CfKsRbG.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2403-CfKsRbG.gif",
   },
   {
     id: "1646",
@@ -10568,8 +10568,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the recommended amount of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1646-fy7Tgy4.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1646-fy7Tgy4.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1646-fy7Tgy4.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1646-fy7Tgy4.gif",
   },
   {
     id: "1647",
@@ -10592,8 +10592,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating arms for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1647-NlfIbzq.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1647-NlfIbzq.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1647-NlfIbzq.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1647-NlfIbzq.gif",
   },
   {
     id: "1648",
@@ -10616,8 +10616,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating arms for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1648-6em2Dxj.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1648-6em2Dxj.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1648-6em2Dxj.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1648-6em2Dxj.gif",
   },
   {
     id: "0286",
@@ -10637,8 +10637,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0286-izMnLqz.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0286-izMnLqz.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0286-izMnLqz.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0286-izMnLqz.gif",
   },
   {
     id: "1649",
@@ -10659,8 +10659,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating arms for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1649-Zwiw7XR.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1649-Zwiw7XR.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1649-Zwiw7XR.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1649-Zwiw7XR.gif",
   },
   {
     id: "1650",
@@ -10682,8 +10682,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating curls for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1650-J74XlNf.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1650-J74XlNf.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1650-J74XlNf.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1650-J74XlNf.gif",
   },
   {
     id: "2137",
@@ -10704,8 +10704,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2137-Xy4jlWA.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2137-Xy4jlWA.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2137-Xy4jlWA.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2137-Xy4jlWA.gif",
   },
   {
     id: "0287",
@@ -10726,8 +10726,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0287-eOrFCnx.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0287-eOrFCnx.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0287-eOrFCnx.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0287-eOrFCnx.gif",
   },
   {
     id: "0288",
@@ -10748,8 +10748,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0288-vi8EhoE.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0288-vi8EhoE.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0288-vi8EhoE.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0288-vi8EhoE.gif",
   },
   {
     id: "0289",
@@ -10770,8 +10770,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0289-SpYC0Kp.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0289-SpYC0Kp.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0289-SpYC0Kp.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0289-SpYC0Kp.gif",
   },
   {
     id: "0290",
@@ -10792,8 +10792,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0290-3d7wHyd.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0290-3d7wHyd.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0290-3d7wHyd.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0290-3d7wHyd.gif",
   },
   {
     id: "0291",
@@ -10814,8 +10814,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0291-mnzcrIB.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0291-mnzcrIB.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0291-mnzcrIB.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0291-mnzcrIB.gif",
   },
   {
     id: "0293",
@@ -10837,8 +10837,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0293-BJ0Hz5L.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0293-BJ0Hz5L.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0293-BJ0Hz5L.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0293-BJ0Hz5L.gif",
   },
   {
     id: "1651",
@@ -10861,8 +10861,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1651-1VpF8db.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1651-1VpF8db.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1651-1VpF8db.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1651-1VpF8db.gif",
   },
   {
     id: "1652",
@@ -10884,8 +10884,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch legs and repeat.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1652-2NImIAG.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1652-2NImIAG.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1652-2NImIAG.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1652-2NImIAG.gif",
   },
   {
     id: "1653",
@@ -10908,8 +10908,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch legs and repeat.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1653-uSkDMYl.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1653-uSkDMYl.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1653-uSkDMYl.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1653-uSkDMYl.gif",
   },
   {
     id: "0294",
@@ -10931,8 +10931,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0294-NbVPDMW.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0294-NbVPDMW.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0294-NbVPDMW.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0294-NbVPDMW.gif",
   },
   {
     id: "2401",
@@ -10955,8 +10955,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2401-nlJsbkW.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2401-nlJsbkW.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2401-nlJsbkW.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2401-nlJsbkW.gif",
   },
   {
     id: "1654",
@@ -10978,8 +10978,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1654-nFc4FyV.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1654-nFc4FyV.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1654-nFc4FyV.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1654-nFc4FyV.gif",
   },
   {
     id: "1655",
@@ -11000,8 +11000,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1655-niXESDw.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1655-niXESDw.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1655-niXESDw.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1655-niXESDw.gif",
   },
   {
     id: "1656",
@@ -11024,8 +11024,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1656-H1XAdpk.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1656-H1XAdpk.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1656-H1XAdpk.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1656-H1XAdpk.gif",
   },
   {
     id: "0295",
@@ -11048,8 +11048,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0295-7Hg55JG.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0295-7Hg55JG.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0295-7Hg55JG.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0295-7Hg55JG.gif",
   },
   {
     id: "1731",
@@ -11071,8 +11071,8 @@ export const datasetExercises: DatasetExercise[] = [
       "After a second pause at the contracted position, repeat the movement for the prescribed amount of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1731-7jGOBF3.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1731-7jGOBF3.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1731-7jGOBF3.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1731-7jGOBF3.gif",
   },
   {
     id: "0296",
@@ -11094,8 +11094,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0296-RxayqAZ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0296-RxayqAZ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0296-RxayqAZ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0296-RxayqAZ.gif",
   },
   {
     id: "0297",
@@ -11118,8 +11118,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0297-gvsWLQw.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0297-gvsWLQw.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0297-gvsWLQw.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0297-gvsWLQw.gif",
   },
   {
     id: "3635",
@@ -11141,8 +11141,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Alternate legs for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3635-ecl28tP.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3635-ecl28tP.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3635-ecl28tP.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3635-ecl28tP.gif",
   },
   {
     id: "0298",
@@ -11165,8 +11165,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0298-Qyk5J3p.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0298-Qyk5J3p.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0298-Qyk5J3p.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0298-Qyk5J3p.gif",
   },
   {
     id: "1657",
@@ -11188,8 +11188,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1657-HDYiZcY.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1657-HDYiZcY.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1657-HDYiZcY.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1657-HDYiZcY.gif",
   },
   {
     id: "0299",
@@ -11210,8 +11210,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0299-QfAKy1G.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0299-QfAKy1G.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0299-QfAKy1G.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0299-QfAKy1G.gif",
   },
   {
     id: "2136",
@@ -11232,8 +11232,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2136-BqgCRif.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2136-BqgCRif.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2136-BqgCRif.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2136-BqgCRif.gif",
   },
   {
     id: "0300",
@@ -11254,8 +11254,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0300-nUwVh7b.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0300-nUwVh7b.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0300-nUwVh7b.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0300-nUwVh7b.gif",
   },
   {
     id: "0301",
@@ -11276,8 +11276,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0301-DwhEmmE.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0301-DwhEmmE.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0301-DwhEmmE.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0301-DwhEmmE.gif",
   },
   {
     id: "0302",
@@ -11298,8 +11298,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0302-xXm4nYq.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0302-xXm4nYq.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0302-xXm4nYq.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0302-xXm4nYq.gif",
   },
   {
     id: "0303",
@@ -11320,8 +11320,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0303-1qrWgZ2.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0303-1qrWgZ2.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0303-1qrWgZ2.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0303-1qrWgZ2.gif",
   },
   {
     id: "1276",
@@ -11343,8 +11343,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1276-NL6YBwN.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1276-NL6YBwN.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1276-NL6YBwN.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1276-NL6YBwN.gif",
   },
   {
     id: "1617",
@@ -11365,8 +11365,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1617-SHUMp5H.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1617-SHUMp5H.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1617-SHUMp5H.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1617-SHUMp5H.gif",
   },
   {
     id: "0305",
@@ -11388,8 +11388,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0305-cwsAI4G.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0305-cwsAI4G.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0305-cwsAI4G.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0305-cwsAI4G.gif",
   },
   {
     id: "0304",
@@ -11411,8 +11411,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0304-bRlbdjK.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0304-bRlbdjK.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0304-bRlbdjK.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0304-bRlbdjK.gif",
   },
   {
     id: "0306",
@@ -11433,8 +11433,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0306-OTgkHwR.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0306-OTgkHwR.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0306-OTgkHwR.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0306-OTgkHwR.gif",
   },
   {
     id: "0307",
@@ -11456,8 +11456,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0307-reFHapa.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0307-reFHapa.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0307-reFHapa.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0307-reFHapa.gif",
   },
   {
     id: "1437",
@@ -11477,8 +11477,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other hand.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1437-mtXengz.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1437-mtXengz.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1437-mtXengz.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1437-mtXengz.gif",
   },
   {
     id: "0308",
@@ -11499,8 +11499,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0308-yz9nUhF.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0308-yz9nUhF.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0308-yz9nUhF.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0308-yz9nUhF.gif",
   },
   {
     id: "1277",
@@ -11522,8 +11522,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1277-Lt3iWnf.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1277-Lt3iWnf.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1277-Lt3iWnf.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1277-Lt3iWnf.gif",
   },
   {
     id: "1732",
@@ -11546,8 +11546,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat the movement for the desired number of repetitions, then switch legs and repeat.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1732-XalXcvM.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1732-XalXcvM.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1732-XalXcvM.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1732-XalXcvM.gif",
   },
   {
     id: "0310",
@@ -11567,8 +11567,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0310-3eGE2JC.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0310-3eGE2JC.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0310-3eGE2JC.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0310-3eGE2JC.gif",
   },
   {
     id: "0309",
@@ -11589,8 +11589,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0309-Rr7S3yg.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0309-Rr7S3yg.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0309-Rr7S3yg.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0309-Rr7S3yg.gif",
   },
   {
     id: "0311",
@@ -11611,8 +11611,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0311-AQ0mC4Y.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0311-AQ0mC4Y.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0311-AQ0mC4Y.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0311-AQ0mC4Y.gif",
   },
   {
     id: "1760",
@@ -11633,8 +11633,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1760-yn8yg1r.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1760-yn8yg1r.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1760-yn8yg1r.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1760-yn8yg1r.gif",
   },
   {
     id: "0313",
@@ -11658,8 +11658,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the recommended amount of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0313-slDvUAU.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0313-slDvUAU.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0313-slDvUAU.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0313-slDvUAU.gif",
   },
   {
     id: "1659",
@@ -11682,8 +11682,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1659-fY68AyX.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1659-fY68AyX.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1659-fY68AyX.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1659-fY68AyX.gif",
   },
   {
     id: "0312",
@@ -11707,8 +11707,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the recommended amount of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0312-2NpxjC1.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0312-2NpxjC1.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0312-2NpxjC1.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0312-2NpxjC1.gif",
   },
   {
     id: "2402",
@@ -11732,8 +11732,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the recommended amount of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2402-GNhAeJ0.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2402-GNhAeJ0.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2402-GNhAeJ0.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2402-GNhAeJ0.gif",
   },
   {
     id: "1664",
@@ -11753,8 +11753,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1664-qAmNMJY.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1664-qAmNMJY.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1664-qAmNMJY.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1664-qAmNMJY.gif",
   },
   {
     id: "3545",
@@ -11776,8 +11776,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, alternating arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3545-TVdivgY.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3545-TVdivgY.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3545-TVdivgY.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3545-TVdivgY.gif",
   },
   {
     id: "0314",
@@ -11799,8 +11799,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0314-ns0SIbU.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0314-ns0SIbU.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0314-ns0SIbU.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0314-ns0SIbU.gif",
   },
   {
     id: "0315",
@@ -11822,8 +11822,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0315-F3xgbjF.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0315-F3xgbjF.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0315-F3xgbjF.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0315-F3xgbjF.gif",
   },
   {
     id: "0316",
@@ -11846,8 +11846,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0316-B3Rxp6L.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0316-B3Rxp6L.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0316-B3Rxp6L.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0316-B3Rxp6L.gif",
   },
   {
     id: "0318",
@@ -11870,8 +11870,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0318-ae9UoXQ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0318-ae9UoXQ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0318-ae9UoXQ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0318-ae9UoXQ.gif",
   },
   {
     id: "0317",
@@ -11893,8 +11893,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0317-RaflbWD.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0317-RaflbWD.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0317-RaflbWD.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0317-RaflbWD.gif",
   },
   {
     id: "0319",
@@ -11916,8 +11916,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0319-ESOd5Pl.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0319-ESOd5Pl.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0319-ESOd5Pl.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0319-ESOd5Pl.gif",
   },
   {
     id: "1278",
@@ -11939,8 +11939,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1278-HYe1ZqR.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1278-HYe1ZqR.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1278-HYe1ZqR.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1278-HYe1ZqR.gif",
   },
   {
     id: "0320",
@@ -11963,8 +11963,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0320-ByX0WxV.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0320-ByX0WxV.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0320-ByX0WxV.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0320-ByX0WxV.gif",
   },
   {
     id: "0321",
@@ -11985,8 +11985,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0321-PG1kcIb.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0321-PG1kcIb.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0321-PG1kcIb.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0321-PG1kcIb.gif",
   },
   {
     id: "1618",
@@ -12009,8 +12009,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1618-wkgnGfb.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1618-wkgnGfb.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1618-wkgnGfb.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1618-wkgnGfb.gif",
   },
   {
     id: "0322",
@@ -12033,8 +12033,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0322-LCtQPn8.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0322-LCtQPn8.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0322-LCtQPn8.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0322-LCtQPn8.gif",
   },
   {
     id: "1279",
@@ -12057,8 +12057,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1279-Gw2HFvW.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1279-Gw2HFvW.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1279-Gw2HFvW.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1279-Gw2HFvW.gif",
   },
   {
     id: "1280",
@@ -12081,8 +12081,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1280-LLNh6q5.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1280-LLNh6q5.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1280-LLNh6q5.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1280-LLNh6q5.gif",
   },
   {
     id: "1619",
@@ -12104,8 +12104,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1619-LL1UiTX.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1619-LL1UiTX.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1619-LL1UiTX.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1619-LL1UiTX.gif",
   },
   {
     id: "1620",
@@ -12127,8 +12127,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1620-jDnrkar.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1620-jDnrkar.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1620-jDnrkar.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1620-jDnrkar.gif",
   },
   {
     id: "0323",
@@ -12150,8 +12150,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0323-aTNKZiC.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0323-aTNKZiC.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0323-aTNKZiC.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0323-aTNKZiC.gif",
   },
   {
     id: "1281",
@@ -12172,8 +12172,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1281-rDAiRf9.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1281-rDAiRf9.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1281-rDAiRf9.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1281-rDAiRf9.gif",
   },
   {
     id: "1282",
@@ -12195,8 +12195,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1282-Bg5JKSH.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1282-Bg5JKSH.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1282-Bg5JKSH.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1282-Bg5JKSH.gif",
   },
   {
     id: "0324",
@@ -12219,8 +12219,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0324-OVLmUuL.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0324-OVLmUuL.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0324-OVLmUuL.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0324-OVLmUuL.gif",
   },
   {
     id: "1283",
@@ -12242,8 +12242,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1283-bfiHMpI.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1283-bfiHMpI.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1283-bfiHMpI.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1283-bfiHMpI.gif",
   },
   {
     id: "0325",
@@ -12264,8 +12264,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0325-nxW6BkN.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0325-nxW6BkN.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0325-nxW6BkN.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0325-nxW6BkN.gif",
   },
   {
     id: "0326",
@@ -12287,8 +12287,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0326-vYk8lqw.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0326-vYk8lqw.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0326-vYk8lqw.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0326-vYk8lqw.gif",
   },
   {
     id: "0327",
@@ -12310,8 +12310,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0327-7vG5o25.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0327-7vG5o25.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0327-7vG5o25.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0327-7vG5o25.gif",
   },
   {
     id: "0328",
@@ -12333,8 +12333,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0328-6e2DcYX.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0328-6e2DcYX.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0328-6e2DcYX.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0328-6e2DcYX.gif",
   },
   {
     id: "0329",
@@ -12355,8 +12355,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0329-JymLInS.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0329-JymLInS.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0329-JymLInS.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0329-JymLInS.gif",
   },
   {
     id: "3542",
@@ -12377,8 +12377,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3542-jgbvVJ0.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3542-jgbvVJ0.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3542-jgbvVJ0.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3542-jgbvVJ0.gif",
   },
   {
     id: "0330",
@@ -12399,8 +12399,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0330-OVIKwsd.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0330-OVIKwsd.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0330-OVIKwsd.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0330-OVIKwsd.gif",
   },
   {
     id: "0331",
@@ -12422,8 +12422,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0331-1PLE8e9.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0331-1PLE8e9.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0331-1PLE8e9.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0331-1PLE8e9.gif",
   },
   {
     id: "1733",
@@ -12444,8 +12444,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1733-U7D9Fx3.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1733-U7D9Fx3.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1733-U7D9Fx3.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1733-U7D9Fx3.gif",
   },
   {
     id: "3541",
@@ -12466,8 +12466,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3541-PbzNu7c.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3541-PbzNu7c.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3541-PbzNu7c.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3541-PbzNu7c.gif",
   },
   {
     id: "0332",
@@ -12487,8 +12487,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0332-cALkHHX.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0332-cALkHHX.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0332-cALkHHX.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0332-cALkHHX.gif",
   },
   {
     id: "0333",
@@ -12510,8 +12510,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0333-W6PxUkg.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0333-W6PxUkg.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0333-W6PxUkg.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0333-W6PxUkg.gif",
   },
   {
     id: "1734",
@@ -12532,8 +12532,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1734-cAvTaSg.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1734-cAvTaSg.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1734-cAvTaSg.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1734-cAvTaSg.gif",
   },
   {
     id: "1660",
@@ -12556,8 +12556,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1660-2JCuFTU.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1660-2JCuFTU.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1660-2JCuFTU.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1660-2JCuFTU.gif",
   },
   {
     id: "0334",
@@ -12578,8 +12578,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0334-DsgkuIt.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0334-DsgkuIt.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0334-DsgkuIt.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0334-DsgkuIt.gif",
   },
   {
     id: "0335",
@@ -12602,8 +12602,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0335-xMjBKwn.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0335-xMjBKwn.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0335-xMjBKwn.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0335-xMjBKwn.gif",
   },
   {
     id: "0336",
@@ -12625,8 +12625,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Alternate legs for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0336-RRWFUcw.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0336-RRWFUcw.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0336-RRWFUcw.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0336-RRWFUcw.gif",
   },
   {
     id: "1658",
@@ -12648,8 +12648,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1658-Mz6lLcW.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1658-Mz6lLcW.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1658-Mz6lLcW.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1658-Mz6lLcW.gif",
   },
   {
     id: "0337",
@@ -12670,8 +12670,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0337-L2V5Nan.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0337-L2V5Nan.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0337-L2V5Nan.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0337-L2V5Nan.gif",
   },
   {
     id: "1729",
@@ -12692,8 +12692,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat with the other arm, alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1729-NfP83rA.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1729-NfP83rA.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1729-NfP83rA.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1729-NfP83rA.gif",
   },
   {
     id: "0338",
@@ -12713,8 +12713,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0338-eOCOwIR.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0338-eOCOwIR.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0338-eOCOwIR.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0338-eOCOwIR.gif",
   },
   {
     id: "0863",
@@ -12735,8 +12735,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0863-bmBf7LN.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0863-bmBf7LN.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0863-bmBf7LN.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0863-bmBf7LN.gif",
   },
   {
     id: "0339",
@@ -12756,8 +12756,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0339-FkBIE6a.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0339-FkBIE6a.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0339-FkBIE6a.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0339-FkBIE6a.gif",
   },
   {
     id: "0340",
@@ -12777,8 +12777,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0340-7gdLIXa.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0340-7gdLIXa.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0340-7gdLIXa.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0340-7gdLIXa.gif",
   },
   {
     id: "2470",
@@ -12799,8 +12799,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2470-Ion0XWz.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2470-Ion0XWz.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2470-Ion0XWz.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2470-Ion0XWz.gif",
   },
   {
     id: "0341",
@@ -12821,8 +12821,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0341-gSw59a4.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0341-gSw59a4.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0341-gSw59a4.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0341-gSw59a4.gif",
   },
   {
     id: "0343",
@@ -12843,8 +12843,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0343-zGSIWQi.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0343-zGSIWQi.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0343-zGSIWQi.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0343-zGSIWQi.gif",
   },
   {
     id: "0342",
@@ -12866,8 +12866,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0342-K3dIO25.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0342-K3dIO25.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0342-K3dIO25.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0342-K3dIO25.gif",
   },
   {
     id: "0344",
@@ -12888,8 +12888,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0344-wyaqzOS.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0344-wyaqzOS.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0344-wyaqzOS.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0344-wyaqzOS.gif",
   },
   {
     id: "0345",
@@ -12909,8 +12909,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0345-KwFGiEP.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0345-KwFGiEP.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0345-KwFGiEP.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0345-KwFGiEP.gif",
   },
   {
     id: "0346",
@@ -12931,8 +12931,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0346-zZlORz6.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0346-zZlORz6.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0346-zZlORz6.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0346-zZlORz6.gif",
   },
   {
     id: "0347",
@@ -12953,8 +12953,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0347-mym4hJo.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0347-mym4hJo.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0347-mym4hJo.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0347-mym4hJo.gif",
   },
   {
     id: "2705",
@@ -12976,8 +12976,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2705-7RWNjiB.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2705-7RWNjiB.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2705-7RWNjiB.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2705-7RWNjiB.gif",
   },
   {
     id: "1284",
@@ -12998,8 +12998,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1284-iK59oEA.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1284-iK59oEA.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1284-iK59oEA.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1284-iK59oEA.gif",
   },
   {
     id: "1328",
@@ -13020,8 +13020,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1328-XUUD0Fs.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1328-XUUD0Fs.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1328-XUUD0Fs.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1328-XUUD0Fs.gif",
   },
   {
     id: "0348",
@@ -13042,8 +13042,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0348-53Ttlck.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0348-53Ttlck.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0348-53Ttlck.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0348-53Ttlck.gif",
   },
   {
     id: "1735",
@@ -13063,8 +13063,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1735-6MfS53i.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1735-6MfS53i.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1735-6MfS53i.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1735-6MfS53i.gif",
   },
   {
     id: "0349",
@@ -13085,8 +13085,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0349-M2Pm3zj.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0349-M2Pm3zj.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0349-M2Pm3zj.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0349-M2Pm3zj.gif",
   },
   {
     id: "2706",
@@ -13107,8 +13107,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2706-rEhi2o5.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2706-rEhi2o5.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2706-rEhi2o5.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2706-rEhi2o5.gif",
   },
   {
     id: "1661",
@@ -13131,8 +13131,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1661-XVzF3iZ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1661-XVzF3iZ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1661-XVzF3iZ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1661-XVzF3iZ.gif",
   },
   {
     id: "0350",
@@ -13154,8 +13154,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0350-KUaZst7.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0350-KUaZst7.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0350-KUaZst7.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0350-KUaZst7.gif",
   },
   {
     id: "0351",
@@ -13176,8 +13176,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0351-mpKZGWz.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0351-mpKZGWz.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0351-mpKZGWz.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0351-mpKZGWz.gif",
   },
   {
     id: "1662",
@@ -13199,8 +13199,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1662-qm9veZw.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1662-qm9veZw.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1662-qm9veZw.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1662-qm9veZw.gif",
   },
   {
     id: "0352",
@@ -13221,8 +13221,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0352-pP8wP2P.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0352-pP8wP2P.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0352-pP8wP2P.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0352-pP8wP2P.gif",
   },
   {
     id: "1285",
@@ -13245,8 +13245,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms and repeat.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1285-o5Jsk92.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1285-o5Jsk92.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1285-o5Jsk92.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1285-o5Jsk92.gif",
   },
   {
     id: "0292",
@@ -13268,8 +13268,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0292-C0MA9bC.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0292-C0MA9bC.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0292-C0MA9bC.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0292-C0MA9bC.gif",
   },
   {
     id: "1286",
@@ -13292,8 +13292,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1286-Bpkf41o.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1286-Bpkf41o.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1286-Bpkf41o.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1286-Bpkf41o.gif",
   },
   {
     id: "0353",
@@ -13315,8 +13315,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms and repeat.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0353-k5IpyHg.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0353-k5IpyHg.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0353-k5IpyHg.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0353-k5IpyHg.gif",
   },
   {
     id: "1287",
@@ -13337,8 +13337,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1287-REGM1dE.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1287-REGM1dE.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1287-REGM1dE.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1287-REGM1dE.gif",
   },
   {
     id: "1288",
@@ -13360,8 +13360,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1288-Am02iPd.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1288-Am02iPd.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1288-Am02iPd.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1288-Am02iPd.gif",
   },
   {
     id: "1736",
@@ -13382,8 +13382,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1736-ziFKQXP.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1736-ziFKQXP.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1736-ziFKQXP.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1736-ziFKQXP.gif",
   },
   {
     id: "1663",
@@ -13405,8 +13405,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1663-4dF3maG.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1663-4dF3maG.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1663-4dF3maG.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1663-4dF3maG.gif",
   },
   {
     id: "1621",
@@ -13428,8 +13428,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1621-VYmYxK5.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1621-VYmYxK5.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1621-VYmYxK5.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1621-VYmYxK5.gif",
   },
   {
     id: "1289",
@@ -13451,8 +13451,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1289-PDaMuyV.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1289-PDaMuyV.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1289-PDaMuyV.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1289-PDaMuyV.gif",
   },
   {
     id: "0354",
@@ -13474,8 +13474,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0354-bQy2Eni.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0354-bQy2Eni.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0354-bQy2Eni.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0354-bQy2Eni.gif",
   },
   {
     id: "0355",
@@ -13497,8 +13497,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0355-n5cWCsI.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0355-n5cWCsI.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0355-n5cWCsI.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0355-n5cWCsI.gif",
   },
   {
     id: "0356",
@@ -13521,8 +13521,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0356-Yg7MJAT.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0356-Yg7MJAT.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0356-Yg7MJAT.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0356-Yg7MJAT.gif",
   },
   {
     id: "1290",
@@ -13543,8 +13543,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1290-QZFv5ui.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1290-QZFv5ui.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1290-QZFv5ui.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1290-QZFv5ui.gif",
   },
   {
     id: "1665",
@@ -13565,8 +13565,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1665-JWjujiY.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1665-JWjujiY.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1665-JWjujiY.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1665-JWjujiY.gif",
   },
   {
     id: "1666",
@@ -13586,8 +13586,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1666-LIGZSTA.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1666-LIGZSTA.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1666-LIGZSTA.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1666-LIGZSTA.gif",
   },
   {
     id: "1291",
@@ -13608,8 +13608,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1291-bQHPBU3.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1291-bQHPBU3.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1291-bQHPBU3.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1291-bQHPBU3.gif",
   },
   {
     id: "0358",
@@ -13631,8 +13631,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0358-BwSNDGt.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0358-BwSNDGt.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0358-BwSNDGt.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0358-BwSNDGt.gif",
   },
   {
     id: "0359",
@@ -13654,8 +13654,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0359-e25F58f.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0359-e25F58f.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0359-e25F58f.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0359-e25F58f.gif",
   },
   {
     id: "1622",
@@ -13677,8 +13677,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1622-Ze7MoIb.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1622-Ze7MoIb.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1622-Ze7MoIb.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1622-Ze7MoIb.gif",
   },
   {
     id: "1414",
@@ -13699,8 +13699,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1414-bWxq4op.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1414-bWxq4op.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1414-bWxq4op.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1414-bWxq4op.gif",
   },
   {
     id: "1667",
@@ -13720,8 +13720,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1667-VdLZ3nB.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1667-VdLZ3nB.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1667-VdLZ3nB.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1667-VdLZ3nB.gif",
   },
   {
     id: "1668",
@@ -13742,8 +13742,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1668-s999Hdo.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1668-s999Hdo.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1668-s999Hdo.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1668-s999Hdo.gif",
   },
   {
     id: "1669",
@@ -13766,8 +13766,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1669-jK2hZ6n.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1669-jK2hZ6n.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1669-jK2hZ6n.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1669-jK2hZ6n.gif",
   },
   {
     id: "1415",
@@ -13788,8 +13788,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other hand.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1415-YtaCTYl.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1415-YtaCTYl.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1415-YtaCTYl.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1415-YtaCTYl.gif",
   },
   {
     id: "0361",
@@ -13809,8 +13809,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0361-84RyJf8.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0361-84RyJf8.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0361-84RyJf8.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0361-84RyJf8.gif",
   },
   {
     id: "0360",
@@ -13830,8 +13830,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0360-1TkiAFK.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0360-1TkiAFK.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0360-1TkiAFK.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0360-1TkiAFK.gif",
   },
   {
     id: "3888",
@@ -13855,8 +13855,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3888-6pTkI99.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3888-6pTkI99.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3888-6pTkI99.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3888-6pTkI99.gif",
   },
   {
     id: "1670",
@@ -13878,8 +13878,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1670-ffQsyBj.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1670-ffQsyBj.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1670-ffQsyBj.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1670-ffQsyBj.gif",
   },
   {
     id: "1671",
@@ -13902,8 +13902,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1671-2sQGZ5b.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1671-2sQGZ5b.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1671-2sQGZ5b.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1671-2sQGZ5b.gif",
   },
   {
     id: "0362",
@@ -13925,8 +13925,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0362-nAuHPcD.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0362-nAuHPcD.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0362-nAuHPcD.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0362-nAuHPcD.gif",
   },
   {
     id: "0363",
@@ -13947,8 +13947,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0363-6cKQC5E.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0363-6cKQC5E.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0363-6cKQC5E.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0363-6cKQC5E.gif",
   },
   {
     id: "0364",
@@ -13969,8 +13969,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other hand.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0364-q8aHNoF.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0364-q8aHNoF.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0364-q8aHNoF.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0364-q8aHNoF.gif",
   },
   {
     id: "1672",
@@ -13992,8 +13992,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1672-sxY5Biu.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1672-sxY5Biu.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1672-sxY5Biu.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1672-sxY5Biu.gif",
   },
   {
     id: "1292",
@@ -14015,8 +14015,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch legs and repeat.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1292-pH2x2jj.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1292-pH2x2jj.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1292-pH2x2jj.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1292-pH2x2jj.gif",
   },
   {
     id: "0365",
@@ -14037,8 +14037,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0365-BKa8dmT.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0365-BKa8dmT.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0365-BKa8dmT.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0365-BKa8dmT.gif",
   },
   {
     id: "0366",
@@ -14058,8 +14058,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0366-IvV6C9M.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0366-IvV6C9M.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0366-IvV6C9M.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0366-IvV6C9M.gif",
   },
   {
     id: "1441",
@@ -14080,8 +14080,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1441-4Jc36XM.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1441-4Jc36XM.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1441-4Jc36XM.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1441-4Jc36XM.gif",
   },
   {
     id: "0367",
@@ -14102,8 +14102,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0367-KI1DjNN.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0367-KI1DjNN.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0367-KI1DjNN.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0367-KI1DjNN.gif",
   },
   {
     id: "0368",
@@ -14124,8 +14124,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0368-3tAXPQ6.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0368-3tAXPQ6.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0368-3tAXPQ6.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0368-3tAXPQ6.gif",
   },
   {
     id: "0369",
@@ -14146,8 +14146,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0369-D1xYJAU.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0369-D1xYJAU.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0369-D1xYJAU.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0369-D1xYJAU.gif",
   },
   {
     id: "1329",
@@ -14171,8 +14171,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1329-wt6rwjk.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1329-wt6rwjk.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1329-wt6rwjk.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1329-wt6rwjk.gif",
   },
   {
     id: "1623",
@@ -14195,8 +14195,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1623-8eqjhOl.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1623-8eqjhOl.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1623-8eqjhOl.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1623-8eqjhOl.gif",
   },
   {
     id: "0370",
@@ -14220,8 +14220,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the recommended amount of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0370-F1KxjBa.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0370-F1KxjBa.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0370-F1KxjBa.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0370-F1KxjBa.gif",
   },
   {
     id: "0371",
@@ -14243,8 +14243,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating the position of your feet with each jump for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0371-S4pwGlc.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0371-S4pwGlc.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0371-S4pwGlc.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0371-S4pwGlc.gif",
   },
   {
     id: "0372",
@@ -14267,8 +14267,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0372-jivWf8n.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0372-jivWf8n.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0372-jivWf8n.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0372-jivWf8n.gif",
   },
   {
     id: "1673",
@@ -14289,8 +14289,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1673-hwygydB.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1673-hwygydB.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1673-hwygydB.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1673-hwygydB.gif",
   },
   {
     id: "1293",
@@ -14312,8 +14312,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1293-O8o7q4d.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1293-O8o7q4d.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1293-O8o7q4d.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1293-O8o7q4d.gif",
   },
   {
     id: "0373",
@@ -14334,8 +14334,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0373-bpJL2Qs.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0373-bpJL2Qs.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0373-bpJL2Qs.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0373-bpJL2Qs.gif",
   },
   {
     id: "0374",
@@ -14359,8 +14359,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0374-mwpPcr1.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0374-mwpPcr1.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0374-mwpPcr1.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0374-mwpPcr1.gif",
   },
   {
     id: "1674",
@@ -14384,8 +14384,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1674-cWemPG8.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1674-cWemPG8.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1674-cWemPG8.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1674-cWemPG8.gif",
   },
   {
     id: "0375",
@@ -14406,8 +14406,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0375-9XjtHvS.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0375-9XjtHvS.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0375-9XjtHvS.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0375-9XjtHvS.gif",
   },
   {
     id: "1294",
@@ -14431,8 +14431,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1294-lI7easp.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1294-lI7easp.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1294-lI7easp.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1294-lI7easp.gif",
   },
   {
     id: "1295",
@@ -14452,8 +14452,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1295-FSD6PGL.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1295-FSD6PGL.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1295-FSD6PGL.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1295-FSD6PGL.gif",
   },
   {
     id: "1700",
@@ -14473,8 +14473,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1700-FS63wTN.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1700-FS63wTN.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1700-FS63wTN.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1700-FS63wTN.gif",
   },
   {
     id: "0376",
@@ -14495,8 +14495,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0376-c9MnDRp.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0376-c9MnDRp.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0376-c9MnDRp.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0376-c9MnDRp.gif",
   },
   {
     id: "2292",
@@ -14517,8 +14517,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2292-mu5Guxt.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2292-mu5Guxt.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2292-mu5Guxt.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2292-mu5Guxt.gif",
   },
   {
     id: "0377",
@@ -14541,8 +14541,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0377-EKXOMEh.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0377-EKXOMEh.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0377-EKXOMEh.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0377-EKXOMEh.gif",
   },
   {
     id: "0378",
@@ -14564,8 +14564,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0378-8DiFDVA.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0378-8DiFDVA.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0378-8DiFDVA.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0378-8DiFDVA.gif",
   },
   {
     id: "0380",
@@ -14586,8 +14586,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0380-v1qBec9.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0380-v1qBec9.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0380-v1qBec9.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0380-v1qBec9.gif",
   },
   {
     id: "0379",
@@ -14608,8 +14608,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0379-UzkLrem.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0379-UzkLrem.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0379-UzkLrem.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0379-UzkLrem.gif",
   },
   {
     id: "0381",
@@ -14630,8 +14630,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat on the other side, stepping back with your left foot.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0381-SSsBDwB.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0381-SSsBDwB.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0381-SSsBDwB.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0381-SSsBDwB.gif",
   },
   {
     id: "0382",
@@ -14653,8 +14653,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0382-e4ojVhP.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0382-e4ojVhP.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0382-e4ojVhP.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0382-e4ojVhP.gif",
   },
   {
     id: "1624",
@@ -14676,8 +14676,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1624-UIbGx6H.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1624-UIbGx6H.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1624-UIbGx6H.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1624-UIbGx6H.gif",
   },
   {
     id: "0383",
@@ -14699,8 +14699,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0383-EAs3xL9.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0383-EAs3xL9.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0383-EAs3xL9.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0383-EAs3xL9.gif",
   },
   {
     id: "1330",
@@ -14727,8 +14727,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Switch sides and repeat the exercise with your left arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1330-ZIViNh1.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1330-ZIViNh1.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1330-ZIViNh1.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1330-ZIViNh1.gif",
   },
   {
     id: "1331",
@@ -14751,8 +14751,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1331-9pQSkH8.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1331-9pQSkH8.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1331-9pQSkH8.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1331-9pQSkH8.gif",
   },
   {
     id: "2327",
@@ -14775,8 +14775,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2327-Nh3mvOO.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2327-Nh3mvOO.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2327-Nh3mvOO.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2327-Nh3mvOO.gif",
   },
   {
     id: "0384",
@@ -14799,8 +14799,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0384-O8Aq69u.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0384-O8Aq69u.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0384-O8Aq69u.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0384-O8Aq69u.gif",
   },
   {
     id: "1675",
@@ -14822,8 +14822,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1675-6sMAmNv.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1675-6sMAmNv.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1675-6sMAmNv.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1675-6sMAmNv.gif",
   },
   {
     id: "0385",
@@ -14845,8 +14845,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0385-BLCvwr2.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0385-BLCvwr2.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0385-BLCvwr2.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0385-BLCvwr2.gif",
   },
   {
     id: "1459",
@@ -14866,8 +14866,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1459-rR0LJzx.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1459-rR0LJzx.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1459-rR0LJzx.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1459-rR0LJzx.gif",
   },
   {
     id: "0386",
@@ -14889,8 +14889,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0386-prbWx1D.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0386-prbWx1D.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0386-prbWx1D.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0386-prbWx1D.gif",
   },
   {
     id: "2397",
@@ -14911,8 +14911,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2397-5vfAI0I.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2397-5vfAI0I.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2397-5vfAI0I.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2397-5vfAI0I.gif",
   },
   {
     id: "0387",
@@ -14934,8 +14934,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Alternate between arms for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0387-gH5fRsC.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0387-gH5fRsC.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0387-gH5fRsC.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0387-gH5fRsC.gif",
   },
   {
     id: "1676",
@@ -14959,8 +14959,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating arms for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1676-QLRmNeT.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1676-QLRmNeT.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1676-QLRmNeT.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1676-QLRmNeT.gif",
   },
   {
     id: "0388",
@@ -14982,8 +14982,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating arms for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0388-QT5Q0nK.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0388-QT5Q0nK.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0388-QT5Q0nK.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0388-QT5Q0nK.gif",
   },
   {
     id: "3546",
@@ -15004,8 +15004,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating between arms for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3546-q7qkONO.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3546-q7qkONO.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3546-q7qkONO.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3546-q7qkONO.gif",
   },
   {
     id: "0389",
@@ -15026,8 +15026,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0389-JhYSVwT.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0389-JhYSVwT.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0389-JhYSVwT.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0389-JhYSVwT.gif",
   },
   {
     id: "2317",
@@ -15048,8 +15048,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2317-JzQbv7J.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2317-JzQbv7J.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2317-JzQbv7J.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2317-JzQbv7J.gif",
   },
   {
     id: "1730",
@@ -15071,8 +15071,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating arms for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1730-x0lwvfq.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1730-x0lwvfq.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1730-x0lwvfq.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1730-x0lwvfq.gif",
   },
   {
     id: "1737",
@@ -15093,8 +15093,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1737-4ievMJ9.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1737-4ievMJ9.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1737-4ievMJ9.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1737-4ievMJ9.gif",
   },
   {
     id: "1677",
@@ -15115,8 +15115,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1677-xiA6lRr.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1677-xiA6lRr.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1677-xiA6lRr.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1677-xiA6lRr.gif",
   },
   {
     id: "0390",
@@ -15139,8 +15139,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0390-WgJnBH5.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0390-WgJnBH5.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0390-WgJnBH5.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0390-WgJnBH5.gif",
   },
   {
     id: "3547",
@@ -15163,8 +15163,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3547-OeL23VY.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3547-OeL23VY.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3547-OeL23VY.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3547-OeL23VY.gif",
   },
   {
     id: "1379",
@@ -15186,8 +15186,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1379-r29jP7S.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1379-r29jP7S.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1379-r29jP7S.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1379-r29jP7S.gif",
   },
   {
     id: "0391",
@@ -15208,8 +15208,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0391-TiaZTxx.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0391-TiaZTxx.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0391-TiaZTxx.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0391-TiaZTxx.gif",
   },
   {
     id: "0392",
@@ -15230,8 +15230,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0392-Ys97II0.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0392-Ys97II0.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0392-Ys97II0.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0392-Ys97II0.gif",
   },
   {
     id: "1678",
@@ -15253,8 +15253,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1678-IGtBdNT.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1678-IGtBdNT.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1678-IGtBdNT.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1678-IGtBdNT.gif",
   },
   {
     id: "0393",
@@ -15275,8 +15275,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0393-KXyoEtA.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0393-KXyoEtA.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0393-KXyoEtA.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0393-KXyoEtA.gif",
   },
   {
     id: "0394",
@@ -15298,8 +15298,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0394-en550rk.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0394-en550rk.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0394-en550rk.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0394-en550rk.gif",
   },
   {
     id: "0396",
@@ -15320,8 +15320,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0396-hxyTtWj.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0396-hxyTtWj.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0396-hxyTtWj.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0396-hxyTtWj.gif",
   },
   {
     id: "0395",
@@ -15342,8 +15342,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0395-hrrS0Ed.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0395-hrrS0Ed.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0395-hrrS0Ed.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0395-hrrS0Ed.gif",
   },
   {
     id: "0397",
@@ -15364,8 +15364,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0397-uJmK7Z1.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0397-uJmK7Z1.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0397-uJmK7Z1.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0397-uJmK7Z1.gif",
   },
   {
     id: "1679",
@@ -15389,8 +15389,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Switch arms and repeat the exercise.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1679-84sESNy.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1679-84sESNy.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1679-84sESNy.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1679-84sESNy.gif",
   },
   {
     id: "0398",
@@ -15411,8 +15411,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0398-VQ3sNCn.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0398-VQ3sNCn.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0398-VQ3sNCn.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0398-VQ3sNCn.gif",
   },
   {
     id: "0399",
@@ -15433,8 +15433,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0399-7f2jsqP.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0399-7f2jsqP.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0399-7f2jsqP.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0399-7f2jsqP.gif",
   },
   {
     id: "0400",
@@ -15456,8 +15456,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch legs.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0400-Ia7tumC.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0400-Ia7tumC.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0400-Ia7tumC.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0400-Ia7tumC.gif",
   },
   {
     id: "1380",
@@ -15479,8 +15479,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other leg.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1380-FxhcxUW.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1380-FxhcxUW.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1380-FxhcxUW.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1380-FxhcxUW.gif",
   },
   {
     id: "1381",
@@ -15502,8 +15502,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch legs and repeat.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1381-VW88JNd.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1381-VW88JNd.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1381-VW88JNd.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1381-VW88JNd.gif",
   },
   {
     id: "0401",
@@ -15524,8 +15524,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0401-2dImyQ8.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0401-2dImyQ8.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0401-2dImyQ8.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0401-2dImyQ8.gif",
   },
   {
     id: "0402",
@@ -15546,8 +15546,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0402-7D5bgLT.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0402-7D5bgLT.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0402-7D5bgLT.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0402-7D5bgLT.gif",
   },
   {
     id: "0403",
@@ -15569,8 +15569,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0403-lyKCLmK.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0403-lyKCLmK.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0403-lyKCLmK.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0403-lyKCLmK.gif",
   },
   {
     id: "1738",
@@ -15591,8 +15591,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1738-5fKX7wi.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1738-5fKX7wi.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1738-5fKX7wi.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1738-5fKX7wi.gif",
   },
   {
     id: "0405",
@@ -15613,8 +15613,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0405-znQUdHY.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0405-znQUdHY.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0405-znQUdHY.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0405-znQUdHY.gif",
   },
   {
     id: "0404",
@@ -15635,8 +15635,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0404-f1jf47L.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0404-f1jf47L.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0404-f1jf47L.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0404-f1jf47L.gif",
   },
   {
     id: "2188",
@@ -15657,8 +15657,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2188-kont8Ut.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2188-kont8Ut.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2188-kont8Ut.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2188-kont8Ut.gif",
   },
   {
     id: "0406",
@@ -15679,8 +15679,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0406-NJzBsGJ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0406-NJzBsGJ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0406-NJzBsGJ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0406-NJzBsGJ.gif",
   },
   {
     id: "0407",
@@ -15700,8 +15700,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides and repeat.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0407-IpONWYv.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0407-IpONWYv.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0407-IpONWYv.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0407-IpONWYv.gif",
   },
   {
     id: "0408",
@@ -15722,8 +15722,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0408-fTlkJop.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0408-fTlkJop.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0408-fTlkJop.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0408-fTlkJop.gif",
   },
   {
     id: "3664",
@@ -15746,8 +15746,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3664-X6ytgYZ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3664-X6ytgYZ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3664-X6ytgYZ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3664-X6ytgYZ.gif",
   },
   {
     id: "3548",
@@ -15768,8 +15768,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Switch hands and repeat the exercise.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3548-mWBtgmb.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3548-mWBtgmb.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3548-mWBtgmb.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3548-mWBtgmb.gif",
   },
   {
     id: "0409",
@@ -15790,8 +15790,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other leg.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0409-1kB3Wmk.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0409-1kB3Wmk.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0409-1kB3Wmk.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0409-1kB3Wmk.gif",
   },
   {
     id: "1757",
@@ -15814,8 +15814,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1757-gKozT8X.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1757-gKozT8X.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1757-gKozT8X.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1757-gKozT8X.gif",
   },
   {
     id: "2805",
@@ -15837,8 +15837,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2805-daBmy1Y.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2805-daBmy1Y.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2805-daBmy1Y.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2805-daBmy1Y.gif",
   },
   {
     id: "0410",
@@ -15859,8 +15859,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch legs and repeat.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0410-qx4fgX7.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0410-qx4fgX7.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0410-qx4fgX7.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0410-qx4fgX7.gif",
   },
   {
     id: "0411",
@@ -15882,8 +15882,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch legs.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0411-H6ybluc.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0411-H6ybluc.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0411-H6ybluc.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0411-H6ybluc.gif",
   },
   {
     id: "0413",
@@ -15904,8 +15904,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0413-HsvHqgf.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0413-HsvHqgf.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0413-HsvHqgf.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0413-HsvHqgf.gif",
   },
   {
     id: "3560",
@@ -15932,8 +15932,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating between curls and presses for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3560-LeaZOIz.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3560-LeaZOIz.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3560-LeaZOIz.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3560-LeaZOIz.gif",
   },
   {
     id: "0414",
@@ -15954,8 +15954,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating arms for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0414-bBi35y3.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0414-bBi35y3.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0414-bBi35y3.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0414-bBi35y3.gif",
   },
   {
     id: "0415",
@@ -15978,8 +15978,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Alternate between arms for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0415-SxHteRW.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0415-SxHteRW.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0415-SxHteRW.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0415-SxHteRW.gif",
   },
   {
     id: "1739",
@@ -16000,8 +16000,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat with the other arm, alternating sides with each repetition.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1739-Gi2BXfK.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1739-Gi2BXfK.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1739-Gi2BXfK.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1739-Gi2BXfK.gif",
   },
   {
     id: "2143",
@@ -16022,8 +16022,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2143-RSOsp5d.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2143-RSOsp5d.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2143-RSOsp5d.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2143-RSOsp5d.gif",
   },
   {
     id: "1740",
@@ -16044,8 +16044,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1740-CJwa0vD.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1740-CJwa0vD.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1740-CJwa0vD.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1740-CJwa0vD.gif",
   },
   {
     id: "1741",
@@ -16066,8 +16066,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1741-3T12T87.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1741-3T12T87.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1741-3T12T87.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1741-3T12T87.gif",
   },
   {
     id: "0416",
@@ -16089,8 +16089,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0416-3s4NnTh.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0416-3s4NnTh.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0416-3s4NnTh.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0416-3s4NnTh.gif",
   },
   {
     id: "0417",
@@ -16110,8 +16110,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0417-dPmaUaU.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0417-dPmaUaU.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0417-dPmaUaU.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0417-dPmaUaU.gif",
   },
   {
     id: "0418",
@@ -16134,8 +16134,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0418-7inpWch.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0418-7inpWch.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0418-7inpWch.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0418-7inpWch.gif",
   },
   {
     id: "0419",
@@ -16155,8 +16155,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0419-laVRfDf.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0419-laVRfDf.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0419-laVRfDf.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0419-laVRfDf.gif",
   },
   {
     id: "2321",
@@ -16179,8 +16179,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the recommended amount of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2321-vKilzz3.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2321-vKilzz3.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2321-vKilzz3.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2321-vKilzz3.gif",
   },
   {
     id: "0420",
@@ -16201,8 +16201,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0420-UmpPAAe.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0420-UmpPAAe.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0420-UmpPAAe.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0420-UmpPAAe.gif",
   },
   {
     id: "0421",
@@ -16225,8 +16225,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0421-8fgqP5a.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0421-8fgqP5a.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0421-8fgqP5a.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0421-8fgqP5a.gif",
   },
   {
     id: "0422",
@@ -16247,8 +16247,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0422-BIb1tGo.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0422-BIb1tGo.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0422-BIb1tGo.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0422-BIb1tGo.gif",
   },
   {
     id: "1680",
@@ -16269,8 +16269,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1680-EmlJR2y.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1680-EmlJR2y.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1680-EmlJR2y.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1680-EmlJR2y.gif",
   },
   {
     id: "0423",
@@ -16292,8 +16292,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0423-BCUR88E.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0423-BCUR88E.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0423-BCUR88E.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0423-BCUR88E.gif",
   },
   {
     id: "0424",
@@ -16314,8 +16314,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0424-ocYc6Db.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0424-ocYc6Db.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0424-ocYc6Db.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0424-ocYc6Db.gif",
   },
   {
     id: "0425",
@@ -16336,8 +16336,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0425-DU5Kkj2.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0425-DU5Kkj2.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0425-DU5Kkj2.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0425-DU5Kkj2.gif",
   },
   {
     id: "0426",
@@ -16357,8 +16357,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0426-A6wtbuL.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0426-A6wtbuL.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0426-A6wtbuL.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0426-A6wtbuL.gif",
   },
   {
     id: "0427",
@@ -16378,8 +16378,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0427-UilDHSs.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0427-UilDHSs.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0427-UilDHSs.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0427-UilDHSs.gif",
   },
   {
     id: "0428",
@@ -16402,8 +16402,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0428-hq2hyDH.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0428-hq2hyDH.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0428-hq2hyDH.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0428-hq2hyDH.gif",
   },
   {
     id: "0429",
@@ -16424,8 +16424,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0429-0IgNjSM.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0429-0IgNjSM.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0429-0IgNjSM.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0429-0IgNjSM.gif",
   },
   {
     id: "0430",
@@ -16446,8 +16446,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0430-PdmaD0N.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0430-PdmaD0N.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0430-PdmaD0N.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0430-PdmaD0N.gif",
   },
   {
     id: "2293",
@@ -16469,8 +16469,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2293-P2nRiUa.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2293-P2nRiUa.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2293-P2nRiUa.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2293-P2nRiUa.gif",
   },
   {
     id: "1684",
@@ -16493,8 +16493,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1684-76vfTdU.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1684-76vfTdU.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1684-76vfTdU.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1684-76vfTdU.gif",
   },
   {
     id: "0431",
@@ -16516,8 +16516,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch legs.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0431-aXtJhlg.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0431-aXtJhlg.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0431-aXtJhlg.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0431-aXtJhlg.gif",
   },
   {
     id: "2796",
@@ -16539,8 +16539,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2796-gFyFj9z.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2796-gFyFj9z.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2796-gFyFj9z.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2796-gFyFj9z.gif",
   },
   {
     id: "2812",
@@ -16563,8 +16563,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating between your right and left foot for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2812-QjE2DcA.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2812-QjE2DcA.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2812-QjE2DcA.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2812-QjE2DcA.gif",
   },
   {
     id: "0432",
@@ -16584,8 +16584,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0432-5eLRITT.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0432-5eLRITT.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0432-5eLRITT.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0432-5eLRITT.gif",
   },
   {
     id: "0433",
@@ -16606,8 +16606,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0433-i8BdLTK.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0433-i8BdLTK.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0433-i8BdLTK.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0433-i8BdLTK.gif",
   },
   {
     id: "0434",
@@ -16628,8 +16628,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0434-oom75KC.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0434-oom75KC.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0434-oom75KC.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0434-oom75KC.gif",
   },
   {
     id: "2808",
@@ -16652,8 +16652,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2808-BmrwWzo.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2808-BmrwWzo.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2808-BmrwWzo.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2808-BmrwWzo.gif",
   },
   {
     id: "2803",
@@ -16674,8 +16674,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2803-r5DgrW9.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2803-r5DgrW9.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2803-r5DgrW9.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2803-r5DgrW9.gif",
   },
   {
     id: "0436",
@@ -16695,8 +16695,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Rotate your wrists back to the starting position and repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0436-s5PdDyY.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0436-s5PdDyY.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0436-s5PdDyY.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0436-s5PdDyY.gif",
   },
   {
     id: "1742",
@@ -16718,8 +16718,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1742-wOLmCXc.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1742-wOLmCXc.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1742-wOLmCXc.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1742-wOLmCXc.gif",
   },
   {
     id: "1743",
@@ -16743,8 +16743,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1743-z6TAHoT.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1743-z6TAHoT.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1743-z6TAHoT.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1743-z6TAHoT.gif",
   },
   {
     id: "0437",
@@ -16765,8 +16765,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0437-ainizkb.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0437-ainizkb.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0437-ainizkb.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0437-ainizkb.gif",
   },
   {
     id: "1765",
@@ -16788,8 +16788,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1765-Iptlv6x.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1765-Iptlv6x.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1765-Iptlv6x.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1765-Iptlv6x.gif",
   },
   {
     id: "0864",
@@ -16810,8 +16810,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0864-x306lCW.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0864-x306lCW.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0864-x306lCW.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0864-x306lCW.gif",
   },
   {
     id: "5201",
@@ -16832,8 +16832,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/5201-KOpzGBL.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/5201-KOpzGBL.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/5201-KOpzGBL.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/5201-KOpzGBL.gif",
   },
   {
     id: "0438",
@@ -16854,8 +16854,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0438-vmwLyCg.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0438-vmwLyCg.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0438-vmwLyCg.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0438-vmwLyCg.gif",
   },
   {
     id: "0439",
@@ -16877,8 +16877,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0439-kXaIn5A.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0439-kXaIn5A.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0439-kXaIn5A.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0439-kXaIn5A.gif",
   },
   {
     id: "2294",
@@ -16899,8 +16899,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2294-y5U5B9Y.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2294-y5U5B9Y.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2294-y5U5B9Y.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2294-y5U5B9Y.gif",
   },
   {
     id: "2189",
@@ -16921,8 +16921,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2189-FQXdXzY.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2189-FQXdXzY.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2189-FQXdXzY.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2189-FQXdXzY.gif",
   },
   {
     id: "1167",
@@ -16944,8 +16944,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Return to the starting position and repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1167-3uj0Ozg.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1167-3uj0Ozg.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1167-3uj0Ozg.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1167-3uj0Ozg.gif",
   },
   {
     id: "3287",
@@ -16966,8 +16966,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3287-LkoAWAE.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3287-LkoAWAE.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3287-LkoAWAE.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3287-LkoAWAE.gif",
   },
   {
     id: "1772",
@@ -16988,8 +16988,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1772-wbUYILZ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1772-wbUYILZ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1772-wbUYILZ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1772-wbUYILZ.gif",
   },
   {
     id: "0443",
@@ -17012,8 +17012,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0443-jvp6DiD.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0443-jvp6DiD.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0443-jvp6DiD.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0443-jvp6DiD.gif",
   },
   {
     id: "3292",
@@ -17034,8 +17034,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3292-zYmNaoY.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3292-zYmNaoY.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3292-zYmNaoY.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3292-zYmNaoY.gif",
   },
   {
     id: "1332",
@@ -17057,8 +17057,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating arms for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1332-EyLrNC2.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1332-EyLrNC2.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1332-EyLrNC2.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1332-EyLrNC2.gif",
   },
   {
     id: "1333",
@@ -17079,8 +17079,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1333-PERjVm8.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1333-PERjVm8.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1333-PERjVm8.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1333-PERjVm8.gif",
   },
   {
     id: "1334",
@@ -17102,8 +17102,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1334-o1HGDSq.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1334-o1HGDSq.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1334-o1HGDSq.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1334-o1HGDSq.gif",
   },
   {
     id: "1335",
@@ -17124,8 +17124,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1335-WME869U.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1335-WME869U.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1335-WME869U.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1335-WME869U.gif",
   },
   {
     id: "1336",
@@ -17147,8 +17147,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Lower your upper body back down to the starting position and repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1336-WVD66ff.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1336-WVD66ff.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1336-WVD66ff.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1336-WVD66ff.gif",
   },
   {
     id: "1744",
@@ -17169,8 +17169,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1744-kprile3.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1744-kprile3.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1744-kprile3.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1744-kprile3.gif",
   },
   {
     id: "1559",
@@ -17191,8 +17191,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Hold the stretch for 20-30 seconds, then switch sides and repeat.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1559-2LQkNPW.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1559-2LQkNPW.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1559-2LQkNPW.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1559-2LQkNPW.gif",
   },
   {
     id: "1338",
@@ -17214,8 +17214,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1338-d7z1Y7V.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1338-d7z1Y7V.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1338-d7z1Y7V.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1338-d7z1Y7V.gif",
   },
   {
     id: "1339",
@@ -17236,8 +17236,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat on the other side.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1339-sM84pE4.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1339-sM84pE4.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1339-sM84pE4.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1339-sM84pE4.gif",
   },
   {
     id: "1341",
@@ -17259,8 +17259,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1341-yU7w7CA.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1341-yU7w7CA.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1341-yU7w7CA.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1341-yU7w7CA.gif",
   },
   {
     id: "1342",
@@ -17281,8 +17281,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Hold the stretch for 20-30 seconds, then switch sides and repeat.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1342-rTbyBYV.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1342-rTbyBYV.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1342-rTbyBYV.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1342-rTbyBYV.gif",
   },
   {
     id: "1382",
@@ -17304,8 +17304,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1382-xo6sENf.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1382-xo6sENf.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1382-xo6sENf.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1382-xo6sENf.gif",
   },
   {
     id: "3241",
@@ -17328,8 +17328,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3241-FY3UdNT.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3241-FY3UdNT.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3241-FY3UdNT.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3241-FY3UdNT.gif",
   },
   {
     id: "3240",
@@ -17352,8 +17352,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3240-j74M6Zn.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3240-j74M6Zn.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3240-j74M6Zn.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3240-j74M6Zn.gif",
   },
   {
     id: "1416",
@@ -17377,8 +17377,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating legs for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1416-M72BExt.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1416-M72BExt.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1416-M72BExt.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1416-M72BExt.gif",
   },
   {
     id: "1417",
@@ -17401,8 +17401,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat the movement with your left leg, alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1417-GOJKFfO.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1417-GOJKFfO.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1417-GOJKFfO.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1417-GOJKFfO.gif",
   },
   {
     id: "1296",
@@ -17424,8 +17424,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1296-sVvXT5J.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1296-sVvXT5J.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1296-sVvXT5J.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1296-sVvXT5J.gif",
   },
   {
     id: "1343",
@@ -17446,8 +17446,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1343-lCKm4Rs.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1343-lCKm4Rs.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1343-lCKm4Rs.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1343-lCKm4Rs.gif",
   },
   {
     id: "1560",
@@ -17470,8 +17470,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1560-yRYyfdA.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1560-yRYyfdA.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1560-yRYyfdA.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1560-yRYyfdA.gif",
   },
   {
     id: "1745",
@@ -17492,8 +17492,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat with the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1745-7ePTw4B.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1745-7ePTw4B.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1745-7ePTw4B.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1745-7ePTw4B.gif",
   },
   {
     id: "1746",
@@ -17514,8 +17514,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1746-Gm2Uv1z.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1746-Gm2Uv1z.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1746-Gm2Uv1z.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1746-Gm2Uv1z.gif",
   },
   {
     id: "1747",
@@ -17536,8 +17536,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1747-CFN9P8G.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1747-CFN9P8G.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1747-CFN9P8G.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1747-CFN9P8G.gif",
   },
   {
     id: "3010",
@@ -17559,8 +17559,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3010-nDK1HJ0.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3010-nDK1HJ0.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3010-nDK1HJ0.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3010-nDK1HJ0.gif",
   },
   {
     id: "1748",
@@ -17581,8 +17581,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1748-6CKUx7o.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1748-6CKUx7o.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1748-6CKUx7o.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1748-6CKUx7o.gif",
   },
   {
     id: "1344",
@@ -17604,8 +17604,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1344-G8dXpNG.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1344-G8dXpNG.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1344-G8dXpNG.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1344-G8dXpNG.gif",
   },
   {
     id: "1682",
@@ -17626,8 +17626,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1682-Dsfz0Id.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1682-Dsfz0Id.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1682-Dsfz0Id.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1682-Dsfz0Id.gif",
   },
   {
     id: "1749",
@@ -17648,8 +17648,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1749-1cTf2Ux.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1749-1cTf2Ux.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1749-1cTf2Ux.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1749-1cTf2Ux.gif",
   },
   {
     id: "0445",
@@ -17669,8 +17669,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Lower the barbell back to shoulder height and repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0445-fprd84i.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0445-fprd84i.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0445-fprd84i.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0445-fprd84i.gif",
   },
   {
     id: "1627",
@@ -17692,8 +17692,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1627-hacCyUv.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1627-hacCyUv.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1627-hacCyUv.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1627-hacCyUv.gif",
   },
   {
     id: "0446",
@@ -17714,8 +17714,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0446-V4ryaZa.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0446-V4ryaZa.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0446-V4ryaZa.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0446-V4ryaZa.gif",
   },
   {
     id: "0447",
@@ -17736,8 +17736,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0447-6TG6x2w.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0447-6TG6x2w.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0447-6TG6x2w.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0447-6TG6x2w.gif",
   },
   {
     id: "0448",
@@ -17759,8 +17759,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0448-DgZQ11d.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0448-DgZQ11d.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0448-DgZQ11d.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0448-DgZQ11d.gif",
   },
   {
     id: "2186",
@@ -17782,8 +17782,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2186-CQHoDm0.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2186-CQHoDm0.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2186-CQHoDm0.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2186-CQHoDm0.gif",
   },
   {
     id: "0449",
@@ -17805,8 +17805,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0449-KyLtiLT.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0449-KyLtiLT.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0449-KyLtiLT.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0449-KyLtiLT.gif",
   },
   {
     id: "0450",
@@ -17827,8 +17827,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0450-hnOYgH3.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0450-hnOYgH3.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0450-hnOYgH3.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0450-hnOYgH3.gif",
   },
   {
     id: "0451",
@@ -17851,8 +17851,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0451-Y5X65IB.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0451-Y5X65IB.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0451-Y5X65IB.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0451-Y5X65IB.gif",
   },
   {
     id: "0452",
@@ -17874,8 +17874,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0452-vBNyir7.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0452-vBNyir7.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0452-vBNyir7.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0452-vBNyir7.gif",
   },
   {
     id: "1458",
@@ -17898,8 +17898,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1458-jtFKbt5.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1458-jtFKbt5.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1458-jtFKbt5.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1458-jtFKbt5.gif",
   },
   {
     id: "0453",
@@ -17921,8 +17921,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0453-iaapw0g.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0453-iaapw0g.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0453-iaapw0g.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0453-iaapw0g.gif",
   },
   {
     id: "0454",
@@ -17944,8 +17944,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0454-Ye5Qxb0.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0454-Ye5Qxb0.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0454-Ye5Qxb0.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0454-Ye5Qxb0.gif",
   },
   {
     id: "1628",
@@ -17967,8 +17967,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1628-2kattbR.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1628-2kattbR.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1628-2kattbR.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1628-2kattbR.gif",
   },
   {
     id: "2404",
@@ -17990,8 +17990,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2404-tJ5nYqo.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2404-tJ5nYqo.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2404-tJ5nYqo.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2404-tJ5nYqo.gif",
   },
   {
     id: "2432",
@@ -18014,8 +18014,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2432-da4cXST.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2432-da4cXST.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2432-da4cXST.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2432-da4cXST.gif",
   },
   {
     id: "2741",
@@ -18036,8 +18036,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2741-OVTZ65k.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2741-OVTZ65k.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2741-OVTZ65k.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2741-OVTZ65k.gif",
   },
   {
     id: "2133",
@@ -18058,8 +18058,8 @@ export const datasetExercises: DatasetExercise[] = [
       "To finish, stop walking and carefully lower the dumbbells to your sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2133-qPEzJjA.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2133-qPEzJjA.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2133-qPEzJjA.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2133-qPEzJjA.gif",
   },
   {
     id: "0455",
@@ -18080,8 +18080,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0455-awG04cF.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0455-awG04cF.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0455-awG04cF.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0455-awG04cF.gif",
   },
   {
     id: "3303",
@@ -18103,8 +18103,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3303-pQ0Mx1Z.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3303-pQ0Mx1Z.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3303-pQ0Mx1Z.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3303-pQ0Mx1Z.gif",
   },
   {
     id: "0456",
@@ -18126,8 +18126,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0456-AR0ig3o.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0456-AR0ig3o.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0456-AR0ig3o.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0456-AR0ig3o.gif",
   },
   {
     id: "0457",
@@ -18148,8 +18148,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0457-KZn52RC.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0457-KZn52RC.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0457-KZn52RC.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0457-KZn52RC.gif",
   },
   {
     id: "0458",
@@ -18171,8 +18171,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0458-neonEDL.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0458-neonEDL.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0458-neonEDL.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0458-neonEDL.gif",
   },
   {
     id: "0459",
@@ -18192,8 +18192,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue this fluttering motion for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0459-UVo2Qs2.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0459-UVo2Qs2.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0459-UVo2Qs2.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0459-UVo2Qs2.gif",
   },
   {
     id: "1472",
@@ -18215,8 +18215,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1472-uZKq7lo.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1472-uZKq7lo.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1472-uZKq7lo.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1472-uZKq7lo.gif",
   },
   {
     id: "3470",
@@ -18237,8 +18237,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat with your left leg, alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3470-kMzUs9Y.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3470-kMzUs9Y.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3470-kMzUs9Y.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3470-kMzUs9Y.gif",
   },
   {
     id: "3194",
@@ -18259,8 +18259,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3194-bdWcbaU.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3194-bdWcbaU.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3194-bdWcbaU.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3194-bdWcbaU.gif",
   },
   {
     id: "2429",
@@ -18281,8 +18281,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2429-FFRP97T.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2429-FFRP97T.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2429-FFRP97T.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2429-FFRP97T.gif",
   },
   {
     id: "3301",
@@ -18303,8 +18303,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3301-rQhGcin.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3301-rQhGcin.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3301-rQhGcin.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3301-rQhGcin.gif",
   },
   {
     id: "3296",
@@ -18327,8 +18327,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3296-PkCN2lv.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3296-PkCN2lv.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3296-PkCN2lv.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3296-PkCN2lv.gif",
   },
   {
     id: "3295",
@@ -18350,8 +18350,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3295-hbY9wqG.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3295-hbY9wqG.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3295-hbY9wqG.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3295-hbY9wqG.gif",
   },
   {
     id: "0464",
@@ -18374,8 +18374,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0464-CosupLu.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0464-CosupLu.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0464-CosupLu.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0464-CosupLu.gif",
   },
   {
     id: "3315",
@@ -18396,8 +18396,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3315-YRaCa5Y.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3315-YRaCa5Y.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3315-YRaCa5Y.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3315-YRaCa5Y.gif",
   },
   {
     id: "3299",
@@ -18419,8 +18419,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3299-YZ4961r.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3299-YZ4961r.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3299-YZ4961r.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3299-YZ4961r.gif",
   },
   {
     id: "3327",
@@ -18443,8 +18443,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3327-gw9PqGk.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3327-gw9PqGk.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3327-gw9PqGk.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3327-gw9PqGk.gif",
   },
   {
     id: "0466",
@@ -18466,8 +18466,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0466-IL0JUxR.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0466-IL0JUxR.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0466-IL0JUxR.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0466-IL0JUxR.gif",
   },
   {
     id: "3561",
@@ -18489,8 +18489,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3561-GibBPPg.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3561-GibBPPg.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3561-GibBPPg.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3561-GibBPPg.gif",
   },
   {
     id: "3523",
@@ -18511,8 +18511,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3523-aWedzZX.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3523-aWedzZX.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3523-aWedzZX.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3523-aWedzZX.gif",
   },
   {
     id: "3193",
@@ -18535,8 +18535,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3193-Vvwjz6N.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3193-Vvwjz6N.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3193-Vvwjz6N.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3193-Vvwjz6N.gif",
   },
   {
     id: "0467",
@@ -18558,8 +18558,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0467-bmwlYvD.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0467-bmwlYvD.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0467-bmwlYvD.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0467-bmwlYvD.gif",
   },
   {
     id: "0469",
@@ -18580,8 +18580,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0469-mWppALS.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0469-mWppALS.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0469-mWppALS.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0469-mWppALS.gif",
   },
   {
     id: "1383",
@@ -18603,8 +18603,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1383-2ORFMoR.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1383-2ORFMoR.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1383-2ORFMoR.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1383-2ORFMoR.gif",
   },
   {
     id: "1384",
@@ -18627,8 +18627,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Switch legs and repeat the exercise.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1384-AxFoqAD.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1384-AxFoqAD.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1384-AxFoqAD.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1384-AxFoqAD.gif",
   },
   {
     id: "3202",
@@ -18649,8 +18649,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3202-iQ241UP.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3202-iQ241UP.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3202-iQ241UP.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3202-iQ241UP.gif",
   },
   {
     id: "1511",
@@ -18671,8 +18671,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat on the other side.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1511-99rWm7w.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1511-99rWm7w.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1511-99rWm7w.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1511-99rWm7w.gif",
   },
   {
     id: "2139",
@@ -18693,8 +18693,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue pedaling for the desired duration or number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2139-pAIWRGu.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2139-pAIWRGu.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2139-pAIWRGu.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2139-pAIWRGu.gif",
   },
   {
     id: "3218",
@@ -18715,8 +18715,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3218-B5xca8s.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3218-B5xca8s.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3218-B5xca8s.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3218-B5xca8s.gif",
   },
   {
     id: "3215",
@@ -18739,8 +18739,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3215-yq3GAJX.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3215-yq3GAJX.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3215-yq3GAJX.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3215-yq3GAJX.gif",
   },
   {
     id: "3302",
@@ -18763,8 +18763,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3302-XooAdhl.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3302-XooAdhl.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3302-XooAdhl.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3302-XooAdhl.gif",
   },
   {
     id: "0471",
@@ -18785,8 +18785,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0471-rQxwMxO.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0471-rQxwMxO.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0471-rQxwMxO.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0471-rQxwMxO.gif",
   },
   {
     id: "1764",
@@ -18806,8 +18806,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1764-VEcJRo2.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1764-VEcJRo2.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1764-VEcJRo2.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1764-VEcJRo2.gif",
   },
   {
     id: "0472",
@@ -18828,8 +18828,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0472-I3tsCnC.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0472-I3tsCnC.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0472-I3tsCnC.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0472-I3tsCnC.gif",
   },
   {
     id: "1761",
@@ -18850,8 +18850,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1761-BaE7O6U.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1761-BaE7O6U.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1761-BaE7O6U.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1761-BaE7O6U.gif",
   },
   {
     id: "0473",
@@ -18872,8 +18872,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0473-nuBF9MO.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0473-nuBF9MO.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0473-nuBF9MO.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0473-nuBF9MO.gif",
   },
   {
     id: "0474",
@@ -18893,8 +18893,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0474-pj0X0tF.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0474-pj0X0tF.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0474-pj0X0tF.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0474-pj0X0tF.gif",
   },
   {
     id: "0475",
@@ -18915,8 +18915,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0475-4Ml7QFO.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0475-4Ml7QFO.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0475-4Ml7QFO.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0475-4Ml7QFO.gif",
   },
   {
     id: "0476",
@@ -18938,8 +18938,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0476-Q6bvyen.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0476-Q6bvyen.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0476-Q6bvyen.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0476-Q6bvyen.gif",
   },
   {
     id: "0484",
@@ -18960,8 +18960,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0484-196HJGw.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0484-196HJGw.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0484-196HJGw.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0484-196HJGw.gif",
   },
   {
     id: "1418",
@@ -18982,8 +18982,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1418-znP9SIh.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1418-znP9SIh.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1418-znP9SIh.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1418-znP9SIh.gif",
   },
   {
     id: "3234",
@@ -19004,8 +19004,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3234-P9ZRyLT.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3234-P9ZRyLT.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3234-P9ZRyLT.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3234-P9ZRyLT.gif",
   },
   {
     id: "0489",
@@ -19026,8 +19026,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0489-zhMwOwE.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0489-zhMwOwE.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0489-zhMwOwE.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0489-zhMwOwE.gif",
   },
   {
     id: "0488",
@@ -19048,8 +19048,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0488-zkgRrbK.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0488-zkgRrbK.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0488-zkgRrbK.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0488-zkgRrbK.gif",
   },
   {
     id: "3289",
@@ -19070,8 +19070,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3289-05Cf2v8.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3289-05Cf2v8.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3289-05Cf2v8.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3289-05Cf2v8.gif",
   },
   {
     id: "1471",
@@ -19093,8 +19093,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1471-ZgsNQ6d.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1471-ZgsNQ6d.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1471-ZgsNQ6d.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1471-ZgsNQ6d.gif",
   },
   {
     id: "3698",
@@ -19115,8 +19115,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue walking your hands forward, repeating the movement for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3698-TV87DNB.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3698-TV87DNB.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3698-TV87DNB.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3698-TV87DNB.gif",
   },
   {
     id: "0490",
@@ -19137,8 +19137,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0490-1YB40kg.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0490-1YB40kg.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0490-1YB40kg.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0490-1YB40kg.gif",
   },
   {
     id: "0491",
@@ -19159,8 +19159,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0491-eVxAzgz.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0491-eVxAzgz.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0491-eVxAzgz.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0491-eVxAzgz.gif",
   },
   {
     id: "0492",
@@ -19182,8 +19182,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat the push-up and depth jump for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0492-CB8WET1.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0492-CB8WET1.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0492-CB8WET1.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0492-CB8WET1.gif",
   },
   {
     id: "0493",
@@ -19204,8 +19204,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0493-B1EVP9F.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0493-B1EVP9F.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0493-B1EVP9F.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0493-B1EVP9F.gif",
   },
   {
     id: "3785",
@@ -19226,8 +19226,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3785-F7vjXqT.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3785-F7vjXqT.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3785-F7vjXqT.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3785-F7vjXqT.gif",
   },
   {
     id: "0494",
@@ -19248,8 +19248,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0494-XaaRnRn.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0494-XaaRnRn.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0494-XaaRnRn.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0494-XaaRnRn.gif",
   },
   {
     id: "3011",
@@ -19272,8 +19272,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3011-GdMa1ET.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3011-GdMa1ET.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3011-GdMa1ET.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3011-GdMa1ET.gif",
   },
   {
     id: "0495",
@@ -19297,8 +19297,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0495-9ZGZuOD.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0495-9ZGZuOD.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0495-9ZGZuOD.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0495-9ZGZuOD.gif",
   },
   {
     id: "1564",
@@ -19320,8 +19320,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Release the stretch and repeat on the left side.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1564-tFGKm99.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1564-tFGKm99.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1564-tFGKm99.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1564-tFGKm99.gif",
   },
   {
     id: "0496",
@@ -19342,8 +19342,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0496-ms7tjSG.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0496-ms7tjSG.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0496-ms7tjSG.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0496-ms7tjSG.gif",
   },
   {
     id: "2400",
@@ -19365,8 +19365,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2400-0rHfvy9.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2400-0rHfvy9.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2400-0rHfvy9.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2400-0rHfvy9.gif",
   },
   {
     id: "0499",
@@ -19389,8 +19389,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0499-bZGHsAZ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0499-bZGHsAZ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0499-bZGHsAZ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0499-bZGHsAZ.gif",
   },
   {
     id: "2300",
@@ -19412,8 +19412,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2300-VPPtusI.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2300-VPPtusI.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2300-VPPtusI.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2300-VPPtusI.gif",
   },
   {
     id: "2298",
@@ -19436,8 +19436,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2298-Mxa7Cr8.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2298-Mxa7Cr8.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2298-Mxa7Cr8.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2298-Mxa7Cr8.gif",
   },
   {
     id: "0497",
@@ -19459,8 +19459,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0497-uX3sUBz.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0497-uX3sUBz.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0497-uX3sUBz.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0497-uX3sUBz.gif",
   },
   {
     id: "0498",
@@ -19483,8 +19483,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0498-jdiExfW.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0498-jdiExfW.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0498-jdiExfW.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0498-jdiExfW.gif",
   },
   {
     id: "1419",
@@ -19506,8 +19506,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1419-pZwUsKB.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1419-pZwUsKB.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1419-pZwUsKB.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1419-pZwUsKB.gif",
   },
   {
     id: "1297",
@@ -19529,8 +19529,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1297-HbSG1Pw.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1297-HbSG1Pw.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1297-HbSG1Pw.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1297-HbSG1Pw.gif",
   },
   {
     id: "0500",
@@ -19553,8 +19553,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0500-11wrviz.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0500-11wrviz.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0500-11wrviz.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0500-11wrviz.gif",
   },
   {
     id: "0507",
@@ -19574,8 +19574,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0507-mbkgB44.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0507-mbkgB44.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0507-mbkgB44.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0507-mbkgB44.gif",
   },
   {
     id: "0508",
@@ -19596,8 +19596,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0508-1GPHRyK.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0508-1GPHRyK.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0508-1GPHRyK.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0508-1GPHRyK.gif",
   },
   {
     id: "0514",
@@ -19619,8 +19619,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0514-LIlE5Tn.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0514-LIlE5Tn.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0514-LIlE5Tn.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0514-LIlE5Tn.gif",
   },
   {
     id: "0513",
@@ -19641,8 +19641,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0513-TDYiji6.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0513-TDYiji6.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0513-TDYiji6.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0513-TDYiji6.gif",
   },
   {
     id: "0517",
@@ -19667,8 +19667,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0517-Kal9cQQ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0517-Kal9cQQ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0517-Kal9cQQ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0517-Kal9cQQ.gif",
   },
   {
     id: "0518",
@@ -19691,8 +19691,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating arms for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0518-I4tibZG.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0518-I4tibZG.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0518-I4tibZG.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0518-I4tibZG.gif",
   },
   {
     id: "0520",
@@ -19713,8 +19713,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating arms for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0520-5KLbZWx.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0520-5KLbZWx.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0520-5KLbZWx.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0520-5KLbZWx.gif",
   },
   {
     id: "0519",
@@ -19735,8 +19735,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating the press motion with each kettlebell for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0519-7w6i0vE.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0519-7w6i0vE.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0519-7w6i0vE.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0519-7w6i0vE.gif",
   },
   {
     id: "0521",
@@ -19757,8 +19757,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating arms for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0521-b9kqlBy.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0521-b9kqlBy.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0521-b9kqlBy.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0521-b9kqlBy.gif",
   },
   {
     id: "0522",
@@ -19779,8 +19779,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating arms for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0522-Ca76jUE.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0522-Ca76jUE.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0522-Ca76jUE.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0522-Ca76jUE.gif",
   },
   {
     id: "0523",
@@ -19800,8 +19800,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0523-UM8mgyG.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0523-UM8mgyG.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0523-UM8mgyG.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0523-UM8mgyG.gif",
   },
   {
     id: "0524",
@@ -19825,8 +19825,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0524-kjE55n5.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0524-kjE55n5.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0524-kjE55n5.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0524-kjE55n5.gif",
   },
   {
     id: "0525",
@@ -19850,8 +19850,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0525-4KJEpzb.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0525-4KJEpzb.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0525-4KJEpzb.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0525-4KJEpzb.gif",
   },
   {
     id: "0526",
@@ -19874,8 +19874,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Lower the kettlebells back down to the starting position and repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0526-a4F9Oyc.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0526-a4F9Oyc.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0526-a4F9Oyc.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0526-a4F9Oyc.gif",
   },
   {
     id: "0527",
@@ -19899,8 +19899,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0527-tznL2Ad.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0527-tznL2Ad.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0527-tznL2Ad.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0527-tznL2Ad.gif",
   },
   {
     id: "0528",
@@ -19922,8 +19922,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0528-I4KkPdl.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0528-I4KkPdl.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0528-I4KkPdl.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0528-I4KkPdl.gif",
   },
   {
     id: "0529",
@@ -19944,8 +19944,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Lower the kettlebells back down to the starting position and repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0529-M74kdvm.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0529-M74kdvm.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0529-M74kdvm.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0529-M74kdvm.gif",
   },
   {
     id: "0530",
@@ -19968,8 +19968,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0530-OaE7CpD.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0530-OaE7CpD.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0530-OaE7CpD.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0530-OaE7CpD.gif",
   },
   {
     id: "0531",
@@ -19990,8 +19990,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0531-rseLfH3.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0531-rseLfH3.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0531-rseLfH3.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0531-rseLfH3.gif",
   },
   {
     id: "0532",
@@ -20014,8 +20014,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0532-L4ay0PW.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0532-L4ay0PW.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0532-L4ay0PW.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0532-L4ay0PW.gif",
   },
   {
     id: "0533",
@@ -20037,8 +20037,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0533-DB0n8AG.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0533-DB0n8AG.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0533-DB0n8AG.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0533-DB0n8AG.gif",
   },
   {
     id: "0534",
@@ -20059,8 +20059,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0534-ZA8b5hc.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0534-ZA8b5hc.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0534-ZA8b5hc.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0534-ZA8b5hc.gif",
   },
   {
     id: "0535",
@@ -20082,8 +20082,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Lower the kettlebell back down to the starting position between your legs, and repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0535-LHWF7us.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0535-LHWF7us.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0535-LHWF7us.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0535-LHWF7us.gif",
   },
   {
     id: "0536",
@@ -20105,8 +20105,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating lunges and passing the kettlebell between hands for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0536-WKMQzCD.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0536-WKMQzCD.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0536-WKMQzCD.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0536-WKMQzCD.gif",
   },
   {
     id: "0537",
@@ -20127,8 +20127,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Lower the kettlebell back down to the starting position and repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0537-vzAxBtt.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0537-vzAxBtt.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0537-vzAxBtt.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0537-vzAxBtt.gif",
   },
   {
     id: "1298",
@@ -20149,8 +20149,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1298-rg59QCH.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1298-rg59QCH.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1298-rg59QCH.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1298-rg59QCH.gif",
   },
   {
     id: "0538",
@@ -20174,8 +20174,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Lower the kettlebell back to the starting position by bending your knees and hips, and repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0538-S37C94C.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0538-S37C94C.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0538-S37C94C.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0538-S37C94C.gif",
   },
   {
     id: "0539",
@@ -20196,8 +20196,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0539-yCvYdi7.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0539-yCvYdi7.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0539-yCvYdi7.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0539-yCvYdi7.gif",
   },
   {
     id: "0540",
@@ -20218,8 +20218,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0540-osdXT3K.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0540-osdXT3K.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0540-osdXT3K.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0540-osdXT3K.gif",
   },
   {
     id: "0541",
@@ -20240,8 +20240,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides and repeat with the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0541-g9AsZ8P.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0541-g9AsZ8P.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0541-g9AsZ8P.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0541-g9AsZ8P.gif",
   },
   {
     id: "0542",
@@ -20262,8 +20262,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Lower the kettlebell back down between your legs and repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0542-aXcUyKb.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0542-aXcUyKb.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0542-aXcUyKb.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0542-aXcUyKb.gif",
   },
   {
     id: "0543",
@@ -20285,8 +20285,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0543-kuXhl0o.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0543-kuXhl0o.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0543-kuXhl0o.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0543-kuXhl0o.gif",
   },
   {
     id: "0544",
@@ -20307,8 +20307,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch legs.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0544-5bpPTHv.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0544-5bpPTHv.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0544-5bpPTHv.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0544-5bpPTHv.gif",
   },
   {
     id: "0545",
@@ -20329,8 +20329,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0545-ktf3nvW.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0545-ktf3nvW.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0545-ktf3nvW.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0545-ktf3nvW.gif",
   },
   {
     id: "0546",
@@ -20351,8 +20351,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0546-BkxB8LW.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0546-BkxB8LW.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0546-BkxB8LW.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0546-BkxB8LW.gif",
   },
   {
     id: "1438",
@@ -20373,8 +20373,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1438-ZEkjZDi.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1438-ZEkjZDi.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1438-ZEkjZDi.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1438-ZEkjZDi.gif",
   },
   {
     id: "0547",
@@ -20395,8 +20395,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0547-UDm6cGl.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0547-UDm6cGl.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0547-UDm6cGl.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0547-UDm6cGl.gif",
   },
   {
     id: "0548",
@@ -20418,8 +20418,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Lower the kettlebell back down to the starting position and repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0548-8ARQ9Hw.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0548-8ARQ9Hw.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0548-8ARQ9Hw.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0548-8ARQ9Hw.gif",
   },
   {
     id: "0549",
@@ -20441,8 +20441,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Allow the kettlebell to swing back down between your legs and repeat the movement for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0549-UHJlbu3.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0549-UHJlbu3.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0549-UHJlbu3.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0549-UHJlbu3.gif",
   },
   {
     id: "0550",
@@ -20464,8 +20464,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0550-yWxMvB5.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0550-yWxMvB5.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0550-yWxMvB5.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0550-yWxMvB5.gif",
   },
   {
     id: "0551",
@@ -20490,8 +20490,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat the exercise on the other side, starting with the kettlebell in your left hand.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0551-Ha7SZ3y.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0551-Ha7SZ3y.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0551-Ha7SZ3y.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0551-Ha7SZ3y.gif",
   },
   {
     id: "0552",
@@ -20512,8 +20512,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Lower the kettlebell back down to the starting position and repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0552-7Ba7bQ2.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0552-7Ba7bQ2.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0552-7Ba7bQ2.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0552-7Ba7bQ2.gif",
   },
   {
     id: "0553",
@@ -20533,8 +20533,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0553-blBXysN.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0553-blBXysN.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0553-blBXysN.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0553-blBXysN.gif",
   },
   {
     id: "1345",
@@ -20555,8 +20555,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1345-wf24o8S.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1345-wf24o8S.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1345-wf24o8S.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1345-wf24o8S.gif",
   },
   {
     id: "0554",
@@ -20578,8 +20578,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0554-9Tkqa9O.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0554-9Tkqa9O.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0554-9Tkqa9O.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0554-9Tkqa9O.gif",
   },
   {
     id: "0555",
@@ -20600,8 +20600,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0555-v7p5bYl.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0555-v7p5bYl.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0555-v7p5bYl.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0555-v7p5bYl.gif",
   },
   {
     id: "0558",
@@ -20623,8 +20623,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0558-pM07UxU.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0558-pM07UxU.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0558-pM07UxU.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0558-pM07UxU.gif",
   },
   {
     id: "3640",
@@ -20645,8 +20645,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3640-dTg95eZ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3640-dTg95eZ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3640-dTg95eZ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3640-dTg95eZ.gif",
   },
   {
     id: "1420",
@@ -20668,8 +20668,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Immediately go into the next repetition, repeating the jump squat motion.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1420-UgDm3oy.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1420-UgDm3oy.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1420-UgDm3oy.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1420-UgDm3oy.gif",
   },
   {
     id: "1346",
@@ -20691,8 +20691,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1346-f38OEuO.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1346-f38OEuO.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1346-f38OEuO.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1346-f38OEuO.gif",
   },
   {
     id: "3239",
@@ -20713,8 +20713,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3239-h1ezqSu.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3239-h1ezqSu.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3239-h1ezqSu.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3239-h1ezqSu.gif",
   },
   {
     id: "3211",
@@ -20735,8 +20735,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3211-ZOuKWir.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3211-ZOuKWir.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3211-ZOuKWir.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3211-ZOuKWir.gif",
   },
   {
     id: "3288",
@@ -20756,8 +20756,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3288-rWoBmi5.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3288-rWoBmi5.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3288-rWoBmi5.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3288-rWoBmi5.gif",
   },
   {
     id: "3418",
@@ -20779,8 +20779,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3418-d1GgzTU.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3418-d1GgzTU.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3418-d1GgzTU.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3418-d1GgzTU.gif",
   },
   {
     id: "3419",
@@ -20803,8 +20803,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3419-UpWmA5E.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3419-UpWmA5E.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3419-UpWmA5E.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3419-UpWmA5E.gif",
   },
   {
     id: "0562",
@@ -20824,8 +20824,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue this twisting motion, alternating sides, for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0562-QYysSLV.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0562-QYysSLV.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0562-QYysSLV.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0562-QYysSLV.gif",
   },
   {
     id: "3237",
@@ -20846,8 +20846,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3237-eXMFHww.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3237-eXMFHww.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3237-eXMFHww.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3237-eXMFHww.gif",
   },
   {
     id: "3300",
@@ -20868,8 +20868,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3300-LYJodFS.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3300-LYJodFS.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3300-LYJodFS.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3300-LYJodFS.gif",
   },
   {
     id: "2271",
@@ -20890,8 +20890,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Snap your arm back to the starting position and repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2271-hoXt6wv.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2271-hoXt6wv.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2271-hoXt6wv.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2271-hoXt6wv.gif",
   },
   {
     id: "0570",
@@ -20912,8 +20912,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0570-OyoZ3Pu.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0570-OyoZ3Pu.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0570-OyoZ3Pu.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0570-OyoZ3Pu.gif",
   },
   {
     id: "1576",
@@ -20934,8 +20934,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat with the other leg.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1576-sU5BrfP.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1576-sU5BrfP.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1576-sU5BrfP.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1576-sU5BrfP.gif",
   },
   {
     id: "2287",
@@ -20958,8 +20958,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating legs for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2287-V07qpXy.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2287-V07qpXy.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2287-V07qpXy.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2287-V07qpXy.gif",
   },
   {
     id: "0571",
@@ -20983,8 +20983,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0571-w2oRpuH.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0571-w2oRpuH.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0571-w2oRpuH.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0571-w2oRpuH.gif",
   },
   {
     id: "0572",
@@ -21007,8 +21007,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0572-MaMuGH6.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0572-MaMuGH6.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0572-MaMuGH6.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0572-MaMuGH6.gif",
   },
   {
     id: "0573",
@@ -21031,8 +21031,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0573-rUXfn3R.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0573-rUXfn3R.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0573-rUXfn3R.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0573-rUXfn3R.gif",
   },
   {
     id: "0574",
@@ -21054,8 +21054,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0574-X3cqyXz.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0574-X3cqyXz.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0574-X3cqyXz.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0574-X3cqyXz.gif",
   },
   {
     id: "3200",
@@ -21076,8 +21076,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3200-LuBEORI.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3200-LuBEORI.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3200-LuBEORI.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3200-LuBEORI.gif",
   },
   {
     id: "0575",
@@ -21099,8 +21099,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0575-q6y3OhV.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0575-q6y3OhV.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0575-q6y3OhV.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0575-q6y3OhV.gif",
   },
   {
     id: "2289",
@@ -21123,8 +21123,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2289-7B4F5nZ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2289-7B4F5nZ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2289-7B4F5nZ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2289-7B4F5nZ.gif",
   },
   {
     id: "0577",
@@ -21145,8 +21145,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0577-T0yTjgW.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0577-T0yTjgW.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0577-T0yTjgW.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0577-T0yTjgW.gif",
   },
   {
     id: "0576",
@@ -21167,8 +21167,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0576-DOoWcnA.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0576-DOoWcnA.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0576-DOoWcnA.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0576-DOoWcnA.gif",
   },
   {
     id: "0578",
@@ -21192,8 +21192,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0578-GUT8I22.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0578-GUT8I22.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0578-GUT8I22.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0578-GUT8I22.gif",
   },
   {
     id: "1300",
@@ -21216,8 +21216,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1300-vsVoPHt.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1300-vsVoPHt.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1300-vsVoPHt.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1300-vsVoPHt.gif",
   },
   {
     id: "1253",
@@ -21239,8 +21239,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1253-C9LuR4A.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1253-C9LuR4A.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1253-C9LuR4A.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1253-C9LuR4A.gif",
   },
   {
     id: "0579",
@@ -21262,8 +21262,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0579-7F1DVzn.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0579-7F1DVzn.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0579-7F1DVzn.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0579-7F1DVzn.gif",
   },
   {
     id: "0580",
@@ -21284,8 +21284,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0580-f91FwXG.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0580-f91FwXG.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0580-f91FwXG.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0580-f91FwXG.gif",
   },
   {
     id: "1439",
@@ -21306,8 +21306,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1439-cbuFJrn.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1439-cbuFJrn.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1439-cbuFJrn.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1439-cbuFJrn.gif",
   },
   {
     id: "2288",
@@ -21328,8 +21328,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2288-mKwcrHn.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2288-mKwcrHn.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2288-mKwcrHn.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2288-mKwcrHn.gif",
   },
   {
     id: "1615",
@@ -21352,8 +21352,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1615-OAguZoG.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1615-OAguZoG.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1615-OAguZoG.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1615-OAguZoG.gif",
   },
   {
     id: "0581",
@@ -21376,8 +21376,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0581-nZZZy9m.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0581-nZZZy9m.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0581-nZZZy9m.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0581-nZZZy9m.gif",
   },
   {
     id: "2286",
@@ -21398,8 +21398,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2286-OPqShYN.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2286-OPqShYN.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2286-OPqShYN.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2286-OPqShYN.gif",
   },
   {
     id: "2611",
@@ -21421,8 +21421,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch legs.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2611-9KU9TYF.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2611-9KU9TYF.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2611-9KU9TYF.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2611-9KU9TYF.gif",
   },
   {
     id: "1299",
@@ -21444,8 +21444,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1299-jHAnWmT.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1299-jHAnWmT.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1299-jHAnWmT.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1299-jHAnWmT.gif",
   },
   {
     id: "1479",
@@ -21467,8 +21467,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1479-o17Jfkt.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1479-o17Jfkt.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1479-o17Jfkt.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1479-o17Jfkt.gif",
   },
   {
     id: "0582",
@@ -21491,8 +21491,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0582-nnmCTLN.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0582-nnmCTLN.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0582-nnmCTLN.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0582-nnmCTLN.gif",
   },
   {
     id: "0583",
@@ -21514,8 +21514,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0583-sZOR9EV.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0583-sZOR9EV.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0583-sZOR9EV.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0583-sZOR9EV.gif",
   },
   {
     id: "0584",
@@ -21536,8 +21536,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0584-dRTfGZT.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0584-dRTfGZT.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0584-dRTfGZT.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0584-dRTfGZT.gif",
   },
   {
     id: "0585",
@@ -21559,8 +21559,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0585-my33uHU.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0585-my33uHU.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0585-my33uHU.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0585-my33uHU.gif",
   },
   {
     id: "0586",
@@ -21583,8 +21583,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0586-17lJ1kr.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0586-17lJ1kr.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0586-17lJ1kr.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0586-17lJ1kr.gif",
   },
   {
     id: "3195",
@@ -21606,8 +21606,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3195-UXpKJoq.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3195-UXpKJoq.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3195-UXpKJoq.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3195-UXpKJoq.gif",
   },
   {
     id: "0587",
@@ -21628,8 +21628,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0587-CggQhII.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0587-CggQhII.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0587-CggQhII.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0587-CggQhII.gif",
   },
   {
     id: "0588",
@@ -21653,8 +21653,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0588-IGjKj1v.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0588-IGjKj1v.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0588-IGjKj1v.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0588-IGjKj1v.gif",
   },
   {
     id: "0589",
@@ -21677,8 +21677,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0589-Fhdtwf3.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0589-Fhdtwf3.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0589-Fhdtwf3.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0589-Fhdtwf3.gif",
   },
   {
     id: "1356",
@@ -21700,8 +21700,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1356-OIFMAp1.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1356-OIFMAp1.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1356-OIFMAp1.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1356-OIFMAp1.gif",
   },
   {
     id: "1347",
@@ -21722,8 +21722,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1347-tTuZSDT.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1347-tTuZSDT.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1347-tTuZSDT.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1347-tTuZSDT.gif",
   },
   {
     id: "0590",
@@ -21744,8 +21744,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0590-2KGnL6M.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0590-2KGnL6M.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0590-2KGnL6M.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0590-2KGnL6M.gif",
   },
   {
     id: "0591",
@@ -21767,8 +21767,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0591-D5yqP2p.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0591-D5yqP2p.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0591-D5yqP2p.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0591-D5yqP2p.gif",
   },
   {
     id: "0592",
@@ -21791,8 +21791,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0592-b6hQYMb.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0592-b6hQYMb.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0592-b6hQYMb.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0592-b6hQYMb.gif",
   },
   {
     id: "1614",
@@ -21814,8 +21814,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1614-ye84CTU.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1614-ye84CTU.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1614-ye84CTU.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1614-ye84CTU.gif",
   },
   {
     id: "2285",
@@ -21837,8 +21837,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2285-4U7iLb5.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2285-4U7iLb5.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2285-4U7iLb5.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2285-4U7iLb5.gif",
   },
   {
     id: "2736",
@@ -21860,8 +21860,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2736-ky8FLU8.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2736-ky8FLU8.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2736-ky8FLU8.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2736-ky8FLU8.gif",
   },
   {
     id: "1616",
@@ -21884,8 +21884,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1616-kj3hy6W.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1616-kj3hy6W.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1616-kj3hy6W.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1616-kj3hy6W.gif",
   },
   {
     id: "1348",
@@ -21908,8 +21908,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1348-ZqNOWQ6.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1348-ZqNOWQ6.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1348-ZqNOWQ6.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1348-ZqNOWQ6.gif",
   },
   {
     id: "0593",
@@ -21931,8 +21931,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0593-Krmb3cB.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0593-Krmb3cB.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0593-Krmb3cB.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0593-Krmb3cB.gif",
   },
   {
     id: "1349",
@@ -21955,8 +21955,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1349-BgljGjd.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1349-BgljGjd.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1349-BgljGjd.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1349-BgljGjd.gif",
   },
   {
     id: "2315",
@@ -21978,8 +21978,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2315-MrgP9L6.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2315-MrgP9L6.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2315-MrgP9L6.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2315-MrgP9L6.gif",
   },
   {
     id: "2335",
@@ -22001,8 +22001,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2335-Ie9UGty.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2335-Ie9UGty.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2335-Ie9UGty.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2335-Ie9UGty.gif",
   },
   {
     id: "0594",
@@ -22024,8 +22024,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0594-bOOdeyc.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0594-bOOdeyc.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0594-bOOdeyc.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0594-bOOdeyc.gif",
   },
   {
     id: "1452",
@@ -22047,8 +22047,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1452-Wgaz7pm.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1452-Wgaz7pm.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1452-Wgaz7pm.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1452-Wgaz7pm.gif",
   },
   {
     id: "0595",
@@ -22071,8 +22071,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0595-ZnJHhMk.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0595-ZnJHhMk.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0595-ZnJHhMk.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0595-ZnJHhMk.gif",
   },
   {
     id: "3760",
@@ -22094,8 +22094,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3760-eXFXCY0.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3760-eXFXCY0.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3760-eXFXCY0.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3760-eXFXCY0.gif",
   },
   {
     id: "1451",
@@ -22116,8 +22116,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1451-BRImeP8.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1451-BRImeP8.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1451-BRImeP8.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1451-BRImeP8.gif",
   },
   {
     id: "0596",
@@ -22139,8 +22139,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0596-v3xmPAR.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0596-v3xmPAR.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0596-v3xmPAR.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0596-v3xmPAR.gif",
   },
   {
     id: "3759",
@@ -22162,8 +22162,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3759-XsCcxCC.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3759-XsCcxCC.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3759-XsCcxCC.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3759-XsCcxCC.gif",
   },
   {
     id: "0597",
@@ -22185,8 +22185,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0597-CHpahtl.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0597-CHpahtl.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0597-CHpahtl.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0597-CHpahtl.gif",
   },
   {
     id: "0598",
@@ -22207,8 +22207,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0598-oHsrypV.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0598-oHsrypV.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0598-oHsrypV.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0598-oHsrypV.gif",
   },
   {
     id: "0599",
@@ -22231,8 +22231,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0599-Zg3XY7P.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0599-Zg3XY7P.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0599-Zg3XY7P.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0599-Zg3XY7P.gif",
   },
   {
     id: "0600",
@@ -22253,8 +22253,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0600-PQ2AtC3.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0600-PQ2AtC3.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0600-PQ2AtC3.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0600-PQ2AtC3.gif",
   },
   {
     id: "0602",
@@ -22275,8 +22275,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0602-myfUsKf.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0602-myfUsKf.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0602-myfUsKf.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0602-myfUsKf.gif",
   },
   {
     id: "0601",
@@ -22297,8 +22297,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0601-xiHiJcA.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0601-xiHiJcA.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0601-xiHiJcA.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0601-xiHiJcA.gif",
   },
   {
     id: "1350",
@@ -22322,8 +22322,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1350-7I6LNUG.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1350-7I6LNUG.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1350-7I6LNUG.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1350-7I6LNUG.gif",
   },
   {
     id: "1385",
@@ -22346,8 +22346,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1385-IeDEXTe.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1385-IeDEXTe.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1385-IeDEXTe.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1385-IeDEXTe.gif",
   },
   {
     id: "0603",
@@ -22368,8 +22368,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0603-67n3r98.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0603-67n3r98.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0603-67n3r98.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0603-67n3r98.gif",
   },
   {
     id: "0869",
@@ -22391,8 +22391,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0869-vqsbmL0.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0869-vqsbmL0.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0869-vqsbmL0.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0869-vqsbmL0.gif",
   },
   {
     id: "2318",
@@ -22414,8 +22414,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2318-dNFYIU1.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2318-dNFYIU1.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2318-dNFYIU1.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2318-dNFYIU1.gif",
   },
   {
     id: "0604",
@@ -22436,8 +22436,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0604-ZZKbeMw.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0604-ZZKbeMw.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0604-ZZKbeMw.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0604-ZZKbeMw.gif",
   },
   {
     id: "0605",
@@ -22458,8 +22458,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0605-ykUOVze.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0605-ykUOVze.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0605-ykUOVze.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0605-ykUOVze.gif",
   },
   {
     id: "3758",
@@ -22480,8 +22480,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3758-WbNq5Xu.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3758-WbNq5Xu.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3758-WbNq5Xu.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3758-WbNq5Xu.gif",
   },
   {
     id: "0606",
@@ -22504,8 +22504,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0606-aaXr7ld.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0606-aaXr7ld.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0606-aaXr7ld.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0606-aaXr7ld.gif",
   },
   {
     id: "1351",
@@ -22527,8 +22527,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1351-FVM1AUZ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1351-FVM1AUZ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1351-FVM1AUZ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1351-FVM1AUZ.gif",
   },
   {
     id: "0607",
@@ -22549,8 +22549,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0607-Ser9eQp.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0607-Ser9eQp.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0607-Ser9eQp.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0607-Ser9eQp.gif",
   },
   {
     id: "1313",
@@ -22571,8 +22571,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1313-oROuvrX.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1313-oROuvrX.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1313-oROuvrX.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1313-oROuvrX.gif",
   },
   {
     id: "0609",
@@ -22595,8 +22595,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0609-bLyQokI.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0609-bLyQokI.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0609-bLyQokI.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0609-bLyQokI.gif",
   },
   {
     id: "3013",
@@ -22618,8 +22618,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3013-u0cNiij.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3013-u0cNiij.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3013-u0cNiij.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3013-u0cNiij.gif",
   },
   {
     id: "1352",
@@ -22639,8 +22639,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1352-ANbbry2.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1352-ANbbry2.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1352-ANbbry2.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1352-ANbbry2.gif",
   },
   {
     id: "3582",
@@ -22661,8 +22661,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating between lunges and jumps for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3582-PM1PZjg.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3582-PM1PZjg.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3582-PM1PZjg.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3582-PM1PZjg.gif",
   },
   {
     id: "1688",
@@ -22684,8 +22684,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1688-K9VL0Jq.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1688-K9VL0Jq.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1688-K9VL0Jq.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1688-K9VL0Jq.gif",
   },
   {
     id: "0613",
@@ -22706,8 +22706,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Release the stretch and repeat on the other side.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0613-BWnJR72.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0613-BWnJR72.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0613-BWnJR72.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0613-BWnJR72.gif",
   },
   {
     id: "2312",
@@ -22730,8 +22730,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2312-AQIhRjM.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2312-AQIhRjM.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2312-AQIhRjM.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2312-AQIhRjM.gif",
   },
   {
     id: "0620",
@@ -22752,8 +22752,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0620-WhuFnR7.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0620-WhuFnR7.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0620-WhuFnR7.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0620-WhuFnR7.gif",
   },
   {
     id: "0865",
@@ -22774,8 +22774,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0865-9IxJdtC.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0865-9IxJdtC.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0865-9IxJdtC.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0865-9IxJdtC.gif",
   },
   {
     id: "1301",
@@ -22796,8 +22796,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1301-wDN97Ca.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1301-wDN97Ca.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1301-wDN97Ca.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1301-wDN97Ca.gif",
   },
   {
     id: "0624",
@@ -22818,8 +22818,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating between lifting your right and left foot for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0624-sVQCCeG.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0624-sVQCCeG.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0624-sVQCCeG.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0624-sVQCCeG.gif",
   },
   {
     id: "1353",
@@ -22841,8 +22841,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Lower your body back into the squat position and repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1353-PsVS1QP.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1353-PsVS1QP.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1353-PsVS1QP.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1353-PsVS1QP.gif",
   },
   {
     id: "1302",
@@ -22863,8 +22863,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1302-aDoFKrE.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1302-aDoFKrE.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1302-aDoFKrE.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1302-aDoFKrE.gif",
   },
   {
     id: "1303",
@@ -22885,8 +22885,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Return to the starting position and repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1303-dCJnuVq.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1303-dCJnuVq.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1303-dCJnuVq.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1303-dCJnuVq.gif",
   },
   {
     id: "1304",
@@ -22906,8 +22906,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1304-7aolH9D.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1304-7aolH9D.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1304-7aolH9D.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1304-7aolH9D.gif",
   },
   {
     id: "1305",
@@ -22927,8 +22927,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1305-jeHtrlO.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1305-jeHtrlO.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1305-jeHtrlO.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1305-jeHtrlO.gif",
   },
   {
     id: "1312",
@@ -22950,8 +22950,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating legs and repeating the exercise for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1312-pX9Elbe.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1312-pX9Elbe.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1312-pX9Elbe.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1312-pX9Elbe.gif",
   },
   {
     id: "1701",
@@ -22971,8 +22971,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1701-8K7m2SS.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1701-8K7m2SS.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1701-8K7m2SS.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1701-8K7m2SS.gif",
   },
   {
     id: "1354",
@@ -22993,8 +22993,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Catch the ball on the bounce and repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1354-oHg8eop.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1354-oHg8eop.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1354-oHg8eop.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1354-oHg8eop.gif",
   },
   {
     id: "1750",
@@ -23015,8 +23015,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Catch the medicine ball and repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1750-Al3tP0D.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1750-Al3tP0D.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1750-Al3tP0D.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1750-Al3tP0D.gif",
   },
   {
     id: "0627",
@@ -23038,8 +23038,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0627-T8UpLkb.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0627-T8UpLkb.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0627-T8UpLkb.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0627-T8UpLkb.gif",
   },
   {
     id: "3217",
@@ -23060,8 +23060,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3217-epOSYUZ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3217-epOSYUZ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3217-epOSYUZ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3217-epOSYUZ.gif",
   },
   {
     id: "1421",
@@ -23082,8 +23082,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1421-arvaszz.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1421-arvaszz.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1421-arvaszz.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1421-arvaszz.gif",
   },
   {
     id: "0628",
@@ -23104,8 +23104,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0628-O95afRA.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0628-O95afRA.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0628-O95afRA.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0628-O95afRA.gif",
   },
   {
     id: "0631",
@@ -23127,8 +23127,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0631-yJUHKTn.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0631-yJUHKTn.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0631-yJUHKTn.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0631-yJUHKTn.gif",
   },
   {
     id: "1401",
@@ -23150,8 +23150,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1401-Af0EW2I.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1401-Af0EW2I.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1401-Af0EW2I.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1401-Af0EW2I.gif",
   },
   {
     id: "2328",
@@ -23172,8 +23172,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2328-4cWjYEN.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2328-4cWjYEN.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2328-4cWjYEN.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2328-4cWjYEN.gif",
   },
   {
     id: "1403",
@@ -23194,8 +23194,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Perform 2-4 sets on each side.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1403-x2chWLO.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1403-x2chWLO.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1403-x2chWLO.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1403-x2chWLO.gif",
   },
   {
     id: "0634",
@@ -23216,8 +23216,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0634-szIn2UK.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0634-szIn2UK.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0634-szIn2UK.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0634-szIn2UK.gif",
   },
   {
     id: "1495",
@@ -23239,8 +23239,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1495-cJgSTmh.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1495-cJgSTmh.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1495-cJgSTmh.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1495-cJgSTmh.gif",
   },
   {
     id: "0635",
@@ -23261,8 +23261,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat on the other side, alternating sides with each repetition.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0635-QUDd8WS.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0635-QUDd8WS.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0635-QUDd8WS.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0635-QUDd8WS.gif",
   },
   {
     id: "0636",
@@ -23285,8 +23285,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0636-o1ntciW.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0636-o1ntciW.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0636-o1ntciW.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0636-o1ntciW.gif",
   },
   {
     id: "0637",
@@ -23307,8 +23307,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0637-wu5LXwz.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0637-wu5LXwz.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0637-wu5LXwz.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0637-wu5LXwz.gif",
   },
   {
     id: "1355",
@@ -23329,8 +23329,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Hold the position for a few seconds, then release and repeat with the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1355-ZZTGMKh.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1355-ZZTGMKh.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1355-ZZTGMKh.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1355-ZZTGMKh.gif",
   },
   {
     id: "0638",
@@ -23352,8 +23352,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms and repeat.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0638-HjdqmZa.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0638-HjdqmZa.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0638-HjdqmZa.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0638-HjdqmZa.gif",
   },
   {
     id: "0639",
@@ -23375,8 +23375,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides and repeat with the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0639-FAoIFMw.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0639-FAoIFMw.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0639-FAoIFMw.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0639-FAoIFMw.gif",
   },
   {
     id: "0640",
@@ -23397,8 +23397,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Catch the medicine ball on the bounce and repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0640-jCrtE9b.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0640-jCrtE9b.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0640-jCrtE9b.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0640-jCrtE9b.gif",
   },
   {
     id: "1773",
@@ -23420,8 +23420,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch arms.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1773-bKWbrTA.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1773-bKWbrTA.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1773-bKWbrTA.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1773-bKWbrTA.gif",
   },
   {
     id: "1386",
@@ -23443,8 +23443,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch legs.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1386-A2upspL.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1386-A2upspL.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1386-A2upspL.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1386-A2upspL.gif",
   },
   {
     id: "1387",
@@ -23465,8 +23465,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch legs and repeat.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1387-0jp9Rlz.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1387-0jp9Rlz.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1387-0jp9Rlz.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1387-0jp9Rlz.gif",
   },
   {
     id: "1476",
@@ -23488,8 +23488,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat with the other leg.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1476-C31LMnP.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1476-C31LMnP.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1476-C31LMnP.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1476-C31LMnP.gif",
   },
   {
     id: "0641",
@@ -23510,8 +23510,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0641-UVL20oz.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0641-UVL20oz.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0641-UVL20oz.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0641-UVL20oz.gif",
   },
   {
     id: "0642",
@@ -23532,8 +23532,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating leg kicks and push-ups for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0642-jNU1gFQ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0642-jNU1gFQ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0642-jNU1gFQ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0642-jNU1gFQ.gif",
   },
   {
     id: "0643",
@@ -23554,8 +23554,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat on the other side.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0643-Z5YStHW.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0643-Z5YStHW.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0643-Z5YStHW.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0643-Z5YStHW.gif",
   },
   {
     id: "3147",
@@ -23577,8 +23577,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3147-NKJ8o6x.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3147-NKJ8o6x.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3147-NKJ8o6x.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3147-NKJ8o6x.gif",
   },
   {
     id: "1422",
@@ -23601,8 +23601,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1422-D9qe7CM.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1422-D9qe7CM.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1422-D9qe7CM.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1422-D9qe7CM.gif",
   },
   {
     id: "1388",
@@ -23624,8 +23624,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1388-XhfS1DZ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1388-XhfS1DZ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1388-XhfS1DZ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1388-XhfS1DZ.gif",
   },
   {
     id: "3662",
@@ -23649,8 +23649,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3662-XPUDTt7.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3662-XPUDTt7.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3662-XPUDTt7.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3662-XPUDTt7.gif",
   },
   {
     id: "1306",
@@ -23671,8 +23671,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1306-Snj1wSv.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1306-Snj1wSv.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1306-Snj1wSv.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1306-Snj1wSv.gif",
   },
   {
     id: "1687",
@@ -23695,8 +23695,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1687-ErqK3UL.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1687-ErqK3UL.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1687-ErqK3UL.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1687-ErqK3UL.gif",
   },
   {
     id: "1389",
@@ -23718,8 +23718,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat the stretch on the other leg.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1389-DEEqoI2.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1389-DEEqoI2.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1389-DEEqoI2.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1389-DEEqoI2.gif",
   },
   {
     id: "3119",
@@ -23741,8 +23741,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3119-75Bgtjy.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3119-75Bgtjy.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3119-75Bgtjy.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3119-75Bgtjy.gif",
   },
   {
     id: "3132",
@@ -23764,8 +23764,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3132-b63ZzGe.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3132-b63ZzGe.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3132-b63ZzGe.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3132-b63ZzGe.gif",
   },
   {
     id: "0648",
@@ -23789,8 +23789,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0648-SiWCcTN.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0648-SiWCcTN.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0648-SiWCcTN.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0648-SiWCcTN.gif",
   },
   {
     id: "3665",
@@ -23812,8 +23812,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3665-hCjGsRQ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3665-hCjGsRQ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3665-hCjGsRQ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3665-hCjGsRQ.gif",
   },
   {
     id: "3203",
@@ -23834,8 +23834,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3203-mgejmGP.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3203-mgejmGP.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3203-mgejmGP.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3203-mgejmGP.gif",
   },
   {
     id: "1707",
@@ -23858,8 +23858,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1707-1IG6gVF.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1707-1IG6gVF.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1707-1IG6gVF.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1707-1IG6gVF.gif",
   },
   {
     id: "0651",
@@ -23881,8 +23881,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0651-0V2YQjW.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0651-0V2YQjW.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0651-0V2YQjW.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0651-0V2YQjW.gif",
   },
   {
     id: "0650",
@@ -23903,8 +23903,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0650-UQr48Oi.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0650-UQr48Oi.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0650-UQr48Oi.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0650-UQr48Oi.gif",
   },
   {
     id: "0652",
@@ -23925,8 +23925,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0652-lBDjFxJ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0652-lBDjFxJ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0652-lBDjFxJ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0652-lBDjFxJ.gif",
   },
   {
     id: "1689",
@@ -23948,8 +23948,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1689-wXvUZC8.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1689-wXvUZC8.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1689-wXvUZC8.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1689-wXvUZC8.gif",
   },
   {
     id: "1307",
@@ -23970,8 +23970,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1307-wVompEp.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1307-wVompEp.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1307-wVompEp.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1307-wVompEp.gif",
   },
   {
     id: "0662",
@@ -23991,8 +23991,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0662-I4hDWkc.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0662-I4hDWkc.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0662-I4hDWkc.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0662-I4hDWkc.gif",
   },
   {
     id: "0653",
@@ -24013,8 +24013,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0653-2kr2lWy.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0653-2kr2lWy.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0653-2kr2lWy.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0653-2kr2lWy.gif",
   },
   {
     id: "0655",
@@ -24035,8 +24035,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0655-Y4BRNQF.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0655-Y4BRNQF.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0655-Y4BRNQF.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0655-Y4BRNQF.gif",
   },
   {
     id: "0656",
@@ -24057,8 +24057,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0656-tgryw5Y.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0656-tgryw5Y.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0656-tgryw5Y.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0656-tgryw5Y.gif",
   },
   {
     id: "0659",
@@ -24080,8 +24080,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0659-LEH9jxP.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0659-LEH9jxP.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0659-LEH9jxP.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0659-LEH9jxP.gif",
   },
   {
     id: "0658",
@@ -24104,8 +24104,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0658-NCmbLCw.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0658-NCmbLCw.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0658-NCmbLCw.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0658-NCmbLCw.gif",
   },
   {
     id: "0660",
@@ -24126,8 +24126,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0660-KZXAtKQ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0660-KZXAtKQ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0660-KZXAtKQ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0660-KZXAtKQ.gif",
   },
   {
     id: "0661",
@@ -24148,8 +24148,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating leg kicks with each push-up repetition.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0661-0br45wL.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0661-0br45wL.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0661-0br45wL.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0661-0br45wL.gif",
   },
   {
     id: "0663",
@@ -24169,8 +24169,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0663-W8KAlkI.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0663-W8KAlkI.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0663-W8KAlkI.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0663-W8KAlkI.gif",
   },
   {
     id: "1467",
@@ -24191,8 +24191,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1467-4Jt8QsQ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1467-4Jt8QsQ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1467-4Jt8QsQ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1467-4Jt8QsQ.gif",
   },
   {
     id: "3145",
@@ -24214,8 +24214,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3145-pvBMLHA.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3145-pvBMLHA.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3145-pvBMLHA.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3145-pvBMLHA.gif",
   },
   {
     id: "0664",
@@ -24238,8 +24238,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0664-KhHJ338.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0664-KhHJ338.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0664-KhHJ338.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0664-KhHJ338.gif",
   },
   {
     id: "3533",
@@ -24261,8 +24261,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3533-6YUfHPL.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3533-6YUfHPL.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3533-6YUfHPL.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3533-6YUfHPL.gif",
   },
   {
     id: "3201",
@@ -24283,8 +24283,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3201-enxnJcM.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3201-enxnJcM.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3201-enxnJcM.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3201-enxnJcM.gif",
   },
   {
     id: "3552",
@@ -24304,8 +24304,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue for the desired duration or number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3552-mweqJin.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3552-mweqJin.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3552-mweqJin.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3552-mweqJin.gif",
   },
   {
     id: "0666",
@@ -24326,8 +24326,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat with the other arm extended.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0666-13TpY4H.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0666-13TpY4H.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0666-13TpY4H.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0666-13TpY4H.gif",
   },
   {
     id: "0668",
@@ -24348,8 +24348,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0668-UpAlold.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0668-UpAlold.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0668-UpAlold.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0668-UpAlold.gif",
   },
   {
     id: "0669",
@@ -24370,8 +24370,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat on the other side.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0669-xifhB5W.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0669-xifhB5W.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0669-xifhB5W.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0669-xifhB5W.gif",
   },
   {
     id: "0670",
@@ -24393,8 +24393,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0670-CbFSYC1.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0670-CbFSYC1.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0670-CbFSYC1.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0670-CbFSYC1.gif",
   },
   {
     id: "1582",
@@ -24416,8 +24416,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating legs for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1582-K5xgdvI.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1582-K5xgdvI.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1582-K5xgdvI.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1582-K5xgdvI.gif",
   },
   {
     id: "3236",
@@ -24440,8 +24440,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3236-Pjbc0Kt.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3236-Pjbc0Kt.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3236-Pjbc0Kt.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3236-Pjbc0Kt.gif",
   },
   {
     id: "3007",
@@ -24462,8 +24462,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch legs.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3007-Y1MsI1l.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3007-Y1MsI1l.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3007-Y1MsI1l.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3007-Y1MsI1l.gif",
   },
   {
     id: "3123",
@@ -24485,8 +24485,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3123-XFc3vpY.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3123-XFc3vpY.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3123-XFc3vpY.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3123-XFc3vpY.gif",
   },
   {
     id: "3124",
@@ -24507,8 +24507,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3124-4x5Okof.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3124-4x5Okof.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3124-4x5Okof.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3124-4x5Okof.gif",
   },
   {
     id: "3006",
@@ -24530,8 +24530,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3006-0xDpB4L.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3006-0xDpB4L.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3006-0xDpB4L.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3006-0xDpB4L.gif",
   },
   {
     id: "3122",
@@ -24552,8 +24552,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3122-S93zLTG.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3122-S93zLTG.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3122-S93zLTG.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3122-S93zLTG.gif",
   },
   {
     id: "3144",
@@ -24575,8 +24575,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3144-Nu7jqFE.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3144-Nu7jqFE.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3144-Nu7jqFE.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3144-Nu7jqFE.gif",
   },
   {
     id: "0872",
@@ -24597,8 +24597,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0872-nCU1Ekp.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0872-nCU1Ekp.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0872-nCU1Ekp.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0872-nCU1Ekp.gif",
   },
   {
     id: "0672",
@@ -24618,8 +24618,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0672-NZ5Qqkz.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0672-NZ5Qqkz.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0672-NZ5Qqkz.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0672-NZ5Qqkz.gif",
   },
   {
     id: "0673",
@@ -24641,8 +24641,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0673-ecpY0rH.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0673-ecpY0rH.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0673-ecpY0rH.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0673-ecpY0rH.gif",
   },
   {
     id: "0674",
@@ -24664,8 +24664,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0674-YAk5dIw.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0674-YAk5dIw.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0674-YAk5dIw.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0674-YAk5dIw.gif",
   },
   {
     id: "0675",
@@ -24686,8 +24686,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0675-vM5YS2g.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0675-vM5YS2g.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0675-vM5YS2g.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0675-vM5YS2g.gif",
   },
   {
     id: "1423",
@@ -24709,8 +24709,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1423-OrETs32.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1423-OrETs32.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1423-OrETs32.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1423-OrETs32.gif",
   },
   {
     id: "3663",
@@ -24732,8 +24732,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating legs for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3663-tFToB7l.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3663-tFToB7l.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3663-tFToB7l.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3663-tFToB7l.gif",
   },
   {
     id: "0677",
@@ -24753,8 +24753,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0677-ezTvXcr.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0677-ezTvXcr.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0677-ezTvXcr.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0677-ezTvXcr.gif",
   },
   {
     id: "2571",
@@ -24777,8 +24777,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2571-2Dk4xQV.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2571-2Dk4xQV.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2571-2Dk4xQV.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2571-2Dk4xQV.gif",
   },
   {
     id: "0678",
@@ -24800,8 +24800,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0678-cQ19bBP.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0678-cQ19bBP.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0678-cQ19bBP.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0678-cQ19bBP.gif",
   },
   {
     id: "2208",
@@ -24823,8 +24823,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2208-isofgzg.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2208-isofgzg.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2208-isofgzg.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2208-isofgzg.gif",
   },
   {
     id: "2204",
@@ -24844,8 +24844,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2204-XeMvLgE.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2204-XeMvLgE.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2204-XeMvLgE.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2204-XeMvLgE.gif",
   },
   {
     id: "2205",
@@ -24866,8 +24866,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2205-0L2KwtI.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2205-0L2KwtI.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2205-0L2KwtI.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2205-0L2KwtI.gif",
   },
   {
     id: "2202",
@@ -24890,8 +24890,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2202-oMypNrz.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2202-oMypNrz.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2202-oMypNrz.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2202-oMypNrz.gif",
   },
   {
     id: "2206",
@@ -24912,8 +24912,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2206-SKXQAx3.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2206-SKXQAx3.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2206-SKXQAx3.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2206-SKXQAx3.gif",
   },
   {
     id: "2203",
@@ -24934,8 +24934,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2203-8coXSYU.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2203-8coXSYU.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2203-8coXSYU.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2203-8coXSYU.gif",
   },
   {
     id: "2209",
@@ -24957,8 +24957,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2209-CjETvlw.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2209-CjETvlw.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2209-CjETvlw.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2209-CjETvlw.gif",
   },
   {
     id: "2207",
@@ -24979,8 +24979,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2207-c3Pfhti.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2207-c3Pfhti.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2207-c3Pfhti.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2207-c3Pfhti.gif",
   },
   {
     id: "0680",
@@ -25004,8 +25004,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0680-yaAxcQr.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0680-yaAxcQr.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0680-yaAxcQr.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0680-yaAxcQr.gif",
   },
   {
     id: "1585",
@@ -25026,8 +25026,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Hold the stretch for 20-30 seconds, then switch sides and repeat.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1585-0mB6wHO.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1585-0mB6wHO.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1585-0mB6wHO.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1585-0mB6wHO.gif",
   },
   {
     id: "0687",
@@ -25050,8 +25050,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0687-XVDdcoj.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0687-XVDdcoj.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0687-XVDdcoj.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0687-XVDdcoj.gif",
   },
   {
     id: "3012",
@@ -25072,8 +25072,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3012-7xeukSt.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3012-7xeukSt.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3012-7xeukSt.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3012-7xeukSt.gif",
   },
   {
     id: "3021",
@@ -25094,8 +25094,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3021-jV65tKx.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3021-jV65tKx.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3021-jV65tKx.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3021-jV65tKx.gif",
   },
   {
     id: "0688",
@@ -25116,8 +25116,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0688-uTBt1HV.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0688-uTBt1HV.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0688-uTBt1HV.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0688-uTBt1HV.gif",
   },
   {
     id: "1390",
@@ -25138,8 +25138,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Switch legs and repeat the stretch.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1390-17bqEXD.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1390-17bqEXD.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1390-17bqEXD.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1390-17bqEXD.gif",
   },
   {
     id: "1424",
@@ -25161,8 +25161,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Switch sides and repeat.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1424-DeDThfG.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1424-DeDThfG.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1424-DeDThfG.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1424-DeDThfG.gif",
   },
   {
     id: "0689",
@@ -25183,8 +25183,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0689-Hgs6Nl1.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0689-Hgs6Nl1.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0689-Hgs6Nl1.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0689-Hgs6Nl1.gif",
   },
   {
     id: "0690",
@@ -25205,8 +25205,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Slowly return to the starting position and repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0690-QFmz6ch.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0690-QFmz6ch.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0690-QFmz6ch.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0690-QFmz6ch.gif",
   },
   {
     id: "2567",
@@ -25226,8 +25226,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Hold the stretch for 20-30 seconds, then switch sides and repeat.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2567-QY39eBr.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2567-QY39eBr.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2567-QY39eBr.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2567-QY39eBr.gif",
   },
   {
     id: "0691",
@@ -25250,8 +25250,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0691-Y9hNPcN.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0691-Y9hNPcN.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0691-Y9hNPcN.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0691-Y9hNPcN.gif",
   },
   {
     id: "1587",
@@ -25275,8 +25275,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1587-HIgYKAB.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1587-HIgYKAB.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1587-HIgYKAB.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1587-HIgYKAB.gif",
   },
   {
     id: "0697",
@@ -25297,8 +25297,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0697-GwYwElT.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0697-GwYwElT.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0697-GwYwElT.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0697-GwYwElT.gif",
   },
   {
     id: "1766",
@@ -25320,8 +25320,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1766-ZSY3MsL.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1766-ZSY3MsL.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1766-ZSY3MsL.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1766-ZSY3MsL.gif",
   },
   {
     id: "0696",
@@ -25344,8 +25344,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0696-E4PwJqI.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0696-E4PwJqI.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0696-E4PwJqI.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0696-E4PwJqI.gif",
   },
   {
     id: "1763",
@@ -25366,8 +25366,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1763-YtgD7Xq.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1763-YtgD7Xq.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1763-YtgD7Xq.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1763-YtgD7Xq.gif",
   },
   {
     id: "3699",
@@ -25388,8 +25388,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3699-yRpV5TC.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3699-yRpV5TC.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3699-yRpV5TC.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3699-yRpV5TC.gif",
   },
   {
     id: "0699",
@@ -25412,8 +25412,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0699-qEse6fe.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0699-qEse6fe.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0699-qEse6fe.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0699-qEse6fe.gif",
   },
   {
     id: "1774",
@@ -25435,8 +25435,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1774-WL4EmxJ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1774-WL4EmxJ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1774-WL4EmxJ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1774-WL4EmxJ.gif",
   },
   {
     id: "0705",
@@ -25458,8 +25458,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat on the other side.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0705-RKjH6Lt.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0705-RKjH6Lt.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0705-RKjH6Lt.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0705-RKjH6Lt.gif",
   },
   {
     id: "0709",
@@ -25480,8 +25480,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0709-jTkSc6o.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0709-jTkSc6o.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0709-jTkSc6o.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0709-jTkSc6o.gif",
   },
   {
     id: "0710",
@@ -25502,8 +25502,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0710-7WaDzyL.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0710-7WaDzyL.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0710-7WaDzyL.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0710-7WaDzyL.gif",
   },
   {
     id: "1358",
@@ -25525,8 +25525,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat on the other side.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1358-jDOKRM5.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1358-jDOKRM5.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1358-jDOKRM5.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1358-jDOKRM5.gif",
   },
   {
     id: "3667",
@@ -25547,8 +25547,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3667-c8f5cSY.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3667-c8f5cSY.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3667-c8f5cSY.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3667-c8f5cSY.gif",
   },
   {
     id: "1775",
@@ -25570,8 +25570,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1775-VO2qeJg.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1775-VO2qeJg.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1775-VO2qeJg.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1775-VO2qeJg.gif",
   },
   {
     id: "0716",
@@ -25593,8 +25593,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat the stretch 2-3 times on each side.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0716-oQRJYkC.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0716-oQRJYkC.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0716-oQRJYkC.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0716-oQRJYkC.gif",
   },
   {
     id: "0717",
@@ -25616,8 +25616,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0717-wpbD28t.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0717-wpbD28t.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0717-wpbD28t.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0717-wpbD28t.gif",
   },
   {
     id: "0721",
@@ -25638,8 +25638,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat on the other side.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0721-UtmIqcI.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0721-UtmIqcI.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0721-UtmIqcI.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0721-UtmIqcI.gif",
   },
   {
     id: "0720",
@@ -25661,8 +25661,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0720-isAAZWA.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0720-isAAZWA.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0720-isAAZWA.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0720-isAAZWA.gif",
   },
   {
     id: "3213",
@@ -25682,8 +25682,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat the side-to-side bending motion for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3213-WCAvOfC.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3213-WCAvOfC.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3213-WCAvOfC.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3213-WCAvOfC.gif",
   },
   {
     id: "0725",
@@ -25704,8 +25704,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat the movement, alternating the arm you extend with each repetition.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0725-MUic5zN.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0725-MUic5zN.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0725-MUic5zN.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0725-MUic5zN.gif",
   },
   {
     id: "3645",
@@ -25726,8 +25726,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch legs.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3645-rmEukuS.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3645-rmEukuS.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3645-rmEukuS.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3645-rmEukuS.gif",
   },
   {
     id: "0727",
@@ -25748,8 +25748,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other leg.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0727-fKZgDEO.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0727-fKZgDEO.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0727-fKZgDEO.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0727-fKZgDEO.gif",
   },
   {
     id: "0730",
@@ -25770,8 +25770,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat the movement for the desired number of repetitions, then switch legs.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0730-LNE3wfo.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0730-LNE3wfo.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0730-LNE3wfo.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0730-LNE3wfo.gif",
   },
   {
     id: "1759",
@@ -25794,8 +25794,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch legs.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1759-nqs5HGV.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1759-nqs5HGV.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1759-nqs5HGV.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1759-nqs5HGV.gif",
   },
   {
     id: "1489",
@@ -25817,8 +25817,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1489-xdYPUtE.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1489-xdYPUtE.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1489-xdYPUtE.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1489-xdYPUtE.gif",
   },
   {
     id: "0735",
@@ -25839,8 +25839,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0735-Bn6TXyO.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0735-Bn6TXyO.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0735-Bn6TXyO.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0735-Bn6TXyO.gif",
   },
   {
     id: "3679",
@@ -25861,8 +25861,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3679-6ZCiYWQ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3679-6ZCiYWQ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3679-6ZCiYWQ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3679-6ZCiYWQ.gif",
   },
   {
     id: "2142",
@@ -25885,8 +25885,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2142-vpQaQkH.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2142-vpQaQkH.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2142-vpQaQkH.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2142-vpQaQkH.gif",
   },
   {
     id: "3304",
@@ -25908,8 +25908,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3304-MSfvriJ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3304-MSfvriJ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3304-MSfvriJ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3304-MSfvriJ.gif",
   },
   {
     id: "1425",
@@ -25931,8 +25931,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating legs for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1425-WWD6FzI.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1425-WWD6FzI.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1425-WWD6FzI.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1425-WWD6FzI.gif",
   },
   {
     id: "0738",
@@ -25953,8 +25953,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0738-qCNVnaU.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0738-qCNVnaU.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0738-qCNVnaU.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0738-qCNVnaU.gif",
   },
   {
     id: "0739",
@@ -25977,8 +25977,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0739-10Z2DXU.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0739-10Z2DXU.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0739-10Z2DXU.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0739-10Z2DXU.gif",
   },
   {
     id: "1464",
@@ -26001,8 +26001,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1464-yn2lLSI.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1464-yn2lLSI.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1464-yn2lLSI.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1464-yn2lLSI.gif",
   },
   {
     id: "1463",
@@ -26024,8 +26024,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1463-2Qh2J1e.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1463-2Qh2J1e.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1463-2Qh2J1e.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1463-2Qh2J1e.gif",
   },
   {
     id: "0740",
@@ -26047,8 +26047,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0740-tj41Nu6.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0740-tj41Nu6.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0740-tj41Nu6.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0740-tj41Nu6.gif",
   },
   {
     id: "1391",
@@ -26069,8 +26069,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1391-ykHcWme.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1391-ykHcWme.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1391-ykHcWme.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1391-ykHcWme.gif",
   },
   {
     id: "0741",
@@ -26093,8 +26093,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0741-gf3ZjB9.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0741-gf3ZjB9.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0741-gf3ZjB9.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0741-gf3ZjB9.gif",
   },
   {
     id: "0742",
@@ -26115,8 +26115,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0742-XDOiFns.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0742-XDOiFns.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0742-XDOiFns.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0742-XDOiFns.gif",
   },
   {
     id: "0743",
@@ -26139,8 +26139,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0743-Qa55kX1.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0743-Qa55kX1.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0743-Qa55kX1.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0743-Qa55kX1.gif",
   },
   {
     id: "2334",
@@ -26163,8 +26163,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2334-g376LuL.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2334-g376LuL.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2334-g376LuL.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2334-g376LuL.gif",
   },
   {
     id: "0744",
@@ -26188,8 +26188,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0744-9n2149Z.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0744-9n2149Z.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0744-9n2149Z.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0744-9n2149Z.gif",
   },
   {
     id: "1392",
@@ -26211,8 +26211,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1392-u0pLNgz.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1392-u0pLNgz.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1392-u0pLNgz.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1392-u0pLNgz.gif",
   },
   {
     id: "1496",
@@ -26233,8 +26233,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1496-REXmfVC.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1496-REXmfVC.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1496-REXmfVC.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1496-REXmfVC.gif",
   },
   {
     id: "0746",
@@ -26256,8 +26256,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0746-MzNnwx9.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0746-MzNnwx9.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0746-MzNnwx9.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0746-MzNnwx9.gif",
   },
   {
     id: "0747",
@@ -26281,8 +26281,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0747-Gpn4ADc.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0747-Gpn4ADc.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0747-Gpn4ADc.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0747-Gpn4ADc.gif",
   },
   {
     id: "0748",
@@ -26305,8 +26305,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0748-trqKQv2.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0748-trqKQv2.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0748-trqKQv2.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0748-trqKQv2.gif",
   },
   {
     id: "0749",
@@ -26328,8 +26328,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0749-1bQkKZK.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0749-1bQkKZK.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0749-1bQkKZK.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0749-1bQkKZK.gif",
   },
   {
     id: "1359",
@@ -26352,8 +26352,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1359-ZX9UZmj.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1359-ZX9UZmj.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1359-ZX9UZmj.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1359-ZX9UZmj.gif",
   },
   {
     id: "0750",
@@ -26376,8 +26376,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0750-Gu2rNJd.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0750-Gu2rNJd.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0750-Gu2rNJd.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0750-Gu2rNJd.gif",
   },
   {
     id: "0751",
@@ -26398,8 +26398,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0751-WcHl7ru.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0751-WcHl7ru.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0751-WcHl7ru.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0751-WcHl7ru.gif",
   },
   {
     id: "0752",
@@ -26422,8 +26422,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0752-UfePqpx.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0752-UfePqpx.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0752-UfePqpx.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0752-UfePqpx.gif",
   },
   {
     id: "0753",
@@ -26445,8 +26445,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0753-ETZfAbZ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0753-ETZfAbZ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0753-ETZfAbZ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0753-ETZfAbZ.gif",
   },
   {
     id: "0754",
@@ -26468,8 +26468,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0754-MY9P1WA.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0754-MY9P1WA.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0754-MY9P1WA.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0754-MY9P1WA.gif",
   },
   {
     id: "1433",
@@ -26494,8 +26494,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1433-lFhb2Rw.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1433-lFhb2Rw.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1433-lFhb2Rw.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1433-lFhb2Rw.gif",
   },
   {
     id: "3281",
@@ -26520,8 +26520,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3281-NNoHCEA.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3281-NNoHCEA.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3281-NNoHCEA.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3281-NNoHCEA.gif",
   },
   {
     id: "0755",
@@ -26547,8 +26547,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0755-ZuPXtCK.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0755-ZuPXtCK.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0755-ZuPXtCK.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0755-ZuPXtCK.gif",
   },
   {
     id: "0756",
@@ -26570,8 +26570,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0756-CqhoytW.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0756-CqhoytW.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0756-CqhoytW.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0756-CqhoytW.gif",
   },
   {
     id: "0757",
@@ -26593,8 +26593,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0757-5v7KYld.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0757-5v7KYld.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0757-5v7KYld.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0757-5v7KYld.gif",
   },
   {
     id: "0758",
@@ -26617,8 +26617,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0758-78VqWQK.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0758-78VqWQK.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0758-78VqWQK.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0758-78VqWQK.gif",
   },
   {
     id: "0759",
@@ -26641,8 +26641,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0759-ayAHcEm.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0759-ayAHcEm.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0759-ayAHcEm.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0759-ayAHcEm.gif",
   },
   {
     id: "0760",
@@ -26665,8 +26665,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0760-7zdxRTl.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0760-7zdxRTl.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0760-7zdxRTl.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0760-7zdxRTl.gif",
   },
   {
     id: "1434",
@@ -26693,8 +26693,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1434-RGLscZM.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1434-RGLscZM.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1434-RGLscZM.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1434-RGLscZM.gif",
   },
   {
     id: "1683",
@@ -26718,8 +26718,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1683-zILLZ98.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1683-zILLZ98.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1683-zILLZ98.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1683-zILLZ98.gif",
   },
   {
     id: "1625",
@@ -26742,8 +26742,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1625-yB9SvIF.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1625-yB9SvIF.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1625-yB9SvIF.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1625-yB9SvIF.gif",
   },
   {
     id: "1752",
@@ -26766,8 +26766,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1752-o8aOcrz.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1752-o8aOcrz.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1752-o8aOcrz.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1752-o8aOcrz.gif",
   },
   {
     id: "1626",
@@ -26789,8 +26789,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1626-QyO6Uma.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1626-QyO6Uma.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1626-QyO6Uma.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1626-QyO6Uma.gif",
   },
   {
     id: "0761",
@@ -26811,8 +26811,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0761-JGKowMS.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0761-JGKowMS.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0761-JGKowMS.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0761-JGKowMS.gif",
   },
   {
     id: "1360",
@@ -26835,8 +26835,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch to the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1360-Q4DSJPC.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1360-Q4DSJPC.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1360-Q4DSJPC.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1360-Q4DSJPC.gif",
   },
   {
     id: "1393",
@@ -26859,8 +26859,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1393-9GXrTE6.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1393-9GXrTE6.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1393-9GXrTE6.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1393-9GXrTE6.gif",
   },
   {
     id: "0762",
@@ -26881,8 +26881,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0762-nFUwqG6.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0762-nFUwqG6.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0762-nFUwqG6.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0762-nFUwqG6.gif",
   },
   {
     id: "0763",
@@ -26905,8 +26905,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0763-ywaNfuh.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0763-ywaNfuh.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0763-ywaNfuh.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0763-ywaNfuh.gif",
   },
   {
     id: "1394",
@@ -26929,8 +26929,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1394-Lsqrgh4.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1394-Lsqrgh4.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1394-Lsqrgh4.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1394-Lsqrgh4.gif",
   },
   {
     id: "1361",
@@ -26953,8 +26953,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1361-aaxA3cm.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1361-aaxA3cm.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1361-aaxA3cm.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1361-aaxA3cm.gif",
   },
   {
     id: "0764",
@@ -26978,8 +26978,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0764-zK8Fu1W.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0764-zK8Fu1W.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0764-zK8Fu1W.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0764-zK8Fu1W.gif",
   },
   {
     id: "1395",
@@ -27000,8 +27000,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch legs and repeat.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1395-0S75mYG.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1395-0S75mYG.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1395-0S75mYG.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1395-0S75mYG.gif",
   },
   {
     id: "0765",
@@ -27024,8 +27024,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0765-xUwnBMT.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0765-xUwnBMT.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0765-xUwnBMT.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0765-xUwnBMT.gif",
   },
   {
     id: "1426",
@@ -27047,8 +27047,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1426-B6dAO1t.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1426-B6dAO1t.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1426-B6dAO1t.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1426-B6dAO1t.gif",
   },
   {
     id: "0766",
@@ -27070,8 +27070,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0766-903mzG8.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0766-903mzG8.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0766-903mzG8.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0766-903mzG8.gif",
   },
   {
     id: "0767",
@@ -27093,8 +27093,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0767-OUQ0ZyW.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0767-OUQ0ZyW.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0767-OUQ0ZyW.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0767-OUQ0ZyW.gif",
   },
   {
     id: "0768",
@@ -27116,8 +27116,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch legs.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0768-wWFspEi.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0768-wWFspEi.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0768-wWFspEi.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0768-wWFspEi.gif",
   },
   {
     id: "0769",
@@ -27140,8 +27140,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0769-HsjbB1z.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0769-HsjbB1z.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0769-HsjbB1z.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0769-HsjbB1z.gif",
   },
   {
     id: "0770",
@@ -27166,8 +27166,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0770-jFtipLl.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0770-jFtipLl.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0770-jFtipLl.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0770-jFtipLl.gif",
   },
   {
     id: "0771",
@@ -27189,8 +27189,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0771-hfmQ0Tz.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0771-hfmQ0Tz.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0771-hfmQ0Tz.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0771-hfmQ0Tz.gif",
   },
   {
     id: "0772",
@@ -27215,8 +27215,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0772-ht8xDrP.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0772-ht8xDrP.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0772-ht8xDrP.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0772-ht8xDrP.gif",
   },
   {
     id: "0773",
@@ -27238,8 +27238,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0773-6MaEjVA.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0773-6MaEjVA.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0773-6MaEjVA.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0773-6MaEjVA.gif",
   },
   {
     id: "0774",
@@ -27261,8 +27261,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0774-jjUPrze.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0774-jjUPrze.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0774-jjUPrze.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0774-jjUPrze.gif",
   },
   {
     id: "3142",
@@ -27285,8 +27285,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3142-dzz6BiV.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3142-dzz6BiV.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3142-dzz6BiV.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3142-dzz6BiV.gif",
   },
   {
     id: "1396",
@@ -27310,8 +27310,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1396-Y4QlY8z.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1396-Y4QlY8z.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1396-Y4QlY8z.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1396-Y4QlY8z.gif",
   },
   {
     id: "0775",
@@ -27333,8 +27333,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0775-1DN3iz4.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0775-1DN3iz4.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0775-1DN3iz4.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0775-1DN3iz4.gif",
   },
   {
     id: "1308",
@@ -27357,8 +27357,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1308-zoOvPcx.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1308-zoOvPcx.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1308-zoOvPcx.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1308-zoOvPcx.gif",
   },
   {
     id: "1309",
@@ -27381,8 +27381,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1309-wi2H9QX.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1309-wi2H9QX.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1309-wi2H9QX.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1309-wi2H9QX.gif",
   },
   {
     id: "0776",
@@ -27407,8 +27407,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0776-dG5Smob.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0776-dG5Smob.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0776-dG5Smob.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0776-dG5Smob.gif",
   },
   {
     id: "0777",
@@ -27429,8 +27429,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0777-p9cCe2r.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0777-p9cCe2r.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0777-p9cCe2r.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0777-p9cCe2r.gif",
   },
   {
     id: "1362",
@@ -27451,8 +27451,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1362-DIVyqrU.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1362-DIVyqrU.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1362-DIVyqrU.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1362-DIVyqrU.gif",
   },
   {
     id: "0778",
@@ -27473,8 +27473,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0778-P9GFBME.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0778-P9GFBME.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0778-P9GFBME.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0778-P9GFBME.gif",
   },
   {
     id: "1363",
@@ -27496,8 +27496,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1363-JbC2iaV.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1363-JbC2iaV.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1363-JbC2iaV.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1363-JbC2iaV.gif",
   },
   {
     id: "2329",
@@ -27520,8 +27520,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2329-2jl9K55.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2329-2jl9K55.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2329-2jl9K55.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2329-2jl9K55.gif",
   },
   {
     id: "2368",
@@ -27543,8 +27543,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch legs and repeat.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2368-9E25EOx.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2368-9E25EOx.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2368-9E25EOx.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2368-9E25EOx.gif",
   },
   {
     id: "0786",
@@ -27567,8 +27567,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Lower the barbell back to your shoulders and repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0786-IMRsOCn.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0786-IMRsOCn.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0786-IMRsOCn.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0786-IMRsOCn.gif",
   },
   {
     id: "1705",
@@ -27591,8 +27591,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1705-T2fA5Ir.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1705-T2fA5Ir.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1705-T2fA5Ir.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1705-T2fA5Ir.gif",
   },
   {
     id: "1685",
@@ -27613,8 +27613,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1685-QChZi3x.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1685-QChZi3x.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1685-QChZi3x.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1685-QChZi3x.gif",
   },
   {
     id: "1686",
@@ -27635,8 +27635,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides with each squat repetition.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1686-5BZHW9s.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1686-5BZHW9s.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1686-5BZHW9s.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1686-5BZHW9s.gif",
   },
   {
     id: "2297",
@@ -27657,8 +27657,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2297-Gn5FwYT.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2297-Gn5FwYT.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2297-Gn5FwYT.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2297-Gn5FwYT.gif",
   },
   {
     id: "3291",
@@ -27680,8 +27680,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3291-zd4P4B2.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3291-zd4P4B2.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3291-zd4P4B2.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3291-zd4P4B2.gif",
   },
   {
     id: "3669",
@@ -27704,8 +27704,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3669-JF8AkMX.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3669-JF8AkMX.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3669-JF8AkMX.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3669-JF8AkMX.gif",
   },
   {
     id: "0788",
@@ -27726,8 +27726,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0788-xDh0lJr.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0788-xDh0lJr.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0788-xDh0lJr.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0788-xDh0lJr.gif",
   },
   {
     id: "1490",
@@ -27748,8 +27748,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1490-6HmFgmx.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1490-6HmFgmx.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1490-6HmFgmx.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1490-6HmFgmx.gif",
   },
   {
     id: "1397",
@@ -27769,8 +27769,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1397-XIHEoCG.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1397-XIHEoCG.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1397-XIHEoCG.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1397-XIHEoCG.gif",
   },
   {
     id: "1398",
@@ -27793,8 +27793,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat on the other leg.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1398-qOKcgVP.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1398-qOKcgVP.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1398-qOKcgVP.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1398-qOKcgVP.gif",
   },
   {
     id: "1599",
@@ -27817,8 +27817,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1599-xTjr103.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1599-xTjr103.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1599-xTjr103.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1599-xTjr103.gif",
   },
   {
     id: "0794",
@@ -27840,8 +27840,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0794-1jXLYEw.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0794-1jXLYEw.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0794-1jXLYEw.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0794-1jXLYEw.gif",
   },
   {
     id: "1364",
@@ -27862,8 +27862,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1364-cuKYxhu.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1364-cuKYxhu.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1364-cuKYxhu.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1364-cuKYxhu.gif",
   },
   {
     id: "0795",
@@ -27884,8 +27884,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch legs.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0795-C5jncD2.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0795-C5jncD2.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0795-C5jncD2.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0795-C5jncD2.gif",
   },
   {
     id: "0796",
@@ -27906,8 +27906,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0796-KtRomty.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0796-KtRomty.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0796-KtRomty.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0796-KtRomty.gif",
   },
   {
     id: "3314",
@@ -27928,8 +27928,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3314-HfqciZF.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3314-HfqciZF.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3314-HfqciZF.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3314-HfqciZF.gif",
   },
   {
     id: "3298",
@@ -27950,8 +27950,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3298-BL3GHeY.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3298-BL3GHeY.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3298-BL3GHeY.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3298-BL3GHeY.gif",
   },
   {
     id: "1427",
@@ -27972,8 +27972,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1427-mQ1tBXn.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1427-mQ1tBXn.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1427-mQ1tBXn.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1427-mQ1tBXn.gif",
   },
   {
     id: "0803",
@@ -27995,8 +27995,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0803-4GqRrAk.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0803-4GqRrAk.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0803-4GqRrAk.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0803-4GqRrAk.gif",
   },
   {
     id: "0805",
@@ -28018,8 +28018,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0805-X3TCNEU.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0805-X3TCNEU.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0805-X3TCNEU.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0805-X3TCNEU.gif",
   },
   {
     id: "0806",
@@ -28041,8 +28041,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0806-IaGQCrC.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0806-IaGQCrC.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0806-IaGQCrC.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0806-IaGQCrC.gif",
   },
   {
     id: "0807",
@@ -28062,8 +28062,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0807-R1WYG5D.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0807-R1WYG5D.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0807-R1WYG5D.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0807-R1WYG5D.gif",
   },
   {
     id: "0808",
@@ -28086,8 +28086,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0808-4OaumBr.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0808-4OaumBr.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0808-4OaumBr.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0808-4OaumBr.gif",
   },
   {
     id: "0809",
@@ -28108,8 +28108,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch legs.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0809-QpXqiq8.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0809-QpXqiq8.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0809-QpXqiq8.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0809-QpXqiq8.gif",
   },
   {
     id: "3433",
@@ -28130,8 +28130,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Lower your chest and legs back down to the starting position.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3433-SP3hUez.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3433-SP3hUez.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3433-SP3hUez.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3433-SP3hUez.gif",
   },
   {
     id: "1753",
@@ -28152,8 +28152,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1753-DQ0cqkT.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1753-DQ0cqkT.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1753-DQ0cqkT.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1753-DQ0cqkT.gif",
   },
   {
     id: "2459",
@@ -28176,8 +28176,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2459-oZjMu1t.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2459-oZjMu1t.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2459-oZjMu1t.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2459-oZjMu1t.gif",
   },
   {
     id: "0811",
@@ -28199,8 +28199,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0811-jQGwmxN.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0811-jQGwmxN.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0811-jQGwmxN.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0811-jQGwmxN.gif",
   },
   {
     id: "0814",
@@ -28221,8 +28221,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0814-X6C6i5Y.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0814-X6C6i5Y.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0814-X6C6i5Y.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0814-X6C6i5Y.gif",
   },
   {
     id: "0812",
@@ -28243,8 +28243,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0812-VuoerH0.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0812-VuoerH0.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0812-VuoerH0.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0812-VuoerH0.gif",
   },
   {
     id: "0813",
@@ -28265,8 +28265,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0813-Wgbn9qo.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0813-Wgbn9qo.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0813-Wgbn9qo.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0813-Wgbn9qo.gif",
   },
   {
     id: "0815",
@@ -28288,8 +28288,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0815-7aVz15j.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0815-7aVz15j.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0815-7aVz15j.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0815-7aVz15j.gif",
   },
   {
     id: "0816",
@@ -28310,8 +28310,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0816-fSrPP6B.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0816-fSrPP6B.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0816-fSrPP6B.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0816-fSrPP6B.gif",
   },
   {
     id: "0817",
@@ -28332,8 +28332,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Release the stretch and repeat on the other arm.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0817-uOV3Itw.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0817-uOV3Itw.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0817-uOV3Itw.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0817-uOV3Itw.gif",
   },
   {
     id: "0871",
@@ -28354,8 +28354,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0871-BMMolZ3.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0871-BMMolZ3.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0871-BMMolZ3.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0871-BMMolZ3.gif",
   },
   {
     id: "0818",
@@ -28379,8 +28379,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0818-rkg41Fb.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0818-rkg41Fb.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0818-rkg41Fb.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0818-rkg41Fb.gif",
   },
   {
     id: "1466",
@@ -28402,8 +28402,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating twists for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1466-AX1kB0o.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1466-AX1kB0o.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1466-AX1kB0o.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1466-AX1kB0o.gif",
   },
   {
     id: "2802",
@@ -28426,8 +28426,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2802-C0eCeEt.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2802-C0eCeEt.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2802-C0eCeEt.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2802-C0eCeEt.gif",
   },
   {
     id: "2801",
@@ -28449,8 +28449,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2801-yT9tk17.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2801-yT9tk17.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2801-yT9tk17.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2801-yT9tk17.gif",
   },
   {
     id: "3231",
@@ -28471,8 +28471,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3231-p195zsJ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3231-p195zsJ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3231-p195zsJ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3231-p195zsJ.gif",
   },
   {
     id: "1365",
@@ -28494,8 +28494,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Hold the stretch for 15-30 seconds, then release and repeat.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1365-GSDioYu.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1365-GSDioYu.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1365-GSDioYu.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1365-GSDioYu.gif",
   },
   {
     id: "1366",
@@ -28517,8 +28517,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1366-01qpYSe.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1366-01qpYSe.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1366-01qpYSe.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1366-01qpYSe.gif",
   },
   {
     id: "3420",
@@ -28539,8 +28539,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3420-ZuXu4Eq.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3420-ZuXu4Eq.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3420-ZuXu4Eq.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3420-ZuXu4Eq.gif",
   },
   {
     id: "0826",
@@ -28561,8 +28561,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0826-ZNgOYQU.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0826-ZNgOYQU.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0826-ZNgOYQU.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0826-ZNgOYQU.gif",
   },
   {
     id: "1460",
@@ -28584,8 +28584,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1460-IZVHb27.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1460-IZVHb27.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1460-IZVHb27.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1460-IZVHb27.gif",
   },
   {
     id: "0830",
@@ -28606,8 +28606,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0830-MU9HnE7.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0830-MU9HnE7.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0830-MU9HnE7.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0830-MU9HnE7.gif",
   },
   {
     id: "2987",
@@ -28629,8 +28629,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2987-Gk1r408.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2987-Gk1r408.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2987-Gk1r408.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2987-Gk1r408.gif",
   },
   {
     id: "3643",
@@ -28652,8 +28652,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat on the other side, alternating between legs.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3643-GWoKnIm.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3643-GWoKnIm.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3643-GWoKnIm.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3643-GWoKnIm.gif",
   },
   {
     id: "0832",
@@ -28674,8 +28674,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0832-s8nrDXF.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0832-s8nrDXF.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0832-s8nrDXF.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0832-s8nrDXF.gif",
   },
   {
     id: "3670",
@@ -28696,8 +28696,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3670-EZeDVzO.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3670-EZeDVzO.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3670-EZeDVzO.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3670-EZeDVzO.gif",
   },
   {
     id: "0833",
@@ -28718,8 +28718,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0833-LmaFNZS.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0833-LmaFNZS.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0833-LmaFNZS.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0833-LmaFNZS.gif",
   },
   {
     id: "1310",
@@ -28742,8 +28742,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating between the wider and narrower hand positions for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1310-PSlvNMs.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1310-PSlvNMs.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1310-PSlvNMs.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1310-PSlvNMs.gif",
   },
   {
     id: "2135",
@@ -28767,8 +28767,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2135-VBAWRPG.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2135-VBAWRPG.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2135-VBAWRPG.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2135-VBAWRPG.gif",
   },
   {
     id: "0834",
@@ -28788,8 +28788,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0834-e4aFmFY.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0834-e4aFmFY.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0834-e4aFmFY.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0834-e4aFmFY.gif",
   },
   {
     id: "0866",
@@ -28810,8 +28810,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0866-QOA0FD0.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0866-QOA0FD0.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0866-QOA0FD0.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0866-QOA0FD0.gif",
   },
   {
     id: "0835",
@@ -28832,8 +28832,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0835-8urJS9b.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0835-8urJS9b.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0835-8urJS9b.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0835-8urJS9b.gif",
   },
   {
     id: "3641",
@@ -28853,8 +28853,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Lower the weights back down to the starting position and repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3641-7uFJuXp.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3641-7uFJuXp.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3641-7uFJuXp.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3641-7uFJuXp.gif",
   },
   {
     id: "3644",
@@ -28875,8 +28875,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat with your left foot and continue alternating legs for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3644-5WiFcYk.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3644-5WiFcYk.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3644-5WiFcYk.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3644-5WiFcYk.gif",
   },
   {
     id: "3286",
@@ -28898,8 +28898,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3286-JsOV1SU.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3286-JsOV1SU.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3286-JsOV1SU.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3286-JsOV1SU.gif",
   },
   {
     id: "3312",
@@ -28921,8 +28921,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3312-MCkqdKE.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3312-MCkqdKE.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3312-MCkqdKE.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3312-MCkqdKE.gif",
   },
   {
     id: "3290",
@@ -28944,8 +28944,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3290-fXfqg1E.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3290-fXfqg1E.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3290-fXfqg1E.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3290-fXfqg1E.gif",
   },
   {
     id: "0840",
@@ -28966,8 +28966,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0840-xmM75XG.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0840-xmM75XG.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0840-xmM75XG.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0840-xmM75XG.gif",
   },
   {
     id: "0841",
@@ -28989,8 +28989,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0841-HMzLjXx.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0841-HMzLjXx.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0841-HMzLjXx.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0841-HMzLjXx.gif",
   },
   {
     id: "0844",
@@ -29012,8 +29012,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0844-VLYXo8S.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0844-VLYXo8S.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0844-VLYXo8S.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0844-VLYXo8S.gif",
   },
   {
     id: "0846",
@@ -29035,8 +29035,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0846-fZFZ704.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0846-fZFZ704.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0846-fZFZ704.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0846-fZFZ704.gif",
   },
   {
     id: "0845",
@@ -29058,8 +29058,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0845-WU9BLIs.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0845-WU9BLIs.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0845-WU9BLIs.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0845-WU9BLIs.gif",
   },
   {
     id: "2371",
@@ -29081,8 +29081,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2371-YIUAtYf.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2371-YIUAtYf.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2371-YIUAtYf.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2371-YIUAtYf.gif",
   },
   {
     id: "0847",
@@ -29104,8 +29104,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0847-b4b6afT.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0847-b4b6afT.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0847-b4b6afT.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0847-b4b6afT.gif",
   },
   {
     id: "0849",
@@ -29127,8 +29127,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating sides for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0849-s34Y4LR.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0849-s34Y4LR.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0849-s34Y4LR.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0849-s34Y4LR.gif",
   },
   {
     id: "0850",
@@ -29149,8 +29149,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions, then switch sides.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0850-6bOA1Oi.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0850-6bOA1Oi.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0850-6bOA1Oi.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0850-6bOA1Oi.gif",
   },
   {
     id: "0851",
@@ -29172,8 +29172,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0851-0lQnxMZ.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0851-0lQnxMZ.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0851-0lQnxMZ.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0851-0lQnxMZ.gif",
   },
   {
     id: "0852",
@@ -29195,8 +29195,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0852-JZuApnB.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0852-JZuApnB.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0852-JZuApnB.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0852-JZuApnB.gif",
   },
   {
     id: "0853",
@@ -29216,8 +29216,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0853-M5Y7GPg.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0853-M5Y7GPg.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0853-M5Y7GPg.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0853-M5Y7GPg.gif",
   },
   {
     id: "0854",
@@ -29238,8 +29238,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0854-bjqbauy.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0854-bjqbauy.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0854-bjqbauy.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0854-bjqbauy.gif",
   },
   {
     id: "3313",
@@ -29259,8 +29259,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3313-Ff18ItA.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3313-Ff18ItA.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3313-Ff18ItA.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3313-Ff18ItA.gif",
   },
   {
     id: "3642",
@@ -29282,8 +29282,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue alternating legs for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/3642-13VW2VO.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/3642-13VW2VO.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/3642-13VW2VO.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/3642-13VW2VO.gif",
   },
   {
     id: "0856",
@@ -29304,8 +29304,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0856-I1OBLnn.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0856-I1OBLnn.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0856-I1OBLnn.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0856-I1OBLnn.gif",
   },
   {
     id: "1754",
@@ -29326,8 +29326,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1754-gtO1ErP.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1754-gtO1ErP.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1754-gtO1ErP.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1754-gtO1ErP.gif",
   },
   {
     id: "1755",
@@ -29349,8 +29349,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1755-bZq4bwK.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1755-bZq4bwK.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1755-bZq4bwK.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1755-bZq4bwK.gif",
   },
   {
     id: "1767",
@@ -29370,8 +29370,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1767-K1vlode.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1767-K1vlode.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1767-K1vlode.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1767-K1vlode.gif",
   },
   {
     id: "0857",
@@ -29393,8 +29393,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0857-NAgVB3t.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0857-NAgVB3t.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0857-NAgVB3t.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0857-NAgVB3t.gif",
   },
   {
     id: "1429",
@@ -29415,8 +29415,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1429-Qqi7bko.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1429-Qqi7bko.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1429-Qqi7bko.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1429-Qqi7bko.gif",
   },
   {
     id: "1367",
@@ -29438,8 +29438,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1367-OYFhXVD.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1367-OYFhXVD.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1367-OYFhXVD.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1367-OYFhXVD.gif",
   },
   {
     id: "1311",
@@ -29460,8 +29460,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1311-JmMVpR3.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1311-JmMVpR3.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1311-JmMVpR3.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1311-JmMVpR3.gif",
   },
   {
     id: "2363",
@@ -29481,8 +29481,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/2363-O2K9Vb5.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/2363-O2K9Vb5.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/2363-O2K9Vb5.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/2363-O2K9Vb5.gif",
   },
   {
     id: "0858",
@@ -29503,8 +29503,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Rest and repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0858-Qoujh3Q.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0858-Qoujh3Q.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0858-Qoujh3Q.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0858-Qoujh3Q.gif",
   },
   {
     id: "1604",
@@ -29526,8 +29526,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Switch sides and repeat the stretch with your left foot forward.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1604-DFGXwZr.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1604-DFGXwZr.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1604-DFGXwZr.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1604-DFGXwZr.gif",
   },
   {
     id: "1428",
@@ -29547,8 +29547,8 @@ export const datasetExercises: DatasetExercise[] = [
       "Continue the wrist circles for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/1428-2zNKRUB.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/1428-2zNKRUB.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/1428-2zNKRUB.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/1428-2zNKRUB.gif",
   },
   {
     id: "0859",
@@ -29570,7 +29570,7 @@ export const datasetExercises: DatasetExercise[] = [
       "Repeat for the desired number of repetitions.",
     ],
     image:
-      "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/images/0859-bd5b860.jpg",
-    gif: "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0859-bd5b860.gif",
+      "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/0859-bd5b860.jpg",
+    gif: "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/0859-bd5b860.gif",
   },
 ];

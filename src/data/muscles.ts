@@ -2166,3 +2166,12 @@ export function loadExerciseCatalog(): Promise<Muscle[]> {
 export function getExercisesForMuscle(id: string): Exercise[] | undefined {
   return muscles.find((m) => m.id === id)?.exercises;
 }
+
+/**
+ * Secondary mirror for dataset media. Media is served from jsDelivr at a pinned
+ * commit; if the CDN fails, the same file is fetched from GitHub raw.
+ */
+export function mediaFallbackUrl(url: string): string | null {
+  const match = /^https:\/\/cdn\.jsdelivr\.net\/gh\/([^/]+\/[^@/]+)@([^/]+)\/(.+)$/.exec(url);
+  return match ? `https://raw.githubusercontent.com/${match[1]}/${match[2]}/${match[3]}` : null;
+}

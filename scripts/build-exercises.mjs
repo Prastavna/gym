@@ -15,8 +15,13 @@ import { fileURLToPath } from "node:url";
 import { dirname, resolve } from "node:path";
 
 const REPO = "hasaneyldrm/exercises-dataset";
-const BRANCH = "main";
-const RAW_BASE = `https://raw.githubusercontent.com/${REPO}/${BRANCH}`;
+// Pinned upstream commit. Media URLs are immutable at a fixed SHA, so upstream
+// renames/deletions on `main` can't break the app. Bump deliberately.
+const COMMIT = "7455efae41b330c265e7cd4b78dfa848e7ce5ebd";
+const RAW_BASE = `https://raw.githubusercontent.com/${REPO}/${COMMIT}`;
+// Media is served via jsDelivr (cached CDN in front of GitHub); the app falls
+// back to RAW_BASE if the CDN fails (see mediaFallbackUrl in muscles.ts).
+const MEDIA_BASE = `https://cdn.jsdelivr.net/gh/${REPO}@${COMMIT}`;
 const DATASET_URL = `${RAW_BASE}/data/exercises.json`;
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -111,8 +116,8 @@ function normalise(raw) {
       difficulty: difficultyFor(ex.equipment),
       description,
       steps,
-      image: ex.image ? `${RAW_BASE}/${ex.image}` : null,
-      gif: ex.gif_url ? `${RAW_BASE}/${ex.gif_url}` : null,
+      image: ex.image ? `${MEDIA_BASE}/${ex.image}` : null,
+      gif: ex.gif_url ? `${MEDIA_BASE}/${ex.gif_url}` : null,
     });
   }
   return out;

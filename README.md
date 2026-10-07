@@ -46,9 +46,15 @@ animated demos, © [Gym Visual](https://gymvisual.com/)).
 - The dataset carries no difficulty rating, so difficulty is derived from
   equipment (bodyweight → beginner, machines → intermediate, barbell/weighted →
   advanced).
-- Thumbnails and animated GIFs are served straight from GitHub raw URLs; no
-  media is vendored into the repo. Clicking a thumbnail opens the animated demo
-  and instructions in a modal.
+- Thumbnails and animated GIFs are hotlinked, not vendored: the media is
+  © Gym Visual and its terms forbid redistribution without their written
+  consent. To survive upstream changes, URLs are pinned to a fixed upstream
+  commit (`COMMIT` in `scripts/build-exercises.mjs`) and served via jsDelivr,
+  falling back to GitHub raw, then to a placeholder (`ExerciseMedia.vue`), so
+  the catalog and instructions keep working even if all media is unreachable.
+  The service worker also caches media a user has already viewed
+  (`exercise-media` cache in `vite.config.ts`).
+  Clicking a thumbnail opens the animated demo and instructions in a modal.
 - The dataset is **code-split** into its own chunk and loaded on demand
   (`loadExerciseCatalog()` in `src/data/muscles.ts`, wired through the
   `useExerciseCatalog` composable). The app first paints with the curated
@@ -59,7 +65,7 @@ The generated data lives in `src/data/exercises.dataset.ts` (auto-generated —
 do not edit by hand). Regenerate it with:
 
 ```bash
-node scripts/build-exercises.mjs            # downloads the latest dataset
+node scripts/build-exercises.mjs            # downloads the dataset at the pinned commit
 node scripts/build-exercises.mjs ./exercises.json   # or build from a local copy
 ```
 

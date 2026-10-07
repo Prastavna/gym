@@ -20,6 +20,22 @@ export default defineConfig({
         "appstore-images/android/launchericon-512x512.png",
         "appstore-images/ios/180.png",
       ],
+      workbox: {
+        // Exercise media is pinned to an immutable upstream commit, so once a
+        // user has seen a demo it keeps working offline / if the source is down.
+        runtimeCaching: [
+          {
+            urlPattern:
+              /^https:\/\/(cdn\.jsdelivr\.net\/gh\/hasaneyldrm\/exercises-dataset@|raw\.githubusercontent\.com\/hasaneyldrm\/exercises-dataset\/)[0-9a-f]{40}\//,
+            handler: "CacheFirst",
+            options: {
+              cacheName: "exercise-media",
+              expiration: { maxEntries: 300, maxAgeSeconds: 60 * 60 * 24 * 365 },
+              cacheableResponse: { statuses: [200] },
+            },
+          },
+        ],
+      },
       manifest: {
         name: "gym | prastavna",
         short_name: "gym | prastavna",

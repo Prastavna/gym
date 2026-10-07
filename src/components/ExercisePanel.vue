@@ -4,6 +4,7 @@ import type { Exercise } from "../data/muscles";
 import RestTimer from "./RestTimer.vue";
 import ExercisePanelToolbar from "./ExercisePanelToolbar.vue";
 import AppDialog from "./AppDialog.vue";
+import ExerciseMedia from "./ExerciseMedia.vue";
 import { useFavourites } from "../composables/useFavourites";
 import { usePersonalRecords } from "../composables/usePersonalRecords";
 
@@ -187,7 +188,7 @@ const filteredExercises = computed(() => {
                 :aria-label="`View demo for ${exercise.name}`"
                 @click="openMedia(exercise)"
               >
-                <img
+                <ExerciseMedia
                   :src="exercise.image"
                   :alt="exercise.name"
                   loading="lazy"
@@ -282,8 +283,8 @@ const filteredExercises = computed(() => {
       @close="mediaExercise = null"
     >
       <div class="p-6">
-        <img
-          :src="mediaExercise.gif ?? mediaExercise.image ?? ''"
+        <ExerciseMedia
+          :src="mediaExercise.gif ?? mediaExercise.image"
           :alt="`${mediaExercise.name} demonstration`"
           class="mx-auto w-full max-w-sm rounded-xl border border-gray-200 bg-gray-50"
         />
